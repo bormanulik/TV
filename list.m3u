@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-name="Обновление от 04.11.2024" tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png" group-title="Инфо", Обновление от 04.11.2024
+#EXTINF:-1 tvg-name="Обновление от 05.11.2024" tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png" group-title="Инфо", Обновление от 05.11.2024
 #EXTGRP:Инфо
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="zvezda" tvg-name="Звезда HD" tvg-logo="https://app.playlistbox.com/icon/yWKm9lLEGakqPMQNpzZBOnNdRr06XV32.png" group-title="Эфирные", Звезда HD
@@ -255,18 +255,12 @@ http://91.194.191.241:8081/chid30/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Драйв" tvg-logo="https://app.playlistbox.com/icon/yX2d9PpDYbRjeqxRGNMn5k71JNgAKrml.png" group-title="Познавательные", Драйв
 #EXTGRP:Познавательные
 http://91.194.191.241:8081/chid148/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="usadba" tvg-name="Усадьба" tvg-logo="https://app.playlistbox.com/icon/pYgKnX27GlDPdkZGvEMV6AOrqyjw9z1W.png" group-title="Познавательные", Усадьба
-#EXTGRP:Познавательные
-http://93.125.121.75:80/Usadba/index.m3u8?token=test
 #EXTINF:-1 tvg-id="bbc" tvg-name="BBC World News" tvg-logo="https://app.playlistbox.com/icon/vQ97O6Vp54NE2yxm40oLKe3Pjln8qJAm.png" group-title="Познавательные", BBC World News
 #EXTGRP:Познавательные
 http://stream2.cinerama.uz/1251/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="france-24" tvg-name="France 24" tvg-logo="https://app.playlistbox.com/icon/R8gDbA7qlEn341oyp8ZGdyX9vwPLOWm5.png" group-title="Познавательные", France 24
 #EXTGRP:Познавательные
 http://stream2.cinerama.uz/1241/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="curiosity-stream" tvg-name="Curiosity Stream HD" tvg-logo="https://app.playlistbox.com/icon/82YEm9Vw51D0poVBvEoNr4jQPOGd7KJb.png" group-title="Познавательные", Curiosity Stream HD
-#EXTGRP:Познавательные
-http://88.218.242.237:8000/play/a00j
 #EXTINF:-1 tvg-name="Дикая охота" tvg-logo="https://app.playlistbox.com/icon/byYJGdpa7X3k5mZdOXMrv4jR21qgEADK.png" group-title="Познавательные", Дикая охота
 #EXTGRP:Познавательные
 http://stream01.vnet.am/Channel_127/mono.m3u8
@@ -564,9 +558,6 @@ https://stream-msk-04.ott.tricolor.tv/dtv/id590_MSKSG-PVR-1--Nasha_Tema/04/plst.
 #EXTINF:-1 tvg-name="Оружие" tvg-logo="https://app.playlistbox.com/icon/pYgKnX27GlDPdkZGEbxV6AOrqyjw9z1W.png" group-title="Познавательные", Оружие
 #EXTGRP:Познавательные
 https://stream-msk-08.ott.tricolor.tv:443/dtv/id369_MSKSG-PVR-1--Oruzhie/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
-#EXTINF:-1 tvg-id="usadba" tvg-name="Усадьба" tvg-logo="https://app.playlistbox.com/icon/pYgKnX27GlDPdkZGvEMV6AOrqyjw9z1W.png" group-title="Познавательные", Усадьба
-#EXTGRP:Познавательные
-http://93.125.121.75:80/Usadba/index.m3u8?token=test
 #EXTINF:-1 tvg-id="silkway" tvg-name="Silk Way" tvg-logo="https://app.playlistbox.com/icon/NqyYR0G5WKaBVxbj4Qx9wmD7pjLP28OE.png" group-title="Познавательные", Silk Way
 #EXTGRP:Познавательные
 https://live-mirror-19.ott.tricolor.tv/dtv/id969_MSKSG-PVR-1--Silk_Way_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
@@ -635,22 +626,22 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1--TravelplusAdventu
 http://ott.server-iptv.live/447/video.m3u8?token=M4f082ab4c
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Galaxy TV" tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4D4yxw1B4J20a7VGdn.png" group-title="Познавательные", Galaxy TV
 #EXTGRP:Познавательные
-http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Zooпарк" tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLvGRZQjNld35WLBJ1w.png" group-title="Познавательные", Zooпарк
 #EXTGRP:Познавательные
-http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Москва-24" tvg-logo="https://app.playlistbox.com/icon/r1VewAOEpa7GKmZkpOoQzj3nX6k098Rl.png" group-title="Познавательные", Москва-24
 #EXTGRP:Познавательные
-http://api.peers.tv/timeshift/moskva_24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/moskva_24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="НТС" tvg-logo="https://app.playlistbox.com/icon/Bn6p4Ke1N5rV8ZWB5JMDl0bAWz7dvkJR.png" group-title="Познавательные", НТС
 #EXTGRP:Познавательные
-http://api.peers.tv/timeshift/nts/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/nts/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Русский Экстрим" tvg-logo="https://app.playlistbox.com/icon/Q97O6Vp54NE2yxmNAqMLKe3Pjln8qJAm.png" group-title="Познавательные", Русский Экстрим
 #EXTGRP:Познавательные
-http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Центральное телевидение" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7K1ZArgRlD9de8NWP.png" group-title="Познавательные", Центральное телевидение
 #EXTGRP:Познавательные
-http://api.peers.tv/timeshift/tvc_ctv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/tvc_ctv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 tvg-name="RTG" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpNPZwb4Gle19kPLKn.png" group-title="Познавательные", RTG
 #EXTGRP:Познавательные
 http://31.210.208.171:8080/rtg/index.m3u8?token=+W2MSER
@@ -987,18 +978,12 @@ http://65.21.85.175:8000/play/a01f/index.m3u8?token=livetv
 #EXTINF:-1 tvg-name="Amedia 2 HD" tvg-logo="https://app.playlistbox.com/icon/PBn6p4Ke1N5rV8ZWwJZDl0bAWz7dvkJR.png" group-title="Кино и сериалы", Amedia 2 HD
 #EXTGRP:Кино и сериалы
 http://45.143.108.104/AMEDIA2_HD/index.m3u8
-#EXTINF:-1 tvg-name="Amedia Hit HD" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo2RPol2Qpvy9L6KJa3.png" group-title="Кино и сериалы", Amedia Hit HD
-#EXTGRP:Кино и сериалы
-http://93.125.121.75:80/AMEDIAHIT/index.m3u8?token=test
 #EXTINF:-1 tvg-id="tv1000-worldkino" tvg-name="Viasat Kino World" tvg-logo="https://app.playlistbox.com/icon/lRXp9zJO7B0WeZ13yrx68y35DwQnGrjA.png" group-title="Кино и сериалы", Viasat Kino World
 #EXTGRP:Кино и сериалы
 https://wowza1.leisertv.com/live/tv1000russiakino.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Кинохит" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDyYxAXpwKq5mPJvV9.png" group-title="Кино и сериалы", Кинохит
 #EXTGRP:Кино и сериалы
 http://stream2.cinerama.uz/1055/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt Россия" tvg-logo="https://app.playlistbox.com/icon/8gDbA7qlEn341oybDnxGdyX9vwPLOWm5.png" group-title="Кино и сериалы", Bolt Россия
-#EXTGRP:Кино и сериалы
-http://93.125.121.75:80/BOLT/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Amedia 1" group-title="Кино и сериалы", Amedia 1
 #EXTGRP:Кино и сериалы
 http://77.235.1.17/amedia1/index.m3u8
@@ -1271,7 +1256,7 @@ http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1 tvg-id="atv-kinoman" tvg-name="ATV Kinoman" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeqegZVW8J7GyvOXld6.png" group-title="Кино и сериалы", ATV Kinoman
 #EXTGRP:Кино и сериалы
-http://stream02.vnet.am/Kinoman/tracks-v1a1/mono.m3u8
+http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="kinojam1" tvg-name="Kinojam 1 HD" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9zkvMREnk3GBgNLKQX.png" group-title="Кино и сериалы", Kinojam 1 HD
 #EXTGRP:Кино и сериалы
 http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
@@ -1485,27 +1470,24 @@ https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-name="Кинозалы 9" tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" group-title="Кино и сериалы", Кинозалы 9
 #EXTGRP:Кино и сериалы
 https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Cinema Космос ТВ HD BY" tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZGR9NMV6AOrqyjw9z1W.png" group-title="Кино и сериалы", Cinema Космос ТВ HD BY
-#EXTGRP:Кино и сериалы
-http://93.125.121.75:80/CinemaTV/index.m3u8?token=test
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="FILMBOX" tvg-logo="https://app.playlistbox.com/icon/Gl5gOW7dpJq9LRZAB5oEkNQX2Bn6V1bA.png" group-title="Кино и сериалы", FILMBOX
 #EXTGRP:Кино и сериалы
-http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Filmbox Arthouse" tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxNAjoYOLbBln3EQNrP.png" group-title="Кино и сериалы", Filmbox Arthouse
 #EXTGRP:Кино и сериалы
-http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Timeless Dizi Channel" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goa7O6MXVmPjYb7BWK4E.png" group-title="Кино и сериалы", Timeless Dizi Channel
 #EXTGRP:Кино и сериалы
-http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="TV1000 Action" tvg-logo="https://app.playlistbox.com/icon/3JdNBAn1Kmr52ZKKO9Z9qgWpjewz6vyk.png" group-title="Кино и сериалы", TV1000 Action
 #EXTGRP:Кино и сериалы
-http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Киносат" tvg-logo="https://app.playlistbox.com/icon/PBn6p4Ke1N5rV8ZWgdZDl0bAWz7dvkJR.png" group-title="Кино и сериалы", Киносат
 #EXTGRP:Кино и сериалы
-http://api.peers.tv/timeshift/kinosat/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/kinosat/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Мир сериала" tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxXwvozy8dek2wvP5gW.png" group-title="Кино и сериалы", Мир сериала
 #EXTGRP:Кино и сериалы
-http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 tvg-name="BCU Cinema HD" group-title="Кино и сериалы", BCU Cinema HD
 #EXTGRP:Кино и сериалы
 http://diamond.8kott.xyz:80/play/live.php?mac=00:1A:79:bb:ee:9e&stream=493326&extension=ts
@@ -1662,13 +1644,13 @@ https://stream2.cinerama.uz/1425/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Капитан Фантастика" tvg-logo="https://app.playlistbox.com/icon/38qNz762JY5OD9x0yaMPn1eAa4GyvL0V.png" group-title="Детские", Капитан Фантастика
 #EXTGRP:Детские
-http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Сказки Зайки" tvg-logo="https://app.playlistbox.com/icon/yYJGdpa7X3k5mZd40JZrv4jR21qgEADK.png" group-title="Детские", Сказки Зайки
 #EXTGRP:Детские
-http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Советские мультфильмы" tvg-logo="https://app.playlistbox.com/icon/V5EYdPgA0beWmo2Pm0Ml2Qpvy9L6KJa3.png" group-title="Детские", Советские мультфильмы
 #EXTGRP:Детские
-http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA3NTA0MjksImlhdCI6MTczMDY2NDAyOSwiY2lkIjo2LCJ1aWQiOjg1MTU0MTMyNiwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.5inzXMN5V-OCl5-WGF1lozD-eTrO8lMXtMIi0WNspvs&offset=10
+http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzA4MzY5NTIsImlhdCI6MTczMDc1MDU1MiwiY2lkIjo2LCJ1aWQiOjg1MTk2ODg1MywicmVnIjpmYWxzZSwiaXAiOjE3NDY3MTk4ODUsImFkdWx0IjpmYWxzZX0.oLDLpKoSxDHC-4k80_PBWl3_c42r_I99Va0hZ5C8BQs&offset=10
 #EXTINF:-1 tvg-name="4KIDS" tvg-logo="https://files.taurer.org/iptv_content/assets/ru/4KIDS_TEMP.png" group-title="Детские", 4KIDS
 #EXTGRP:Детские
 http://jordan.a-media.one:80/99qn6WbBPj/QHvjRgtxjN/7.m3u8
@@ -1918,9 +1900,6 @@ http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8?token=test
 #EXTINF:-1 tvg-name="BRIDGE TV ШЛЯГЕР" group-title="Музыкальные", BRIDGE TV ШЛЯГЕР
 #EXTGRP:Музыкальные
 http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test
-#EXTINF:-1 tvg-name="Mezzo Live HD" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8P4x1ELBXGWRzPQ0A.png" group-title="Музыкальные", Mezzo Live HD
-#EXTGRP:Музыкальные
-http://93.125.121.75:80/MezzoLiveHD/index.m3u8?token=test
 #EXTINF:-1 tvg-name="Удар" tvg-logo="https://app.playlistbox.com/icon/3JdNBAn1Kmr52ZKeD9x9qgWpjewz6vyk.png" group-title="Спортивные", Удар
 #EXTGRP:Спортивные
 #EXTVLCOPT:http-user-agent=Lavf53.5.0
@@ -5748,12 +5727,6 @@ http://live-stream-20.ott.tricolor.tv/live/live/tnt_hd/hls_enc/tnt_hd-avc1_20000
 #EXTINF:-1 tvg-name="365 дней" group-title="Познавательные", 365 дней
 #EXTGRP:Познавательные
 http://93.189.224.24/365dney/index.m3u8
-#EXTINF:-1 tvg-name="Viasat Nature HD" group-title="Познавательные", Viasat Nature HD
-#EXTGRP:Познавательные
-https://livetv.mylifeisgood.net.ru/channels/viju-nature.m3u8
-#EXTINF:-1 tvg-name="Viasat Explore HD" group-title="Познавательные", Viasat Explore HD
-#EXTGRP:Познавательные
-https://livetv.mylifeisgood.net.ru/channels/viju-explorer.m3u8
 #EXTINF:-1 tvg-id="gags-network" tvg-name="Gags Network HD" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9PW6oREnk3GBgNLKQX.png" group-title="Развлекательные", Gags Network HD
 #EXTGRP:Развлекательные
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTE4MjQyMywiaHdpZCI6ImNjYzA3NDI5MDU3ODZlZmU5YjBiMGEyNjc0ZjE4NzNjZjU4ZDFkOTE0ODdmNmVlYzFkOWYxYjFkNmM0MjFjYTkiLCJsYXN0X3JlcV9kYXRlIjoxNzMwNTc3NjIzLCJzZXNzaW9uX2lkIjoiZGRjNWJmNDk2NzkxNzFhOTQ4MWIxNDgwZTIyZWZmNWYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.vDoXsdaMigc-RA_y4INmQjwAvpqrUKHPGggolTq7M38
@@ -5877,9 +5850,6 @@ http://77.160.58.67:8003/play/a022
 #EXTINF:-1 tvg-name="ОККО ФУТБОЛ HD" tvg-logo="https://app.playlistbox.com/icon/Yw9lbPDOG1VRKZ5rK3oe8pm3LXjzgkQ2.png" group-title="Спортивные", ОККО ФУТБОЛ HD
 #EXTGRP:Спортивные
 http://158.101.214.187:8080/channel/n2388d82c/index.m3u8?q=443d5edac354972a97f67425879f54e1
-#EXTINF:-1 tvg-name="ESPN 3" group-title="Спортивные", ESPN 3
-#EXTGRP:Спортивные
-http://77.160.58.67:8001/play/a01k
 #EXTINF:-1 tvg-name="ESPN 4" group-title="Спортивные", ESPN 4
 #EXTGRP:Спортивные
 http://77.160.58.67:8003/play/a023
@@ -5916,3 +5886,15 @@ rtmp://92.119.88.58//2362
 #EXTINF:-1 tvg-name="Sport 5 Stars HD IL" tvg-logo="https://app.playlistbox.com/icon/PkNpg4maGY0QJolQzExWLRnbqy328jAv.png" group-title="Спортивные", Sport 5 Stars HD IL
 #EXTGRP:Спортивные
 rtmp://92.119.88.58//2391
+#EXTINF:-1 tvg-name="Усадьба" group-title="Познавательные", Усадьба
+#EXTGRP:Познавательные
+http://91.194.191.241:8081/chid32/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="VIASAT Explore" group-title="Познавательные", VIASAT Explore
+#EXTGRP:Познавательные
+http://91.194.191.241:8081/chid106/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="VIASAT History" group-title="Познавательные", VIASAT History
+#EXTGRP:Познавательные
+http://91.194.191.241:8081/chid105/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature" group-title="Познавательные", Viasat Nature
+#EXTGRP:Познавательные
+http://91.194.191.241:8081/chid428/tracks-v1a1/mono.m3u8
