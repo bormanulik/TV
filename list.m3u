@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-name="Хостинг PlayListBox заявил о прекращении своей работы." tvg-logo="https://disk.yandex.ru/i/zVWuDgFcwEtMbA" group-title="Внимание!!!", Хостинг PlayListBox заявил о прекращении своей работы.
 #EXTINF:-1 tvg-name="Обновление от 06.11.2024" tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png" group-title="Инфо", Обновление от 06.11.2024
 #EXTGRP:Инфо
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
