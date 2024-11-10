@@ -114,6 +114,18 @@ https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
 #EXTINF:-1 tvg-name="Суббота!" tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxRLwGZn5k71JNgAKrml.png" group-title="Эфирные", Суббота!
 #EXTGRP:Эфирные
 http://185.23.80.28:8080/Super/index.m3u8?token=test
+#EXTINF:-1 tvg-id="otr" tvg-name="ОТР HD" tvg-logo="https://iptvx.one/picons/otr.png" group-title="Эфирные", ОТР HD
+#EXTGRP:Эфирные
+http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=otr.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="tvcentr" tvg-name="ТВ Центр HD" tvg-logo="https://app.playlistbox.com/icon/y75Aja1n0b8YJZE8pbMOpLmdwRrqXgvP.png" group-title="Эфирные", ТВ Центр HD
+#EXTGRP:Эфирные
+https://live-mirror-01.ott.tricolor.tv/live/live/TV_Center_HD/hls_enc/TV_Center_HD.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="super" tvg-name="СУББОТА! HD" tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxRLwGZn5k71JNgAKrml.png" group-title="Эфирные", СУББОТА! HD
+#EXTGRP:Эфирные
+http://stream-msk-06.ott.tricolor.tv/dtv/id588_MSKSG-PVR-1--Super/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="tv3-ru" tvg-name="ТВ-3 HD" tvg-logo="http://only4.tv/ch/1008.png" group-title="Эфирные", ТВ-3 HD
+#EXTGRP:Эфирные
+https://live-mirror-06.ott.tricolor.tv/live/live/tv3_hd/hls_enc/tv3_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
 #EXTINF:-1 tvg-name="Кулинар ТВ" tvg-logo="https://i.mycdn.me/i?r=AzGBqNaF5OQp2lMpnhRx4DEFXcujHxicctajcDb1SRFP93J79QnS9XQXm7bXPKdaq9I" group-title="Познавательные", Кулинар ТВ
 #EXTGRP:Познавательные
 http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
@@ -500,7 +512,7 @@ http://77.235.1.17/history/index.m3u8
 http://91.194.191.241:8081/chid30/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="rtvi" tvg-name="RTVi" tvg-logo="https://app.playlistbox.com/icon/YlRXp9zJO7B0WeZ1mQZ68y35DwQnGrjA.png" group-title="Познавательные", RTVi
 #EXTGRP:Познавательные
-http://50.7.92.98:8887/8118/video.m3u8
+http://45.143.108.110:2203/RTVi
 #EXTINF:-1 tvg-id="360-int" tvg-name="360° Международный" tvg-logo="https://app.playlistbox.com/icon/q94OaJj6rD5gYx8yzpM1ELBXGWRzPQ0A.png" group-title="Познавательные", 360° Международный
 #EXTGRP:Познавательные
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/mono.m3u8
@@ -634,6 +646,96 @@ rtmp://5.182.229.90//7246
 #EXTINF:-1 tvg-name="National Geographic HD" group-title="Познавательные", National Geographic HD
 #EXTGRP:Познавательные
 rtmp://5.182.229.90//7320
+#EXTINF:-1 tvg-id="tlc" tvg-name="TLC HD" tvg-logo="https://app.playlistbox.com/icon/byYJGdpa7X3k5mZdJKxrv4jR21qgEADK.png" group-title="Познавательные", TLC HD
+#EXTGRP:Познавательные
+http://77.235.1.17/tlc/index.m3u8
+#EXTINF:-1 tvg-id="myy" tvg-name="МЫ" tvg-logo="https://iptvx.one/picons/myy.png" group-title="Познавательные", МЫ
+#EXTGRP:Познавательные
+https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Поехали! HD" tvg-logo="https://app.playlistbox.com/icon/PmrKve0kgRq96yxLk8oQjNld35WLBJ1w.png" group-title="Познавательные", Поехали! HD
+#EXTGRP:Познавательные
+https://cdn3.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
+#EXTINF:-1 tvg-name="365 ДНЕЙ" group-title="Познавательные", 365 ДНЕЙ
+#EXTGRP:Познавательные
+http://91.194.191.241:8081/chid425/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="big-planet" tvg-name="Big Planet" tvg-logo="https://app.playlistbox.com/icon/82YEm9Vw51D0poVWOyxNr4jQPOGd7KJb.png" group-title="Познавательные", Big Planet
+#EXTGRP:Познавательные
+http://185.50.148.2:7703/BigPlanet/index.m3u8
+#EXTINF:-1 tvg-id="english-club-tv" tvg-name="English Club TV" tvg-logo="https://app.playlistbox.com/icon/7WnrJEQpk2Dbj6xjNNx0eNRPLK49Odlv.png" group-title="Познавательные", English Club TV
+#EXTGRP:Познавательные
+http://stream2.cinerama.uz/1442/mono.m3u8
+#EXTINF:-1 tvg-id="myzen-tv" tvg-name="myZen.tv HD" tvg-logo="https://app.playlistbox.com/icon/YgKnX27GlDPdkZGyzmxV6AOrqyjw9z1W.png" group-title="Познавательные", myZen.tv HD
+#EXTGRP:Познавательные
+http://91.194.191.241:8081/chid417/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bobior" tvg-name="Бобёр" tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxBQwo0PGQ4d98RpY2O.png" group-title="Познавательные", Бобёр
+#EXTGRP:Познавательные
+https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Живи активно HD" tvg-logo="https://app.playlistbox.com/icon/ROQV8j3aWyE2vxp20OZwb4Gle19kPLKn.png" group-title="Познавательные", Живи активно HD
+#EXTGRP:Познавательные
+http://stream-msk-06.ott.tricolor.tv/dtv/id836_MSKSG-PVR-1--Zhivi_aktivno/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="zagorodny" tvg-name="Загородный" tvg-logo="https://app.playlistbox.com/icon/73JdNBAn1Kmr52ZKjYM9qgWpjewz6vyk.png" group-title="Познавательные", Загородный
+#EXTGRP:Познавательные
+http://stream-msk-04.ott.tricolor.tv/dtv/id155_MSKSG-PVR-1--Zagorod_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="zagorodny-int" tvg-name="Загородный Int" tvg-logo="https://app.playlistbox.com/icon/XG8pYyreWB49J6o3WDomOQ3jKka5L2lD.png" group-title="Познавательные", Загородный Int
+#EXTGRP:Познавательные
+https://stream-msk-06.ott.tricolor.tv:443/dtv/id615_MSKSG-PVR-1--Zagorodniy_int_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="zdorovoe-tv" tvg-name="Здоровое ТВ" tvg-logo="https://app.playlistbox.com/icon/dbPpzO3N2aBrqlov73xy1vm7j4wQWYnR.png" group-title="Познавательные", Здоровое ТВ
+#EXTGRP:Познавательные
+http://stream2.cinerama.uz/1428/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kto-est-kto" tvg-name="Кто есть кто" tvg-logo="https://app.playlistbox.com/icon/YyWKm9lLEGakqPMQjBZBOnNdRr06XV32.png" group-title="Познавательные", Кто есть кто
+#EXTGRP:Познавательные
+http://s5.merlive.am/ktoestkto/index.m3u8
+#EXTINF:-1 tvg-name="Мир вокруг" tvg-logo="https://app.playlistbox.com/icon/7gAKaznkE1ybVxBDbAZ0PGQ4d98RpY2O.png" group-title="Познавательные", Мир вокруг
+#EXTGRP:Познавательные
+http://stream-msk-07.ott.tricolor.tv/dtv/id616_MSKSG-PVR-1--Mir_vokrug_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="morskoy" tvg-name="Моя стихия HD" tvg-logo="https://app.playlistbox.com/icon/8yEqmeblB579jowzDVZOK3Vvd1QJARY2.png" group-title="Познавательные", Моя стихия HD
+#EXTGRP:Познавательные
+https://stream-msk-16.ott.tricolor.tv/dtv/id930_MSKSG-PVR-1--MyStihiya/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Открытый мир" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4n6Zw1B4J20a7VGdn.png" group-title="Познавательные", Открытый мир
+#EXTGRP:Познавательные
+http://stream-msk-07.ott.tricolor.tv/dtv/id680_MSKSG-PVR-1--Otkryti_mir/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="pervy-vegetariansky" tvg-name="Первый вегетарианский" tvg-logo="https://app.playlistbox.com/icon/pYgKnX27GlDPdkZGWjZV6AOrqyjw9z1W.png" group-title="Познавательные", Первый вегетарианский
+#EXTGRP:Познавательные
+https://stream-msk-10.ott.tricolor.tv/dtv/id471_MSKSG-PVR-1--Perviy_Vegetor/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="prosveschenie" tvg-name="Просвещение" tvg-logo="https://iptvx.one/picons/prosveschenie.png" group-title="Познавательные", Просвещение
+#EXTGRP:Познавательные
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="psixologia-21" tvg-name="Психология 21" tvg-logo="https://app.playlistbox.com/icon/Ky75Aja1n0b8YJZE4rMOpLmdwRrqXgvP.png" group-title="Познавательные", Психология 21
+#EXTGRP:Познавательные
+http://91.194.191.241:8081/chid162/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Совершенно секретно" tvg-logo="https://app.playlistbox.com/icon/R8gDbA7qlEn341oyPdZGdyX9vwPLOWm5.png" group-title="Познавательные", Совершенно секретно
+#EXTGRP:Познавательные
+http://stream-msk-03.ott.tricolor.tv/dtv/id698_MSKSG-PVR-1--Top_secret/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="usadba" tvg-name="Усадьба" tvg-logo="https://app.playlistbox.com/icon/pYgKnX27GlDPdkZGvEMV6AOrqyjw9z1W.png" group-title="Познавательные", Усадьба
+#EXTGRP:Познавательные
+http://178.124.179.122:8088/Usadba/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="Эра" tvg-logo="http://i121.fastpic.org/big/2023/0516/82/abf0c600f233693a715cae61eefa2582.png" group-title="Познавательные", Эра
+#EXTGRP:Познавательные
+http://stream-msk-05.ott.tricolor.tv/dtv/id630_MSKSG-PVR-1--Channel_LIVE3/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="travel-adventure" tvg-name="Travel+Adventure" tvg-logo="https://app.playlistbox.com/icon/YyWKm9lLEGakqPMQO1oBOnNdRr06XV32.png" group-title="Познавательные", Travel+Adventure
+#EXTGRP:Познавательные
+https://live-mirror-19.ott.tricolor.tv/dtv/id1019_MSKSG-PVR-1--TravelplusAdventure_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="zoopark" tvg-name="ZooПарк" tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLvGRZQjNld35WLBJ1w.png" group-title="Познавательные", ZooПарк
+#EXTGRP:Познавательные
+http://77.235.1.17/zoopark/index.m3u8
+#EXTINF:-1 tvg-name="В мире животных HD" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzJmx4KLPzglr60QA7.png" group-title="Познавательные", В мире животных HD
+#EXTGRP:Познавательные
+https://stream-msk-04.ott.tricolor.tv/dtv/id160_MSKSG-PVR-1--HD_Anim_Fam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="zootv" tvg-name="Зоо ТВ" tvg-logo="https://app.playlistbox.com/icon/j5YDKwr2BqLzpgZeBeoVW8J7GyvOXld6.png" group-title="Познавательные", Зоо ТВ
+#EXTGRP:Познавательные
+https://stream-msk-04.ott.tricolor.tv:443/dtv/id152_MSKSG-PVR-1--Zoo_TV/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="nauka-20" tvg-name="Наука 2.0 HD" tvg-logo="https://app.playlistbox.com/icon/WBRJkX1bvDqj5xzAG1o4KLPzglr60QA7.png" group-title="Познавательные", Наука 2.0 HD
+#EXTGRP:Познавательные
+http://stream-msk-10.ott.tricolor.tv/dtv/id653_MSKSG-PVR-1--Nauka_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="nasha-tema" tvg-name="Наша тема" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7WNZArgRlD9de8NWP.png" group-title="Познавательные", Наша тема
+#EXTGRP:Познавательные
+https://stream-msk-04.ott.tricolor.tv/dtv/id590_MSKSG-PVR-1--Nasha_Tema/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="oxotnik-i-rybolov" tvg-name="Рыболов" tvg-logo="https://app.playlistbox.com/icon/mGYXlVJ1Da0RjxXJgzZzy8dek2wvP5gW.png" group-title="Познавательные", Рыболов
+#EXTGRP:Познавательные
+https://stream-msk-12.ott.tricolor.tv:443/dtv/id665_MSKSG-PVR-1--Rybalov/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="trofey" tvg-name="Трофей" tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYG14ZVkQXvADRObGP7.png" group-title="Познавательные", Трофей
+#EXTGRP:Познавательные
+http://50.7.92.98:8887/8317/video.m3u8
 #EXTINF:-1 tvg-name="Калейдоскоп ТВ" group-title="Развлекательные", Калейдоскоп ТВ
 #EXTGRP:Развлекательные
 http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/index.m3u8
@@ -859,7 +961,7 @@ http://88.218.242.237:8000/play/a005
 http://88.218.242.237:8000/play/a00x
 #EXTINF:-1 tvg-name="Киносемья HD" tvg-logo="https://app.playlistbox.com/icon/W8yEqmeblB579jow62ZOK3Vvd1QJARY2.png" group-title="Кино и сериалы", Киносемья HD
 #EXTGRP:Кино и сериалы
-http://50.7.92.98:8887/8047/video.m3u8
+http://86.57.198.251:8181/play/1029/index.m3u8
 #EXTINF:-1 tvg-id="tv1000" tvg-name="Viju TV1000" tvg-logo="https://app.playlistbox.com/icon/8yEqmeblB579jowdgExOK3Vvd1QJARY2.png" group-title="Кино и сериалы", Viju TV1000
 #EXTGRP:Кино и сериалы
 http://stream2.cinerama.uz/1058/tracks-v2a1/mono.m3u8
@@ -1324,6 +1426,252 @@ http://77.235.1.17/kinomenu/index.m3u8
 #EXTINF:-1 tvg-name="Сапфир" group-title="Кино и сериалы", Сапфир
 #EXTGRP:Кино и сериалы
 http://77.235.1.17/sapfir/index.m3u8
+#EXTINF:-1 tvg-id="bolt-ru" tvg-name="Bolt Россия" tvg-logo="https://app.playlistbox.com/icon/8gDbA7qlEn341oybDnxGdyX9vwPLOWm5.png" group-title="Кино и сериалы", Bolt Россия
+#EXTGRP:Кино и сериалы
+http://77.235.1.17/bolt/index.m3u8
+#EXTINF:-1 tvg-id="detectivejam" tvg-name="DetectiveJam" tvg-logo="https://app.playlistbox.com/icon/X2d9PpDYbRjeqxRD9QZn5k71JNgAKrml.png" group-title="Кино и сериалы", DetectiveJam
+#EXTGRP:Кино и сериалы
+https://stream-msk-17.ott.tricolor.tv/dtv/id984_MSKSG-PVR-1--DetectiveJam/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="kinojam1" tvg-name="Kinojam 1 HD" tvg-logo="https://app.playlistbox.com/icon/Wjm281v9VYqwzx9zkvMREnk3GBgNLKQX.png" group-title="Кино и сериалы", Kinojam 1 HD
+#EXTGRP:Кино и сериалы
+http://live-mirror-04.ott.tricolor.tv/dtv/id860_MSKSG-PVR-1--Kinojam_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="kinojam2" tvg-name="Kinojam 2 HD" tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLv4qZQjNld35WLBJ1w.png" group-title="Кино и сериалы", Kinojam 2 HD
+#EXTGRP:Кино и сериалы
+http://live-mirror-11.ott.tricolor.tv/dtv/id861_MSKSG-PVR-1--Kinojam_2/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="kion-xit" tvg-name="KION Хит" tvg-logo="https://app.playlistbox.com/icon/82YEm9Vw51D0poVW07xNr4jQPOGd7KJb.png" group-title="Кино и сериалы", KION Хит
+#EXTGRP:Кино и сериалы
+https://stream-msk-16.ott.tricolor.tv/dtv/id982_MSKSG-PVR-1--KIONHIT/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Scream" tvg-logo="https://app.playlistbox.com/icon/LqEygb36eAPXvx4nmLZw1B4J20a7VGdn.png" group-title="Кино и сериалы", Scream
+#EXTGRP:Кино и сериалы
+http://stream-msk-14.ott.tricolor.tv/dtv/id895_MSKSG-PVR-1--Scream/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="blokbaster-hd" tvg-name="Блокбастер HD" tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxXgdozy8dek2wvP5gW.png" group-title="Кино и сериалы", Блокбастер HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-01.ott.tricolor.tv/dtv/id645_MSKSG-PVR-1--Blokbaster_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Дорама HD" tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6ebMNEqAYzmrVWyjg.png" group-title="Кино и сериалы", Дорама HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-05.ott.tricolor.tv/dtv/id497_MSKSG-PVR-1--Dorama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Душевное HD" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goa8DlZXVmPjYb7BWK4E.png" group-title="Кино и сериалы", Душевное HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-06.ott.tricolor.tv/dtv/id395_MSKSG-PVR-1--HD_Nash_Kinoroman/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Камеди" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo205Ml2Qpvy9L6KJa3.png" group-title="Кино и сериалы", Камеди
+#EXTGRP:Кино и сериалы
+http://stream-msk-08.ott.tricolor.tv/dtv/id642_MSKSG-PVR-1--Kamedi_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="kino-tv" tvg-name="Кино ТВ HD" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx4Xqxw1B4J20a7VGdn.png" group-title="Кино и сериалы", Кино ТВ HD
+#EXTGRP:Кино и сериалы
+https://live-mirror-01.ott.tricolor.tv/dtv/id415_MSKSG-PVR-1--Kino_TV_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Кинопоказ" tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxNjAxYOLbBln3EQNrP.png" group-title="Кино и сериалы", Кинопоказ
+#EXTGRP:Кино и сериалы
+https://stream-msk-08.ott.tricolor.tv/dtv/id330_MSKSG-PVR-1--Kinopokaz/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Кинопоказ HD" tvg-logo="https://app.playlistbox.com/icon/D6ga80m54j7eJAxNjAxYOLbBln3EQNrP.png" group-title="Кино и сериалы", Кинопоказ HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-12.ott.tricolor.tv/dtv/id652_MSKSG-PVR-1--Kinopokaz_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Комедийное HD" tvg-logo="https://app.playlistbox.com/icon/KPkNpg4maGY0QJolmnxWLRnbqy328jAv.png" group-title="Кино и сериалы", Комедийное HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-06.ott.tricolor.tv/dtv/id513_MSKSG-PVR-1--Komediinoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Комедия" tvg-logo="https://app.playlistbox.com/icon/7gAKaznkE1ybVxBD8yZ0PGQ4d98RpY2O.png" group-title="Кино и сериалы", Комедия
+#EXTGRP:Кино и сериалы
+http://stream-msk-09.ott.tricolor.tv/dtv/id422_MSKSG-PVR-1--Komediya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Криминальное HD" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7LPboArgRlD9de8NWP.png" group-title="Кино и сериалы", Криминальное HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-12.ott.tricolor.tv/dtv/id871_MSKSG-PVR-1--Kriminalnoe_HD/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Лавстори" tvg-logo="https://app.playlistbox.com/icon/g0zG8mANjv6eLoJR0ko23ODn9Yk71pX4.png" group-title="Кино и сериалы", Лавстори
+#EXTGRP:Кино и сериалы
+https://stream-msk-14.ott.tricolor.tv/dtv/id931_MSKSG-PVR-1--Lovestory/01/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="nashe-lubimoe-hd" tvg-name="Любимое HD" tvg-logo="https://app.playlistbox.com/icon/bPpzO3N2aBrqlov27doy1vm7j4wQWYnR.png" group-title="Кино и сериалы", Любимое HD
+#EXTGRP:Кино и сериалы
+https://stream-msk-03.ott.tricolor.tv/dtv/id601_MSKSG-PVR-1--Lubimoe_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Наш Кинопоказ HD" tvg-logo="https://app.playlistbox.com/icon/byYJGdpa7X3k5mZdmKorv4jR21qgEADK.png" group-title="Кино и сериалы", Наш Кинопоказ HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-14.ott.tricolor.tv/dtv/id646_MSKSG-PVR-1--Nash_kinopokaz_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Наше крутое HD" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx89KM1ELBXGWRzPQ0A.png" group-title="Кино и сериалы", Наше крутое HD
+#EXTGRP:Кино и сериалы
+https://stream-msk-05.ott.tricolor.tv/dtv/id525_MSKSG-PVR-1--Nashe_krutoe_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Наше Мужское HD" tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxYvPMVkQXvADRObGP7.png" group-title="Кино и сериалы", Наше Мужское HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-07.ott.tricolor.tv/dtv/id643_MSKSG-PVR-1--Nashe_Muzhskoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Остросюжетное HD" tvg-logo="https://app.playlistbox.com/icon/mLqEygb36eAPXvx481xw1B4J20a7VGdn.png" group-title="Кино и сериалы", Остросюжетное HD
+#EXTGRP:Кино и сериалы
+https://stream-msk-10.ott.tricolor.tv/dtv/id277_MSKSG-PVR-1--Ostrosuzhetnoe/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Премиальное HD" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7W8ZArgRlD9de8NWP.png" group-title="Кино и сериалы", Премиальное HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-05.ott.tricolor.tv/dtv/id602_MSKSG-PVR-1--Premialnoe_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="premialnoe-hd" tvg-name="Премиальное HD (+4)" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7W8ZArgRlD9de8NWP.png" group-title="Кино и сериалы", Премиальное HD (+4)
+#EXTGRP:Кино и сериалы
+https://stream-msk-06.ott.tricolor.tv/dtv/id603_MSKSG-PVR-1--Premialnoe_HD_4/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Про Любовь HD" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpdQxwb4Gle19kPLKn.png" group-title="Кино и сериалы", Про Любовь HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-12.ott.tricolor.tv/dtv/id647_MSKSG-PVR-1--Pro_Love_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Романтичное HD" tvg-logo="https://app.playlistbox.com/icon/Gl5gOW7dpJq9LRZAG3xEkNQX2Bn6V1bA.png" group-title="Кино и сериалы", Романтичное HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-05.ott.tricolor.tv/dtv/id496_MSKSG-PVR-1--Romantichnoe/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Шокирующее HD" tvg-logo="https://app.playlistbox.com/icon/keYB3LgjD7G8WdoDazxAXpwKq5mPJvV9.png" group-title="Кино и сериалы", Шокирующее HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-06.ott.tricolor.tv/dtv/id280_MSKSG-PVR-1--Kinopokaz_1/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="312-kino" tvg-name="312 Кино" tvg-logo="https://app.playlistbox.com/icon/W8yEqmeblB579jow62ZOK3Vvd1QJARY2.png" group-title="Кино и сериалы", 312 Кино
+#EXTGRP:Кино и сериалы
+http://176.126.166.43:1935/live/312kino/chunklist_w164832369.m3u8
+#EXTINF:-1 tvg-id="312-serial" tvg-name="312 Сериал" tvg-logo="https://app.playlistbox.com/icon/eYB3LgjD7G8WdoDWRlZAXpwKq5mPJvV9.png" group-title="Кино и сериалы", 312 Сериал
+#EXTGRP:Кино и сериалы
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1 tvg-id="flixsnip" tvg-name="FlixSnip" tvg-logo="https://app.playlistbox.com/icon/V5EYdPgA0beWmo2zYzol2Qpvy9L6KJa3.png" group-title="Кино и сериалы", FlixSnip
+#EXTGRP:Кино и сериалы
+http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="fox" tvg-name="FX" tvg-logo="https://app.playlistbox.com/icon/yX2d9PpDYbRjeqxR1Qon5k71JNgAKrml.png" group-title="Кино и сериалы", FX
+#EXTGRP:Кино и сериалы
+http://50.7.92.98:8887/8168/video.m3u8
+#EXTINF:-1 tvg-id="fox" tvg-name="FX HD" tvg-logo="https://app.playlistbox.com/icon/yX2d9PpDYbRjeqxR1Qon5k71JNgAKrml.png" group-title="Кино и сериалы", FX HD
+#EXTGRP:Кино и сериалы
+http://91.194.191.241:8081/chid67/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="foxlife" tvg-name="FX Life HD" tvg-logo="https://app.playlistbox.com/icon/g0zG8mANjv6eLoJRwLo23ODn9Yk71pX4.png" group-title="Кино и сериалы", FX Life HD
+#EXTGRP:Кино и сериалы
+http://50.7.92.98:8887/8052/video.m3u8
+#EXTINF:-1 tvg-id="kinoliving" tvg-name="Kinoliving" tvg-logo="https://app.playlistbox.com/icon/aNGL5kdnv361goabROxXVmPjYb7BWK4E.png" group-title="Кино и сериалы", Kinoliving
+#EXTGRP:Кино и сериалы
+http://91.194.191.241:8081/chid413/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="KINOTEATR" tvg-name="Kinoteatr (UZ)" tvg-logo="https://app.playlistbox.com/icon/mrKve0kgRq96yxLby8ZQjNld35WLBJ1w.png" group-title="Кино и сериалы", Kinoteatr (UZ)
+#EXTGRP:Кино и сериалы
+http://50.7.92.98:8887/8222/video.m3u8
+#EXTINF:-1 tvg-name="День Победы HD" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo25qZl2Qpvy9L6KJa3.png" group-title="Кино и сериалы", День Победы HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-07.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="indiyskoe-kino" tvg-name="Индийское кино" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrKaZQ3EDLAN4b5ryw.png" group-title="Кино и сериалы", Индийское кино
+#EXTGRP:Кино и сериалы
+http://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Индия" group-title="Кино и сериалы", Индия
+#EXTGRP:Кино и сериалы
+http://91.194.191.241:8081/chid139/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Кинокомедия" tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxXW0ozy8dek2wvP5gW.png" group-title="Кино и сериалы", Кинокомедия
+#EXTGRP:Кино и сериалы
+http://stream2.cinerama.uz/1232/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Кинокомедия HD" tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxXW0ozy8dek2wvP5gW.png" group-title="Кино и сериалы", Кинокомедия HD
+#EXTGRP:Кино и сериалы
+http://82.215.111.227/1232/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-name="Киномикс" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo28XMl2Qpvy9L6KJa3.png" group-title="Кино и сериалы", Киномикс
+#EXTGRP:Кино и сериалы
+http://stream1.cinerama.uz/1233/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Киномикс HD" tvg-logo="https://app.playlistbox.com/icon/nV5EYdPgA0beWmo28XMl2Qpvy9L6KJa3.png" group-title="Кино и сериалы", Киномикс HD
+#EXTGRP:Кино и сериалы
+http://stream1.cinerama.uz/1233/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="kinosat" tvg-name="Киносат" tvg-logo="https://app.playlistbox.com/icon/PBn6p4Ke1N5rV8ZWgdZDl0bAWz7dvkJR.png" group-title="Кино и сериалы", Киносат
+#EXTGRP:Кино и сериалы
+http://91.194.191.241:8081/chid326/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Киносвидание" tvg-logo="https://app.playlistbox.com/icon/Blgyq19r83p50mxY9axVkQXvADRObGP7.png" group-title="Кино и сериалы", Киносвидание
+#EXTGRP:Кино и сериалы
+http://stream2.cinerama.uz/1203/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-name="Киносемья" tvg-logo="https://app.playlistbox.com/icon/W8yEqmeblB579jow62ZOK3Vvd1QJARY2.png" group-title="Кино и сериалы", Киносемья
+#EXTGRP:Кино и сериалы
+http://stream2.cinerama.uz/1234/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Киносемья HD" tvg-logo="https://app.playlistbox.com/icon/W8yEqmeblB579jow62ZOK3Vvd1QJARY2.png" group-title="Кино и сериалы", Киносемья HD
+#EXTGRP:Кино и сериалы
+http://86.57.198.251:8181/play/1029/index.m3u8
+#EXTINF:-1 tvg-name="Киносерия" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgEYoYN1Lr2PjakdQv.png" group-title="Кино и сериалы", Киносерия
+#EXTGRP:Кино и сериалы
+http://stream2.cinerama.uz/1235/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Киносерия HD" tvg-logo="https://app.playlistbox.com/icon/9GzJ5y6bgn0A4wMgEYoYN1Lr2PjakdQv.png" group-title="Кино и сериалы", Киносерия HD
+#EXTGRP:Кино и сериалы
+http://82.215.111.227/1235/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="kinouzhas" tvg-name="Киноужас" tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxB82Z0PGQ4d98RpY2O.png" group-title="Кино и сериалы", Киноужас
+#EXTGRP:Кино и сериалы
+http://91.194.191.241:8081/chid461/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="lubimoe-kino" tvg-name="Любимое кино" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7ygxArgRlD9de8NWP.png" group-title="Кино и сериалы", Любимое кино
+#EXTGRP:Кино и сериалы
+http://86.57.198.251:8181/play/1031/index.m3u8
+#EXTINF:-1 tvg-name="Мужское Кино" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx80Yx1ELBXGWRzPQ0A.png" group-title="Кино и сериалы", Мужское Кино
+#EXTGRP:Кино и сериалы
+http://91.194.191.241:8081/chid462/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Мужское Кино HD" tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx80Yx1ELBXGWRzPQ0A.png" group-title="Кино и сериалы", Мужское Кино HD
+#EXTGRP:Кино и сериалы
+http://stream2.cinerama.uz/1237/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-name="Настоящее страшное ТВ" tvg-logo="https://app.playlistbox.com/icon/0B7b8PKO54QkGZ60KrxNEqAYzmrVWyjg.png" group-title="Кино и сериалы", Настоящее страшное ТВ
+#EXTGRP:Кино и сериалы
+http://stream-msk-01.ott.tricolor.tv/dtv/id518_MSKSG-PVR-1--NST/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино" tvg-logo="https://app.playlistbox.com/icon/YlRXp9zJO7B0WeZ1aaZ68y35DwQnGrjA.png" group-title="Кино и сериалы", Наше новое кино
+#EXTGRP:Кино и сериалы
+http://stream2.cinerama.uz/1051/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-name="Наше новое кино HD" tvg-logo="https://app.playlistbox.com/icon/YlRXp9zJO7B0WeZ1aaZ68y35DwQnGrjA.png" group-title="Кино и сериалы", Наше новое кино HD
+#EXTGRP:Кино и сериалы
+http://82.215.111.227/1051/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-id="pobeda" tvg-name="Победа" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7n0MArgRlD9de8NWP.png" group-title="Кино и сериалы", Победа
+#EXTGRP:Кино и сериалы
+http://91.194.191.241:8081/chid434/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Победа HD" tvg-logo="https://app.playlistbox.com/icon/Yjk07Ev2J56XayZ7n0MArgRlD9de8NWP.png" group-title="Кино и сериалы", Победа HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-14.ott.tricolor.tv/dtv/id545_MSKSG-PVR-1--Pobeda/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Родное кино" tvg-logo="https://app.playlistbox.com/icon/73JdNBAn1Kmr52ZK0eo9qgWpjewz6vyk.png" group-title="Кино и сериалы", Родное кино
+#EXTGRP:Кино и сериалы
+http://stream2.cinerama.uz/1052/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="strashnoe-hd" tvg-name="Страшное HD" tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxp7Gowb4Gle19kPLKn.png" group-title="Кино и сериалы", Страшное HD
+#EXTGRP:Кино и сериалы
+rtmp://5.182.229.90//7247
+#EXTINF:-1 tvg-id="khit-hd" tvg-name="Хит HD" tvg-logo="https://app.playlistbox.com/icon/N7gAKaznkE1ybVxB4RZ0PGQ4d98RpY2O.png" group-title="Кино и сериалы", Хит HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-09.ott.tricolor.tv/dtv/id644_MSKSG-PVR-1--Hit_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="bollywood-hd" tvg-name="Bollywood" tvg-logo="https://app.playlistbox.com/icon/ma2dV6vG79n1geMrQexQ3EDLAN4b5ryw.png" group-title="Кино и сериалы", Bollywood
+#EXTGRP:Кино и сериалы
+http://stream-msk-10.ott.tricolor.tv/dtv/id640_MSKSG-PVR-1--Bollywood/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="cinema-ru" tvg-name="Cinema" tvg-logo="https://app.playlistbox.com/icon/aqLQeVBN6481ymxnv0xJ9XldROAzkg75.png" group-title="Кино и сериалы", Cinema
+#EXTGRP:Кино и сериалы
+http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="FAN HD" tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6pGxNEqAYzmrVWyjg.png" group-title="Кино и сериалы", FAN HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-08.ott.tricolor.tv/dtv/id511_MSKSG-PVR-1--FAN_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Hollywood" tvg-logo="https://app.playlistbox.com/icon/7WnrJEQpk2Dbj6xj8BZ0eNRPLK49Odlv.png" group-title="Кино и сериалы", Hollywood
+#EXTGRP:Кино и сериалы
+http://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Hollywood HD" tvg-logo="https://app.playlistbox.com/icon/7WnrJEQpk2Dbj6xj8BZ0eNRPLK49Odlv.png" group-title="Кино и сериалы", Hollywood HD
+#EXTGRP:Кино и сериалы
+http://91.194.191.241:8081/chid421/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="shot-tv" tvg-name="Shot TV HD" tvg-logo="https://iptvx.one/picons/shot-tv.png" group-title="Кино и сериалы", Shot TV HD
+#EXTGRP:Кино и сериалы
+http://130.193.73.10:8937/play/a022
+#EXTINF:-1 tvg-name="Время" tvg-logo="https://app.playlistbox.com/icon/73JdNBAn1Kmr52ZKbeM9qgWpjewz6vyk.png" group-title="Кино и сериалы", Время
+#EXTGRP:Кино и сериалы
+http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="domkino" tvg-name="Дoм Kинo" group-title="Кино и сериалы", Дoм Kинo
+#EXTGRP:Кино и сериалы
+http://stream2.cinerama.uz/1054/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Дом Кино" tvg-logo="https://app.playlistbox.com/icon/7WnrJEQpk2Dbj6xjWEM0eNRPLK49Odlv.png" group-title="Кино и сериалы", Дом Кино
+#EXTGRP:Кино и сериалы
+http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="domkino-premium" tvg-name="Дом Кино Премиум" tvg-logo="https://app.playlistbox.com/icon/r1VewAOEpa7GKmZkWbZQzj3nX6k098Rl.png" group-title="Кино и сериалы", Дом Кино Премиум
+#EXTGRP:Кино и сериалы
+http://91.194.191.241:8081/chid294/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Дом Кино Премиум HD" tvg-logo="https://app.playlistbox.com/icon/r1VewAOEpa7GKmZkWbZQzj3nX6k098Rl.png" group-title="Кино и сериалы", Дом Кино Премиум HD
+#EXTGRP:Кино и сериалы
+http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Еврокино" tvg-logo="https://app.playlistbox.com/icon/73JdNBAn1Kmr52ZKgAZ9qgWpjewz6vyk.png" group-title="Кино и сериалы", Еврокино
+#EXTGRP:Кино и сериалы
+http://86.57.198.251:8181/play/1022/index.m3u8
+#EXTINF:-1 tvg-name="Иллюзион +" tvg-logo="https://app.playlistbox.com/icon/d1pBwDQkeR5089ZqJBo2yrY7KNbnjLzG.png" group-title="Кино и сериалы", Иллюзион +
+#EXTGRP:Кино и сериалы
+http://91.194.191.241:8081/chid71/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Мир сериала" tvg-logo="https://app.playlistbox.com/icon/NmGYXlVJ1Da0RjxXwvozy8dek2wvP5gW.png" group-title="Кино и сериалы", Мир сериала
+#EXTGRP:Кино и сериалы
+http://91.194.191.241:8081/chid183/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Кино и сериалы", Мосфильм. Золотая коллекция
+#EXTGRP:Кино и сериалы
+http://193.242.190.6:8099/98/index.m3u8
+#EXTINF:-1 tvg-id="mosfilm" tvg-name="Мосфильм. Золотая коллекция HD" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Кино и сериалы", Мосфильм. Золотая коллекция HD
+#EXTGRP:Кино и сериалы
+http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="russky-bestseller" tvg-name="Русский бестселлер" tvg-logo="https://app.playlistbox.com/icon/d1pBwDQkeR5089Zq4OM2yrY7KNbnjLzG.png" group-title="Кино и сериалы", Русский бестселлер
+#EXTGRP:Кино и сериалы
+http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="russky-detektiv" tvg-name="Русский детектив" tvg-logo="https://app.playlistbox.com/icon/yX2d9PpDYbRjeqxRRzxn5k71JNgAKrml.png" group-title="Кино и сериалы", Русский детектив
+#EXTGRP:Кино и сериалы
+http://stream-msk-10.ott.tricolor.tv/dtv/id516_MSKSG-PVR-1--Russkiy_detektiv/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Русский Иллюзион" tvg-logo="https://app.playlistbox.com/icon/nWBRJkX1bvDqj5xzq8o4KLPzglr60QA7.png" group-title="Кино и сериалы", Русский Иллюзион
+#EXTGRP:Кино и сериалы
+http://91.194.191.241:8081/chid81/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="russky-roman" tvg-name="Русский роман" tvg-logo="https://app.playlistbox.com/icon/PBn6p4Ke1N5rV8ZWBmMDl0bAWz7dvkJR.png" group-title="Кино и сериалы", Русский роман
+#EXTGRP:Кино и сериалы
+http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="sov-kinklass" tvg-name="Советская киноклассика" tvg-logo="https://app.playlistbox.com/icon/eYB3LgjD7G8WdoDWwwZAXpwKq5mPJvV9.png" group-title="Кино и сериалы", Советская киноклассика
+#EXTGRP:Кино и сериалы
+https://stream-msk-16.ott.tricolor.tv/dtv/id932_MSKSG-PVR-1--Sovetskay_kinoclassica_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-name="Твоё ТВ HD" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeRDnoVW8J7GyvOXld6.png" group-title="Кино и сериалы", Твоё ТВ HD
+#EXTGRP:Кино и сериалы
+http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 tvg-name="Детское Кино" group-title="Детские", Детское Кино
 #EXTGRP:Детские
 http://77.235.1.17/detskoe_kino/index.m3u8
@@ -1950,6 +2298,24 @@ http://91.194.191.241:8081/chid172/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Наш футбол HD" tvg-logo="https://app.playlistbox.com/icon/vQ97O6Vp54NE2yxmzlMLKe3Pjln8qJAm.png" group-title="Спортивные", Наш футбол HD
 #EXTGRP:Спортивные
 https://tv.movielab.pro/250/video.m3u8?token=1fbaacef104281c5b04ee8039103157446f3a301-258e4249ef72a2e91ded5227ce99ec19-1731268907-1731182507
+#EXTINF:-1 tvg-id="footbolny" tvg-name="Мяч" tvg-logo="https://app.playlistbox.com/icon/0B7b8PKO54QkGZ6KL1oNEqAYzmrVWyjg.png" group-title="Спортивные", Мяч
+#EXTGRP:Спортивные
+https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-name="Спорт на Первом" tvg-logo="https://mosi.ru/sites/default/files/conf/122013_Psihologia/sport-k_0.jpg" group-title="Спортивные", Спорт на Первом
+#EXTGRP:Спортивные
+https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
+#EXTINF:-1 tvg-id="bolshoj-efir" tvg-name="Большой эфир" tvg-logo="https://app.playlistbox.com/icon/V5EYdPgA0beWmo2nQPol2Qpvy9L6KJa3.png" group-title="Спортивные", Большой эфир
+#EXTGRP:Спортивные
+http://stream-msk-10.ott.tricolor.tv/dtv/id621_MSKSG-PVR-1--ChannelLIVE/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-name="Игра" tvg-logo="http://i121.fastpic.org/big/2023/0516/77/db7c2f60962c13008e3f5e9d5a86ce77.png" group-title="Спортивные", Игра
+#EXTGRP:Спортивные
+http://stream-msk-03.ott.tricolor.tv/dtv/id632_MSKSG-PVR-1--Channel_LIVE4/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Конный мир HD" tvg-logo="https://app.playlistbox.com/icon/d1pBwDQkeR5089ZqPVM2yrY7KNbnjLzG.png" group-title="Спортивные", Конный мир HD
+#EXTGRP:Спортивные
+https://stream-msk-16.ott.tricolor.tv/dtv/id989_MSKSG-PVR-1--Konniy_Mir/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
+#EXTINF:-1 tvg-name="Хоккей ТВ" tvg-logo="https://app.playlistbox.com/icon/jk07Ev2J56XayZ7rp2MArgRlD9de8NWP.png" group-title="Спортивные", Хоккей ТВ
+#EXTGRP:Спортивные
+https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1MDIxOTAwODc5MzY1MCIsImV4cCI6MTczMTg0NjY4NCwiaHdpZCI6IjhlYmIxNzVmZTU1M2NhOWQ5ODU0ZWI1NGEzMTAwZjAzZDQxM2MyYjhiNjUyNjBlMWQ4MGIxYmU2M2JmYTYyNmIiLCJsYXN0X3JlcV9kYXRlIjoxNzMxMjQxODg0LCJzZXNzaW9uX2lkIjoiYjAyNmEwMDllYWQwMDM4MGZhZDY4ODI4Nzc1YjVhZmYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.K9OWJfhcJWqW-HRqRLlqhv6El5ukv9Df2K-wW6ZccDs
 #EXTINF:-1 tvg-name="WORLD HD" group-title="RELAX", WORLD HD
 #EXTGRP:RELAX
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
