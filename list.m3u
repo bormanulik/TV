@@ -973,20 +973,6 @@ https://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 http://185.23.80.28:8080/Multimuzyka/index.m3u8?token=test
 #EXTINF:-1  group-title="Детские"  tvg-id="high_network_kids_toonlegacy"  tvg-logo="http://i124.fastpic.org/big/2024/1110/02/79b977685e9e6c38ba0cb9075e7fcd02.png"   tvg-name="High Network KIDS Toon Legacy", High Network KIDS Toon Legacy
 http://ott.high-net.ru/High_network_kids_toonlegacy/index.m3u8?token=High Network
-#EXTINF:-1  group-title="Детские"  tvg-id="malysh" ,Супергерои
-"  tvg-id="malysh" ,Супергерои
-#EXTINF:-1  group-title="Детские"  tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" ,СоюзМультфильм
-"  tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png" ,СоюзМультфильм
-#EXTINF:-1  group-title="Детские"  tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" ,Чип и Дейл
-"  tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png" ,Чип и Дейл
-#EXTINF:-1  group-title="Детские"  tvg-id="multimania" ,МУЛЬТИМАНИЯ
-"  tvg-id="multimania" ,МУЛЬТИМАНИЯ
-#EXTINF:-1  group-title="Детские"  tvg-id="detsky-mir" ,Детский мир
-"  tvg-id="detsky-mir" ,Детский мир
-#EXTINF:-1  group-title="Детские"  tvg-id="mama" ,Мама
-"  tvg-id="mama" ,Мама
-#EXTINF:-1  group-title="Детские"  tvg-id="nickelodeon-ru" ,Nickelodeon
-"  tvg-id="nickelodeon-ru" ,Nickelodeon
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="matur-tv"  tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/08/42d1f2b0148e319bf9972f0303b7347e.png"   tvg-name="Матур ТВ", Матур ТВ
 http://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="muztv"  tvg-logo="https://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png"   tvg-name="Муз ТВ", Муз ТВ
@@ -1333,18 +1319,6 @@ rtmp://92.119.88.58//2391
 http://77.235.1.17/match_premier/index.m3u8
 #EXTINF:-1  group-title="Спортивные"  tvg-id="no_epg_sport"  tvg-logo="https://mosi.ru/sites/default/files/conf/122013_Psihologia/sport-k_0.jpg"   tvg-name="Спорт на Первом", Спорт на Первом
 https://edge3.1internet.tv/dash-live2/streams/sport-1/sport-1.mpd
-#EXTINF:-1  group-title="Спортивные"  tvg-id="kxl" ,KHL
-"  tvg-id="kxl" ,KHL
-#EXTINF:-1  group-title="Спортивные"  tvg-id="box-tv" ,Бокс ТВ
-"  tvg-id="box-tv" ,Бокс ТВ
-#EXTINF:-1  group-title="Спортивные"  tvg-id="football-ru" ,Футбол
-"  tvg-id="football-ru" ,Футбол
-#EXTINF:-1  group-title="Спортивные"  tvg-id="match-planeta" ,Матч! Планета
-"  tvg-id="match-planeta" ,Матч! Планета
-#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football1" ,Матч! Футбол 1 HD
-"  tvg-id="match-football1" ,Матч! Футбол 1 HD
-#EXTINF:-1  group-title="Спортивные"  tvg-id="extreme-sports" ,Extreme Sports
-"  tvg-id="extreme-sports" ,Extreme Sports
 #EXTINF:-1  group-title="RELAX"   tvg-name="Loupe 4K", Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1  group-title="RELAX"  tvg-logo="https://dvb.by/sources/logos/3784s.png"   tvg-name="Камин", Камин
@@ -2547,7 +2521,7 @@ https://mults.info/mp4/krepysh.mp4
 https://mults.info/mp4/aibolit_krokodil_i_solnce.mp4
 #EXTINF:-1  group-title="Мульты СССР"   tvg-name="Крот и телефон", Крот и телефон
 https://mults.info/mp4/krot_i_telefon.mp4
-#EXTINF:-1  group-title="Мульты СССР"   tvg-name="Крылатый мохнатый,масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г." group-title="Мульты СССР", Крылатый мохнатый,масляный 1990г.
+#EXTINF:-1  group-title="Мульты СССР"   tvg-name="Крылатый мохнатый,масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г." group-title="Мульты СССР", Крылатый мохнатый,масляный 1990г.
 https://mults.info/mp4/kryloma.mp4
 #EXTINF:-1  group-title="Мульты СССР"   tvg-name="Летели два верблюда 1988г.", Летели два верблюда 1988г.
 https://mults.info/mp4/leteli_dva_verbluda.mp4
@@ -2915,7 +2889,7 @@ https://mults.info/mp4/krot_i_tranzistor.mp4
 https://mults.info/mp4/letuchiy_korabl.mp4
 #EXTINF:-1  group-title="Мульты СССР"   tvg-name="Метеор на ринге", Метеор на ринге
 https://mults.info/mp4/meteor_na_ringe.mp4
-#EXTINF:-1  group-title="Мульты СССР"   tvg-name="Ну Погоди! (телевыпуски 2,3)",3)",3)",3)" group-title="Мульты СССР", Ну Погоди! (телевыпуски 2,3)
+#EXTINF:-1  group-title="Мульты СССР"   tvg-name="Ну Погоди! (телевыпуски 2,3)",3)",3)",3)",3)" group-title="Мульты СССР", Ну Погоди! (телевыпуски 2,3)
 https://mults.info/mp4/nu_pogodi_tv.mp4
 #EXTINF:-1  group-title="Мульты СССР"   tvg-name="Обезьянки и грабители", Обезьянки и грабители
 https://mults.info/mp4/obezyanki_i_grabiteli.mp4
