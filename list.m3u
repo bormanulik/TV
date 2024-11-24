@@ -6473,3 +6473,822 @@ https://bl.rutube.ru/livestream/9faeeb8f8896f6d04517c7d77fdf5e51/index.m3u8?s=r_
 #EXTINF:-1 tvg-name="WORLD FISHING NETWORK" group-title="Провайдер 4", WORLD FISHING NETWORK
 #EXTGRP:Провайдер 4
 https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=gUdJUtSFNaxXZkJL1_D1gQ&e=1732455646&scheme=https
+#EXTINF:-1 tvg-name="Первый HD" group-title="Провайдер 5", Первый HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1 tvg-name="Россия 1" group-title="Провайдер 5", Россия 1
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
+#EXTINF:-1 tvg-name="Россия К" group-title="Провайдер 5", Россия К
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/russiak.m3u8
+#EXTINF:-1 tvg-name="Россия 24" group-title="Провайдер 5", Россия 24
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/russia24.m3u8
+#EXTINF:-1 tvg-name="Москва 24" group-title="Провайдер 5", Москва 24
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/moscow24.m3u8
+#EXTINF:-1 tvg-name="НТВ HD" group-title="Провайдер 5", НТВ HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1 tvg-name="РЕН ТВ HD" group-title="Провайдер 5", РЕН ТВ HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+#EXTINF:-1 tvg-name="ТНТ HD" group-title="Провайдер 5", ТНТ HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1 tvg-name="ТНТ4 HD" group-title="Провайдер 5", ТНТ4 HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1 tvg-name="НТВ Хит" group-title="Провайдер 5", НТВ Хит
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/ntvhit24.m3u8
+#EXTINF:-1 tvg-name="НТВ Сериал" group-title="Провайдер 5", НТВ Сериал
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/ntvserial24.m3u8
+#EXTINF:-1 tvg-name="НТВ Право" group-title="Провайдер 5", НТВ Право
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/ntvpravo24.m3u8
+#EXTINF:-1 tvg-name="НТВ Стиль" group-title="Провайдер 5", НТВ Стиль
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/ntvstyle24.m3u8
+#EXTINF:-1 tvg-name="DTX HD" group-title="Провайдер 5", DTX HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/discoverydtx.m3u8
+#EXTINF:-1 tvg-name="Discovery Science HD" group-title="Провайдер 5", Discovery Science HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/discoveryscience.m3u8
+#EXTINF:-1 tvg-name="Моя Планета" group-title="Провайдер 5", Моя Планета
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/myplanet.m3u8
+#EXTINF:-1 tvg-name="Загородный Int" group-title="Провайдер 5", Загородный Int
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8
+#EXTINF:-1 tvg-name="HD Life" group-title="Провайдер 5", HD Life
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/hdlife.m3u8
+#EXTINF:-1 tvg-name="Приключения HD" group-title="Провайдер 5", Приключения HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/adventureshd.m3u8
+#EXTINF:-1 tvg-name="Первый Космический HD" group-title="Провайдер 5", Первый Космический HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/firstspace.m3u8
+#EXTINF:-1 tvg-name="Viasat History HD" group-title="Провайдер 5", Viasat History HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/viju-history.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore HD" group-title="Провайдер 5", Viasat Explore HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/viju-explorer.m3u8
+#EXTINF:-1 tvg-name="Viasat Nature HD" group-title="Провайдер 5", Viasat Nature HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/viju-nature.m3u8
+#EXTINF:-1 tvg-name="Viju+ Planet HD" group-title="Провайдер 5", Viju+ Planet HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/50c0316fa37fc4a9866a66f817e6c4383cb23cc0a49f0c322c505ffd7b8b4774.m3u8
+#EXTINF:-1 tvg-name="TERRA" group-title="Провайдер 5", TERRA
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+#EXTINF:-1 tvg-name="Animal Planet HD" group-title="Провайдер 5", Animal Planet HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/animalplanethd.m3u8
+#EXTINF:-1 tvg-name="Discovery channel HD" group-title="Провайдер 5", Discovery channel HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/discovery.m3u8
+#EXTINF:-1 tvg-name="Investigation Discovery HD" group-title="Провайдер 5", Investigation Discovery HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/discoveryxtra.m3u8
+#EXTINF:-1 tvg-name="Top Secret" group-title="Провайдер 5", Top Secret
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/sovsec127.m3u8
+#EXTINF:-1 tvg-name="Диалоги о Рыбалке" group-title="Провайдер 5", Диалоги о Рыбалке
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
+#EXTINF:-1 tvg-name="Оружие" group-title="Провайдер 5", Оружие
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/oruzhie.m3u8
+#EXTINF:-1 tvg-name="Глазами Туриста" group-title="Провайдер 5", Глазами Туриста
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/glazamiturista.m3u8
+#EXTINF:-1 tvg-name="Живая природа" group-title="Провайдер 5", Живая природа
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/jivyapriroda.m3u8
+#EXTINF:-1 tvg-name="Наша Сибирь HD" group-title="Провайдер 5", Наша Сибирь HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/nashasibirhd.m3u8
+#EXTINF:-1 tvg-name="Наша сибирь 4K" group-title="Провайдер 5", Наша сибирь 4K
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/nashasibir4k.m3u8
+#EXTINF:-1 tvg-name="ОТР" group-title="Провайдер 5", ОТР
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/otr24.m3u8
+#EXTINF:-1 tvg-name="МИР HD" group-title="Провайдер 5", МИР HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:-1 tvg-name="Пятый канал" group-title="Провайдер 5", Пятый канал
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Провайдер 5", ТВЦ
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
+#EXTINF:-1 tvg-name="СПАС" group-title="Провайдер 5", СПАС
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/spas.m3u8
+#EXTINF:-1 tvg-name="СТС HD" group-title="Провайдер 5", СТС HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+#EXTINF:-1 tvg-name="СТС Love" group-title="Провайдер 5", СТС Love
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/stslove.m3u8
+#EXTINF:-1 tvg-name="Домашний HD" group-title="Провайдер 5", Домашний HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1 tvg-name="ТВ3 HD" group-title="Провайдер 5", ТВ3 HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
+#EXTINF:-1 tvg-name="Пятница HD" group-title="Провайдер 5", Пятница HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+#EXTINF:-1 tvg-name="Звезда" group-title="Провайдер 5", Звезда
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/zvezda.m3u8
+#EXTINF:-1 tvg-name="Кино ТВ HD (+7)" group-title="Провайдер 5", Кино ТВ HD (+7)
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/kinotvst.m3u8
+#EXTINF:-1 tvg-name="Кинеко" group-title="Провайдер 5", Кинеко
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/kineko.m3u8
+#EXTINF:-1 tvg-name="Сапфир" group-title="Провайдер 5", Сапфир
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/saphire.m3u8
+#EXTINF:-1 tvg-name="Fox HD" group-title="Провайдер 5", Fox HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/29a579b5d4f87bcf39d44495caafd336.m3u8
+#EXTINF:-1 tvg-name="Fox Life HD" group-title="Провайдер 5", Fox Life HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/0ba661f11d67b07b82619dfef60243b6.m3u8
+#EXTINF:-1 tvg-name="Start Air HD" group-title="Провайдер 5", Start Air HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/96d9a62bc619079db307c8fd067a1ab9.m3u8
+#EXTINF:-1 tvg-name="Start World HD" group-title="Провайдер 5", Start World HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/ccf149ef976cb08ffb31e2047772386a.m3u8
+#EXTINF:-1 tvg-name="Vip Megahit HD" group-title="Провайдер 5", Vip Megahit HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
+#EXTINF:-1 tvg-name="Vip Comedy HD" group-title="Провайдер 5", Vip Comedy HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
+#EXTINF:-1 tvg-name="Vip Premiere HD" group-title="Провайдер 5", Vip Premiere HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
+#EXTINF:-1 tvg-name="Vip Serial HD" group-title="Провайдер 5", Vip Serial HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/viju-serial.m3u8
+#EXTINF:-1 tvg-name="TV1000 HD" group-title="Провайдер 5", TV1000 HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
+#EXTINF:-1 tvg-name="TV1000 Action HD" group-title="Провайдер 5", TV1000 Action HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
+#EXTINF:-1 tvg-name="TV1000 Русское Кино HD" group-title="Провайдер 5", TV1000 Русское Кино HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
+#EXTINF:-1 tvg-name="Феникс+Кино" group-title="Провайдер 5", Феникс+Кино
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/fenixkino.m3u8
+#EXTINF:-1 tvg-name="День победы" group-title="Провайдер 5", День победы
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/dcad9e4e7150ef14312ec85b9f2a002e.m3u8
+#EXTINF:-1 tvg-name="Арсенал" group-title="Провайдер 5", Арсенал
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/1c5442c0461e5186126aaba26edd6857.m3u8
+#EXTINF:-1 tvg-name="Trash" group-title="Провайдер 5", Trash
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1 tvg-name="Москва Доверие" group-title="Провайдер 5", Москва Доверие
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/moscvadoverie.m3u8
+#EXTINF:-1 tvg-name="Санкт-Петербург" group-title="Провайдер 5", Санкт-Петербург
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/78saintpetersburg.m3u8
+#EXTINF:-1 tvg-name="ЧЕ" group-title="Провайдер 5", ЧЕ
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/che.m3u8
+#EXTINF:-1 tvg-name="Ю" group-title="Провайдер 5", Ю
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
+#EXTINF:-1 tvg-name="Суббота" group-title="Провайдер 5", Суббота
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8
+#EXTINF:-1 tvg-name="2x2" group-title="Провайдер 5", 2x2
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 tvg-name="Paramount Comedy" group-title="Провайдер 5", Paramount Comedy
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/paramount_comedy.m3u8
+#EXTINF:-1 tvg-name="Paramount Channel" group-title="Провайдер 5", Paramount Channel
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/paramount_channel.m3u8
+#EXTINF:-1 tvg-name="360°" group-title="Провайдер 5", 360°
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/ch360.m3u8
+#EXTINF:-1 tvg-name="360 новости" group-title="Провайдер 5", 360 новости
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/ch360news.m3u8
+#EXTINF:-1 tvg-name="Живи Активно HD" group-title="Провайдер 5", Живи Активно HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/jiviactivno.m3u8
+#EXTINF:-1 tvg-name="Мир 24 HD" group-title="Провайдер 5", Мир 24 HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/mirhdpremium.m3u8
+#EXTINF:-1 tvg-name="Известия" group-title="Провайдер 5", Известия
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/iz.m3u8
+#EXTINF:-1 tvg-name="МузТВ" group-title="Провайдер 5", МузТВ
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
+#EXTINF:-1 tvg-name="Russian Music Box" group-title="Провайдер 5", Russian Music Box
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
+#EXTINF:-1 tvg-name="ТНТ Music" group-title="Провайдер 5", ТНТ Music
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/tntmusicru.m3u8
+#EXTINF:-1 tvg-name="Европа Плюс ТВ" group-title="Провайдер 5", Европа Плюс ТВ
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/europaplustv24.m3u8
+#EXTINF:-1 tvg-name="1HD" group-title="Провайдер 5", 1HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/1hdmusic.m3u8
+#EXTINF:-1 tvg-name="Bridge TV" group-title="Провайдер 5", Bridge TV
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/bridgetv24h.m3u8
+#EXTINF:-1 tvg-name="Bridge TV Classic" group-title="Провайдер 5", Bridge TV Classic
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/bridgeclassictv.m3u8
+#EXTINF:-1 tvg-name="Bridge TV Deluxe" group-title="Провайдер 5", Bridge TV Deluxe
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/bridgedeluxetv.m3u8
+#EXTINF:-1 tvg-name="Bridge TV Hits" group-title="Провайдер 5", Bridge TV Hits
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/bridgehitstv.m3u8
+#EXTINF:-1 tvg-name="Bridge TV Русский хит" group-title="Провайдер 5", Bridge TV Русский хит
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/bridgerushittv.m3u8
+#EXTINF:-1 tvg-name="Bridge TV Шлягер" group-title="Провайдер 5", Bridge TV Шлягер
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/bridgetvshlyager.m3u8
+#EXTINF:-1 tvg-name="Baby Time" group-title="Провайдер 5", Baby Time
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
+#EXTINF:-1 tvg-name="СОЛНЦЕ" group-title="Провайдер 5", СОЛНЦЕ
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/disney.m3u8
+#EXTINF:-1 tvg-name="Nickelodeon HD" group-title="Провайдер 5", Nickelodeon HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/nickelodeon-hd.m3u8
+#EXTINF:-1 tvg-name="Смайлик ТВ" group-title="Провайдер 5", Смайлик ТВ
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/smile.m3u8
+#EXTINF:-1 tvg-name="Da Vinci" group-title="Провайдер 5", Da Vinci
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/davinci.m3u8
+#EXTINF:-1 tvg-name="СТС Kids HD" group-title="Провайдер 5", СТС Kids HD
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/ctckids.m3u8
+#EXTINF:-1 tvg-name="Gulli Girl" group-title="Провайдер 5", Gulli Girl
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/gulli.m3u8
+#EXTINF:-1 tvg-name="TIJI" group-title="Провайдер 5", TIJI
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/tiji.m3u8
+#EXTINF:-1 tvg-name="Рыжий" group-title="Провайдер 5", Рыжий
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8
+#EXTINF:-1 tvg-name="Карусель" group-title="Провайдер 5", Карусель
+#EXTGRP:Провайдер 5
+https://livetv.mylifeisgood.net.ru/channels/karuselvgtrk.m3u8
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Первый канал HD +4" group-title="Провайдер 6 (Сибирь)", Первый канал HD +4
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Первый канал +4" group-title="Провайдер 6 (Сибирь)", Первый канал +4
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Россия HD" group-title="Провайдер 6 (Сибирь)", Россия HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Россия-1 +4" group-title="Провайдер 6 (Сибирь)", Россия-1 +4
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/rossija/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Россия 24" group-title="Провайдер 6 (Сибирь)", Россия 24
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/vesti/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Россия К" group-title="Провайдер 6 (Сибирь)", Россия К
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/kultura/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="НТВ HD" group-title="Провайдер 6 (Сибирь)", НТВ HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/ntv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="НТВ (+4)" group-title="Провайдер 6 (Сибирь)", НТВ (+4)
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/ntv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ТНТ HD" group-title="Провайдер 6 (Сибирь)", ТНТ HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tnt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ТНТ" group-title="Провайдер 6 (Сибирь)", ТНТ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tnt/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="РЕН ТВ HD" group-title="Провайдер 6 (Сибирь)", РЕН ТВ HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/ren_tv_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Рен ТВ +4" group-title="Провайдер 6 (Сибирь)", Рен ТВ +4
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/rentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ТНТ4" group-title="Провайдер 6 (Сибирь)", ТНТ4
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tnt4/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="The Explorers" group-title="Провайдер 6 (Сибирь)", The Explorers
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="TERRA" group-title="Провайдер 6 (Сибирь)", TERRA
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/terras/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="TERRA HD" group-title="Провайдер 6 (Сибирь)", TERRA HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/terra_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Travel+Adventure" group-title="Провайдер 6 (Сибирь)", Travel+Adventure
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/travad/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Travel+Adventure HD" group-title="Провайдер 6 (Сибирь)", Travel+Adventure HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/travel_adventure_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Живая планета" group-title="Провайдер 6 (Сибирь)", Живая планета
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/zhivaya_planeta/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Моя планета" group-title="Провайдер 6 (Сибирь)", Моя планета
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/my_planet/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Охота и рыбалка" group-title="Провайдер 6 (Сибирь)", Охота и рыбалка
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/hafi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Диалоги о рыбалке" group-title="Провайдер 6 (Сибирь)", Диалоги о рыбалке
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/dialogi_o_rybalke/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Galaxy TV" group-title="Провайдер 6 (Сибирь)", Galaxy TV
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Наша сибирь HD" group-title="Провайдер 6 (Сибирь)", Наша сибирь HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/nasha_sibir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Оружие" group-title="Провайдер 6 (Сибирь)", Оружие
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/oruzhie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Т24" group-title="Провайдер 6 (Сибирь)", Т24
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/24techno/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Zooпарк" group-title="Провайдер 6 (Сибирь)", Zooпарк
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/zoopark/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Наука 2.0" group-title="Провайдер 6 (Сибирь)", Наука 2.0
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/nauka_20/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name=".black" group-title="Провайдер 6 (Сибирь)", .black
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/sony_turbo/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name=".red" group-title="Провайдер 6 (Сибирь)", .red
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name=".sci-fi" group-title="Провайдер 6 (Сибирь)", .sci-fi
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="2x2 (+4)" group-title="Провайдер 6 (Сибирь)", 2x2 (+4)
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/2x2tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Amedia 1" group-title="Провайдер 6 (Сибирь)", Amedia 1
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/amedia1/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Amedia 2" group-title="Провайдер 6 (Сибирь)", Amedia 2
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/amedia_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Amedia Premium HD" group-title="Провайдер 6 (Сибирь)", Amedia Premium HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/amediapremium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Cinema" group-title="Провайдер 6 (Сибирь)", Cinema
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/ipark/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="DOCUBOX HD" group-title="Провайдер 6 (Сибирь)", DOCUBOX HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Fan HD" group-title="Провайдер 6 (Сибирь)", Fan HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="FILMBOX" group-title="Провайдер 6 (Сибирь)", FILMBOX
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/filmbox/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Filmbox Arthouse" group-title="Провайдер 6 (Сибирь)", Filmbox Arthouse
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/filmbox_arthouse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Star Family HD" group-title="Провайдер 6 (Сибирь)", Star Family HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/star_family_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="TV XXI" group-title="Провайдер 6 (Сибирь)", TV XXI
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tv21/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="TV1000" group-title="Провайдер 6 (Сибирь)", TV1000
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tv1000/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="TV1000 Action" group-title="Провайдер 6 (Сибирь)", TV1000 Action
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="TV1000 Русское кино" group-title="Провайдер 6 (Сибирь)", TV1000 Русское кино
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="VIP Megahit HD" group-title="Провайдер 6 (Сибирь)", VIP Megahit HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tv1000_megahit_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="VIP Premiere HD" group-title="Провайдер 6 (Сибирь)", VIP Premiere HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tv1000_premium_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="VIP Comedy HD" group-title="Провайдер 6 (Сибирь)", VIP Comedy HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tv1000_comedy_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="VIP Serial HD" group-title="Провайдер 6 (Сибирь)", VIP Serial HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/viasat_golf_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Дом кино" group-title="Провайдер 6 (Сибирь)", Дом кино
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/dom_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Дом кино Премиум" group-title="Провайдер 6 (Сибирь)", Дом кино Премиум
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/dom_kino_premium/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Иллюзион+" group-title="Провайдер 6 (Сибирь)", Иллюзион+
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Капитан Фантастика" group-title="Провайдер 6 (Сибирь)", Капитан Фантастика
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/ginger_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="КИНЕКО" group-title="Провайдер 6 (Сибирь)", КИНЕКО
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/kineko_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Русский бестселлер" group-title="Провайдер 6 (Сибирь)", Русский бестселлер
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/russia_best/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Русский детектив" group-title="Провайдер 6 (Сибирь)", Русский детектив
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/russkiy_detektiv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Русский иллюзион" group-title="Провайдер 6 (Сибирь)", Русский иллюзион
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/russian_illusion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Русский роман" group-title="Провайдер 6 (Сибирь)", Русский роман
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/russian_roman/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="САПФИР" group-title="Провайдер 6 (Сибирь)", САПФИР
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/sapfir_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Дорама" group-title="Провайдер 6 (Сибирь)", Дорама
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/dorama/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="НСТ" group-title="Провайдер 6 (Сибирь)", НСТ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/nstv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Любимое кино" group-title="Провайдер 6 (Сибирь)", Любимое кино
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Timeless Dizi Channel" group-title="Провайдер 6 (Сибирь)", Timeless Dizi Channel
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/timeless_dizi_channel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Советское кино" group-title="Провайдер 6 (Сибирь)", Советское кино
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/sovetskoekino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Классика Кино" group-title="Провайдер 6 (Сибирь)", Классика Кино
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/klassikakino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Комедия" group-title="Провайдер 6 (Сибирь)", Комедия
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/komediya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Мир сериала" group-title="Провайдер 6 (Сибирь)", Мир сериала
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/mir_seriala/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Мосфильм. Золотая коллекция" group-title="Провайдер 6 (Сибирь)", Мосфильм. Золотая коллекция
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/mosfilm_zolotaya_kollektsiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Мужской" group-title="Провайдер 6 (Сибирь)", Мужской
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/muzhskoj/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Краснодар HD" group-title="Провайдер 6 (Сибирь)", Краснодар HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/krasnodar_on_layn/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="КРИК-ТВ" group-title="Провайдер 6 (Сибирь)", КРИК-ТВ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/krik_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Кто Куда" group-title="Провайдер 6 (Сибирь)", Кто Куда
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/mir_uvlecheniy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Кухня ТВ" group-title="Провайдер 6 (Сибирь)", Кухня ТВ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/kitchentv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ЛДПР ТВ" group-title="Провайдер 6 (Сибирь)", ЛДПР ТВ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/ldpr_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Лен ТВ 24" group-title="Провайдер 6 (Сибирь)", Лен ТВ 24
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/len_tv24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Мир" group-title="Провайдер 6 (Сибирь)", Мир
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/mir/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Мир 24" group-title="Провайдер 6 (Сибирь)", Мир 24
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/mir24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Москва-24" group-title="Провайдер 6 (Сибирь)", Москва-24
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/moskva_24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Наша Тема HD" group-title="Провайдер 6 (Сибирь)", Наша Тема HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/nasha_tema/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ННТВ" group-title="Провайдер 6 (Сибирь)", ННТВ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/nntv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="НТС" group-title="Провайдер 6 (Сибирь)", НТС
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/nts/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ОРТРК 12 канал" group-title="Провайдер 6 (Сибирь)", ОРТРК 12 канал
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/ortrk12/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ОТР" group-title="Провайдер 6 (Сибирь)", ОТР
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/otvrus/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ОТР (+4)" group-title="Провайдер 6 (Сибирь)", ОТР (+4)
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/otvrus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ОТС HD" group-title="Провайдер 6 (Сибирь)", ОТС HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/ots/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="365 дней" group-title="Провайдер 6 (Сибирь)", 365 дней
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/365_days/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Кузбасс 1 FHD" group-title="Провайдер 6 (Сибирь)", Кузбасс 1 FHD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/gtrk_kuzbass/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Киносат" group-title="Провайдер 6 (Сибирь)", Киносат
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/kinosat/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="MyZen TV" group-title="Провайдер 6 (Сибирь)", MyZen TV
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/myzen_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Ностальгия" group-title="Провайдер 6 (Сибирь)", Ностальгия
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/nostalgy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Победа HD" group-title="Провайдер 6 (Сибирь)", Победа HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/pobeda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Поехали!" group-title="Провайдер 6 (Сибирь)", Поехали!
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/poehali/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Домашний" group-title="Провайдер 6 (Сибирь)", Домашний
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/domashny/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Авто 24" group-title="Провайдер 6 (Сибирь)", Авто 24
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/avto_24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Авто плюс" group-title="Провайдер 6 (Сибирь)", Авто плюс
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/auto_plus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ВРЕМЯ" group-title="Провайдер 6 (Сибирь)", ВРЕМЯ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/time/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ДОН 24" group-title="Провайдер 6 (Сибирь)", ДОН 24
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/don_24/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="12 Канал (Омск)" group-title="Провайдер 6 (Сибирь)", 12 Канал (Омск)
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/kanal_12/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Драйв" group-title="Провайдер 6 (Сибирь)", Драйв
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/drive/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Евпатория ТВ" group-title="Провайдер 6 (Сибирь)", Евпатория ТВ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/evpatorija/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Еврокино" group-title="Провайдер 6 (Сибирь)", Еврокино
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/eurokino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Еда Премиум" group-title="Провайдер 6 (Сибирь)", Еда Премиум
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/eda_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Живи" group-title="Провайдер 6 (Сибирь)", Живи
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/jv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Звезда" group-title="Провайдер 6 (Сибирь)", Звезда
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/zvezda/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Известия HD" group-title="Провайдер 6 (Сибирь)", Известия HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/izvestiya_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Первый вегетарианский" group-title="Провайдер 6 (Сибирь)", Первый вегетарианский
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/pervyy_vegetarianskiy/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Про Жизнь" group-title="Провайдер 6 (Сибирь)", Про Жизнь
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/pro_zhizn/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Психология 21" group-title="Провайдер 6 (Сибирь)", Психология 21
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/psych_21/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Пятница" group-title="Провайдер 6 (Сибирь)", Пятница
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/friday/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="РБК" group-title="Провайдер 6 (Сибирь)", РБК
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/rbk/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Салям" group-title="Провайдер 6 (Сибирь)", Салям
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/salyam/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="САМОТЛОР (Нижневартовск)" group-title="Провайдер 6 (Сибирь)", САМОТЛОР (Нижневартовск)
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/samotlor/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Санкт-Петербург" group-title="Провайдер 6 (Сибирь)", Санкт-Петербург
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/topspb/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="360 Новости" group-title="Провайдер 6 (Сибирь)", 360 Новости
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/360_novosti/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="49 КАНАЛ" group-title="Провайдер 6 (Сибирь)", 49 КАНАЛ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/49kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="5 канал +4" group-title="Провайдер 6 (Сибирь)", 5 канал +4
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/5kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="8 канал" group-title="Провайдер 6 (Сибирь)", 8 канал
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/8_kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="8 канал Красноярский край" group-title="Провайдер 6 (Сибирь)", 8 канал Красноярский край
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/ya1pm/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Сарафан" group-title="Провайдер 6 (Сибирь)", Сарафан
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/sarafan/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Сибирь 24" group-title="Провайдер 6 (Сибирь)", Сибирь 24
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/sibir_24/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Союз" group-title="Провайдер 6 (Сибирь)", Союз
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/soyuz/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="СПАС" group-title="Провайдер 6 (Сибирь)", СПАС
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/spas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="СТС" group-title="Провайдер 6 (Сибирь)", СТС
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/sts/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="СТС love" group-title="Провайдер 6 (Сибирь)", СТС love
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/sts_love/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ТВЦ +4" group-title="Провайдер 6 (Сибирь)", ТВЦ +4
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tvc/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ТВ3" group-title="Провайдер 6 (Сибирь)", ТВ3
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tv3/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ТВК FHD" group-title="Провайдер 6 (Сибирь)", ТВК FHD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tvk_6/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Телекафе" group-title="Провайдер 6 (Сибирь)", Телекафе
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/telekafe/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ТИВИКОМ" group-title="Провайдер 6 (Сибирь)", ТИВИКОМ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tivikom/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ТНВ-Планета" group-title="Провайдер 6 (Сибирь)", ТНВ-Планета
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tnv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Усадьба" group-title="Провайдер 6 (Сибирь)", Усадьба
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/usadba/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Центральное телевидение" group-title="Провайдер 6 (Сибирь)", Центральное телевидение
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tvc_ctv/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Че" group-title="Провайдер 6 (Сибирь)", Че
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/perec/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Ю (+4)" group-title="Провайдер 6 (Сибирь)", Ю (+4)
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/utv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Ювелирочка" group-title="Провайдер 6 (Сибирь)", Ювелирочка
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/yuvelirochka/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="ТНТ Music" group-title="Провайдер 6 (Сибирь)", ТНТ Music
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tnt_music/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="МузТВ" group-title="Провайдер 6 (Сибирь)", МузТВ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/muz_tvnew/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Ля-минор" group-title="Провайдер 6 (Сибирь)", Ля-минор
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/la_minor/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="RU.TV" group-title="Провайдер 6 (Сибирь)", RU.TV
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/rutv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="1HD" group-title="Провайдер 6 (Сибирь)", 1HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/firstmuz/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Шансон ТВ" group-title="Провайдер 6 (Сибирь)", Шансон ТВ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/shanson/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Мультимузыка" group-title="Провайдер 6 (Сибирь)", Мультимузыка
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/multmusic/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Уникум" group-title="Провайдер 6 (Сибирь)", Уникум
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="СТС Kids HD" group-title="Провайдер 6 (Сибирь)", СТС Kids HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Сказки Зайки" group-title="Провайдер 6 (Сибирь)", Сказки Зайки
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/skazkizayki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Рыжий" group-title="Провайдер 6 (Сибирь)", Рыжий
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/red/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Радость моя" group-title="Провайдер 6 (Сибирь)", Радость моя
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/radost_moj/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="МУЛЬТ" group-title="Провайдер 6 (Сибирь)", МУЛЬТ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/mult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Мама" group-title="Провайдер 6 (Сибирь)", Мама
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/motherchi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Карусель" group-title="Провайдер 6 (Сибирь)", Карусель
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/karusel/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Супергерои" group-title="Провайдер 6 (Сибирь)", Супергерои
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/supergeroi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Смайлик ТВ" group-title="Провайдер 6 (Сибирь)", Смайлик ТВ
+#EXTGRP:Провайдер 6 (Сибирь)
+http://hls.peers.tv/streaming/smayliktv/126/tvrecw/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Детский мир" group-title="Провайдер 6 (Сибирь)", Детский мир
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/detskij_mir/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Лёва" group-title="Провайдер 6 (Сибирь)", Лёва
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Солнце" group-title="Провайдер 6 (Сибирь)", Солнце
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/solntse/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="В гостях у сказки" group-title="Провайдер 6 (Сибирь)", В гостях у сказки
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/v_gostyah_u_skazki/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="TiJi" group-title="Провайдер 6 (Сибирь)", TiJi
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/tiji/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Gulli Girl" group-title="Провайдер 6 (Сибирь)", Gulli Girl
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Da Vinci" group-title="Провайдер 6 (Сибирь)", Da Vinci
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/da_vinci/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Bolt HD" group-title="Провайдер 6 (Сибирь)", Bolt HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/bolt_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Ani" group-title="Провайдер 6 (Сибирь)", Ani
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/ani/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Мультиландия" group-title="Провайдер 6 (Сибирь)", Мультиландия
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/multilandiya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Мультимания" group-title="Провайдер 6 (Сибирь)", Мультимания
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/multimania/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Советские мультфильмы" group-title="Провайдер 6 (Сибирь)", Советские мультфильмы
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/sovetskiemult/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Матч! Игра" group-title="Провайдер 6 (Сибирь)", Матч! Игра
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Матч! страна" group-title="Провайдер 6 (Сибирь)", Матч! страна
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Viasat Sport HD" group-title="Провайдер 6 (Сибирь)", Viasat Sport HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Футбол HD" group-title="Провайдер 6 (Сибирь)", Футбол HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Матч! Боец" group-title="Провайдер 6 (Сибирь)", Матч! Боец
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/boets/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="KHL" group-title="Провайдер 6 (Сибирь)", KHL
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="KHL Prime HD" group-title="Провайдер 6 (Сибирь)", KHL Prime HD
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/kxl_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="MMA-TV.COM" group-title="Провайдер 6 (Сибирь)", MMA-TV.COM
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Мир Баскетбола" group-title="Провайдер 6 (Сибирь)", Мир Баскетбола
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Старт" group-title="Провайдер 6 (Сибирь)", Старт
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/start/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
+#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-name="Русский Экстрим" group-title="Провайдер 6 (Сибирь)", Русский Экстрим
+#EXTGRP:Провайдер 6 (Сибирь)
+http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzI0NzgzMDYsImlhdCI6MTczMjM5MTkwNiwiY2lkIjo2LCJ1aWQiOjg2MTA5MDg2NywicmVnIjpmYWxzZSwiaXAiOjE4NDQ0MTI2NzgsImFkdWx0IjpmYWxzZX0.AJmqsvvGFekyrUVRJOfntMBMmGUaFkLD-Ysl8tYPNko&offset=10
