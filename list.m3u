@@ -4420,4 +4420,517 @@ https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=Dh
 https://bl.rutube.ru/livestream/9faeeb8f8896f6d04517c7d77fdf5e51/index.m3u8?s=NA4lf7O98fXoZXTYL8SnWA&e=1732780940&scheme=https
 #EXTINF:-1  group-title="Провайдер 4" ,WORLD FISHING NETWORK
 https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=qXR8hAl3hl6MUYou-V_v2A&e=1732780941&scheme=https
+#EXTINF:-1 tvg-name="Первый канал" group-title="Провайдер 5", Первый канал
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Pervyj/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ТНТ" group-title="Провайдер 5", ТНТ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TNT/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Россия К" group-title="Провайдер 5", Россия К
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/RossiyaK/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Россия 1" group-title="Провайдер 5", Россия 1
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Rossiya1/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Россия 24" group-title="Провайдер 5", Россия 24
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Rossiya24/index.m3u8?token=test
+#EXTINF:-1 tvg-name="РЕН ТВ" group-title="Провайдер 5", РЕН ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/REN/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ТНТ4" group-title="Провайдер 5", ТНТ4
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TNT4/index.m3u8?token=test
+#EXTINF:-1 tvg-name="НТВ" group-title="Провайдер 5", НТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/NTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="НТВ Право" group-title="Провайдер 5", НТВ Право
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/NTVPravo/index.m3u8?token=test
+#EXTINF:-1 tvg-name="НТВ Стиль" group-title="Провайдер 5", НТВ Стиль
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/NTVStil/index.m3u8?token=test
+#EXTINF:-1 tvg-name="НТВ Хит" group-title="Провайдер 5", НТВ Хит
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/NTVXit/index.m3u8?token=test
+#EXTINF:-1 tvg-name="НТВ Сериал" group-title="Провайдер 5", НТВ Сериал
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/NTVSerial/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Большая Азия" group-title="Провайдер 5", Большая Азия
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/BolshayaAziya/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Телепутешествия" group-title="Провайдер 5", Телепутешествия
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Teleputeshestviya/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Русский Экстрим" group-title="Провайдер 5", Русский Экстрим
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/RusskijEkstrim/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Приключения HD" group-title="Провайдер 5", Приключения HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Priklyucheniya_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Диалоги о Рыбалке" group-title="Провайдер 5", Диалоги о Рыбалке
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/DialogiORybalke/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Моя Планета" group-title="Провайдер 5", Моя Планета
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/MoyaPlaneta/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Охотник и рыболов HD" group-title="Провайдер 5", Охотник и рыболов HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/OxotnikIRybolov_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Рыболов" group-title="Провайдер 5", Рыболов
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/OxotnikIRybolov/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Дикая охота HD" group-title="Провайдер 5", Дикая охота HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Dikaya_Ohota/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Дикая рыбалка HD" group-title="Провайдер 5", Дикая рыбалка HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Dikaya_Rybalka/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Дикий" group-title="Провайдер 5", Дикий
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Dikiy/index.m3u8?token=test
+#EXTINF:-1 tvg-name="В мире животных HD" group-title="Провайдер 5", В мире животных HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/VMireZhivotnyx/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Загородный" group-title="Провайдер 5", Загородный
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Zagorodnyj/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Живая Планета" group-title="Провайдер 5", Живая Планета
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/ZhivayaPlaneta/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ЖИВАЯ ПРИРОДА HD" group-title="Провайдер 5", ЖИВАЯ ПРИРОДА HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/ZhivayaPriroda_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="История" group-title="Провайдер 5", История
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Istoriya/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Нано ТВ HD" group-title="Провайдер 5", Нано ТВ HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/NANO_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="В мире животных" group-title="Провайдер 5", В мире животных
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/VMireZhivotnyx/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Ключ" group-title="Провайдер 5", Ключ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Klyuch/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Нано ТВ" group-title="Провайдер 5", Нано ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Nano/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Наша Сибирь" group-title="Провайдер 5", Наша Сибирь
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/NashaSibir/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Тайна" group-title="Провайдер 5", Тайна
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Tayna/index.m3u8?token=test
+#EXTINF:-1 tvg-name="CGTN-Русский" group-title="Провайдер 5", CGTN-Русский
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/CGTN-Russkij/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Наука" group-title="Провайдер 5", Наука
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Nauka/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Зоо ТВ" group-title="Провайдер 5", Зоо ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/ZooTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Техно 24" group-title="Провайдер 5", Техно 24
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/T24/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Первый космический HD" group-title="Провайдер 5", Первый космический HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Evrika_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ТОЧКА ОТРЫВА" group-title="Провайдер 5", ТОЧКА ОТРЫВА
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TochkoOtryva/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Арсенал HD" group-title="Провайдер 5", Арсенал HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Arsenal_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="TRASH" group-title="Провайдер 5", TRASH
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TRASH/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Наше Мужское" group-title="Провайдер 5", Наше Мужское
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/NasheMuzhskoe/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Наш Кинопоказ" group-title="Провайдер 5", Наш Кинопоказ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/NashKinopokaz/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Блокбастер" group-title="Провайдер 5", Блокбастер
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Blockbaster/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Хит" group-title="Провайдер 5", Хит
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Xit/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Про Любовь" group-title="Провайдер 5", Про Любовь
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/ProLyubov/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Камеди" group-title="Провайдер 5", Камеди
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Camedi/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Кинопоказ" group-title="Провайдер 5", Кинопоказ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Kinopokaz/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Победа" group-title="Провайдер 5", Победа
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Pobeda/index.m3u8?token=test
+#EXTINF:-1 tvg-name="НСТ" group-title="Провайдер 5", НСТ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/NST/index.m3u8?token=test
+#EXTINF:-1 tvg-name="КиноСат" group-title="Провайдер 5", КиноСат
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/KinoSat/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ЕвроКино" group-title="Провайдер 5", ЕвроКино
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/EuroKino/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Русский Роман" group-title="Провайдер 5", Русский Роман
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/RusskijRoman/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Русский Иллюзион" group-title="Провайдер 5", Русский Иллюзион
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/RusIlluzion/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Иллюзион+" group-title="Провайдер 5", Иллюзион+
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Illyuzion+/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Ретро" group-title="Провайдер 5", Ретро
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Retro/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Кино ТВ" group-title="Провайдер 5", Кино ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Kino_TV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="FAN" group-title="Провайдер 5", FAN
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/FAN/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Капитан Фантастика" group-title="Провайдер 5", Капитан Фантастика
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/KapitanFantastika/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Суббота!" group-title="Провайдер 5", Суббота!
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Super/index.m3u8?token=test
+#EXTINF:-1 tvg-name="TVMChannel" group-title="Провайдер 5", TVMChannel
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TVMChannel/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Лен ТВ 24" group-title="Провайдер 5", Лен ТВ 24
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/LenTV24/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Сарафан" group-title="Провайдер 5", Сарафан
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Sarafan/index.m3u8?token=test
+#EXTINF:-1 tvg-name="9 ВОЛНА" group-title="Провайдер 5", 9 ВОЛНА
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/9volna/index.m3u8?token=test
+#EXTINF:-1 tvg-name="АВТО 24" group-title="Провайдер 5", АВТО 24
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/AVTO24/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Драйв" group-title="Провайдер 5", Драйв
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Draiv/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Еда HD" group-title="Провайдер 5", Еда HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Eda/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Известия Воронеж" group-title="Провайдер 5", Известия Воронеж
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/IzvestiyaVoronezh/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Доктор" group-title="Провайдер 5", Доктор
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Doktor/index.m3u8?token=test
+#EXTINF:-1 tvg-name="UNIVER TV" group-title="Провайдер 5", UNIVER TV
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/UNIVERTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Успех" group-title="Провайдер 5", Успех
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/VashUspex/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Сочи 24 HD" group-title="Провайдер 5", Сочи 24 HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Sochi24_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Sochi Live HD" group-title="Провайдер 5", Sochi Live HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/SochiLive_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Крым 24" group-title="Провайдер 5", Крым 24
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Krym24/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Беларусь 24" group-title="Провайдер 5", Беларусь 24
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Belarus24_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="БелРос" group-title="Провайдер 5", БелРос
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/BelRos/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Центральное телевидение" group-title="Провайдер 5", Центральное телевидение
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/CentralnoeTelevidenie/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ДОН 24" group-title="Провайдер 5", ДОН 24
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/DON24/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Вместе-РФ" group-title="Провайдер 5", Вместе-РФ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Vmeste-RF_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Хабар 24 HD" group-title="Провайдер 5", Хабар 24 HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Xabar24_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Жар Птица" group-title="Провайдер 5", Жар Птица
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/ZharPtica/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Калейдоскоп ТВ" group-title="Провайдер 5", Калейдоскоп ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/KalejdoskopTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Kazakh TV HD" group-title="Провайдер 5", Kazakh TV HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/KazakhTV_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Первый Крымский" group-title="Провайдер 5", Первый Крымский
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/PervyjKrymskij/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Продвижение" group-title="Провайдер 5", Продвижение
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Prodvizhenie/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Пёс и Ко" group-title="Провайдер 5", Пёс и Ко
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/PyosIKo/index.m3u8?token=test
+#EXTINF:-1 tvg-name="РАТНИК" group-title="Провайдер 5", РАТНИК
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/RATNIK/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Российский Национальный Канал" group-title="Провайдер 5", Российский Национальный Канал
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Rezonans/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Родной канал" group-title="Провайдер 5", Родной канал
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/RodnoyKanal/index.m3u8?token=test
+#EXTINF:-1 tvg-name="РЖД ТВ" group-title="Провайдер 5", РЖД ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/RZhDTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Ника ТВ" group-title="Провайдер 5", Ника ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/NikaTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Курай ТВ" group-title="Провайдер 5", Курай ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/KurajTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ЛДПР ТВ" group-title="Провайдер 5", ЛДПР ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/LDPRTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="8 Канал" group-title="Провайдер 5", 8 Канал
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/8Kanal/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ВТК "АРГУС"" group-title="Провайдер 5", ВТК "АРГУС"
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/41_kanal/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Архыз 24" group-title="Провайдер 5", Архыз 24
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Arxyz24/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Муз Союз" group-title="Провайдер 5", Муз Союз
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/MuzSoyuz/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Надежда" group-title="Провайдер 5", Надежда
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Nadezhda/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Красная Линия" group-title="Провайдер 5", Красная Линия
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/KrasnayaLiniya/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Союз" group-title="Провайдер 5", Союз
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Soyuz/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ТНВ-Татарстан" group-title="Провайдер 5", ТНВ-Татарстан
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Tatarstan/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Точка ТВ" group-title="Провайдер 5", Точка ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TochkaTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Три Ангела" group-title="Провайдер 5", Три Ангела
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TriAngela/index.m3u8?token=test
+#EXTINF:-1 tvg-name="TV BRICS" group-title="Провайдер 5", TV BRICS
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TVBRICS/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Крик ТВ" group-title="Провайдер 5", Крик ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/KRIKTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Дума ТВ" group-title="Провайдер 5", Дума ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/DumaTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="CGTN" group-title="Провайдер 5", CGTN
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/CGTN/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Домашний" group-title="Провайдер 5", Домашний
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Domashnij/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Че" group-title="Провайдер 5", Че
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Che/index.m3u8?token=test
+#EXTINF:-1 tvg-name="О!" group-title="Провайдер 5", О!
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/O/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Красная Линия" group-title="Провайдер 5", Красная Линия
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/KrasnayaLiniya/index.m3u8?token=test
+#EXTINF:-1 tvg-name="МИР" group-title="Провайдер 5", МИР
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/MIR/index.m3u8?token=test
+#EXTINF:-1 tvg-name="2х2" group-title="Провайдер 5", 2х2
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/2x2/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ОТР" group-title="Провайдер 5", ОТР
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/OTR/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Пятница" group-title="Провайдер 5", Пятница
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Pyatnica/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Пятый канал" group-title="Провайдер 5", Пятый канал
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Pyatyj/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Первый Вегетарианский" group-title="Провайдер 5", Первый Вегетарианский
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/PervyjVegetarianskij/index.m3u8?token=test
+#EXTINF:-1 tvg-name="РБК" group-title="Провайдер 5", РБК
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/RBK/index.m3u8?token=test
+#EXTINF:-1 tvg-name="СПАС" group-title="Провайдер 5", СПАС
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Spas/index.m3u8?token=test
+#EXTINF:-1 tvg-name="СТС" group-title="Провайдер 5", СТС
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/STS/index.m3u8?token=test
+#EXTINF:-1 tvg-name="СТС Love" group-title="Провайдер 5", СТС Love
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/STSLove/index.m3u8?token=test
+#EXTINF:-1 tvg-name="360 новости" group-title="Провайдер 5", 360 новости
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/360Novosti/index.m3u8?token=test
+#EXTINF:-1 tvg-name="360°" group-title="Провайдер 5", 360°
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Telekanal360_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ТВ3" group-title="Провайдер 5", ТВ3
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TV3/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ТВЦ" group-title="Провайдер 5", ТВЦ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TVCentr/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Москва 24" group-title="Провайдер 5", Москва 24
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Moskva24/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Москва Доверие" group-title="Провайдер 5", Москва Доверие
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/MoskvaDoverie/index.m3u8?token=test
+#EXTINF:-1 tvg-name="TV Губерния" group-title="Провайдер 5", TV Губерния
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TVGuberniya/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Ю" group-title="Провайдер 5", Ю
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Yu/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Тонус" group-title="Провайдер 5", Тонус
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Zdorove/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Звезда" group-title="Провайдер 5", Звезда
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Zvezda/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Luxury HD" group-title="Провайдер 5", Luxury HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/LUXURY_HD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Конный мир" group-title="Провайдер 5", Конный мир
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Konniy_Mir/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Известия HD" group-title="Провайдер 5", Известия HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Izvestiya/index.m3u8?token=test
+#EXTINF:-1 tvg-name="СВЕТЛОЕ ТВ HD" group-title="Провайдер 5", СВЕТЛОЕ ТВ HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/SvetloeTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Матур ТВ" group-title="Провайдер 5", Матур ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/MaturTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Мир белогорья" group-title="Провайдер 5", Мир белогорья
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/MirBelogorya/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Теледом HD" group-title="Провайдер 5", Теледом HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TeledomHD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="SAN PORTO" group-title="Провайдер 5", SAN PORTO
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/SAN_PORTO/index.m3u8?token=test
+#EXTINF:-1 tvg-name="7 ТВ" group-title="Провайдер 5", 7 ТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/7tv/index.m3u8?token=test
+#EXTINF:-1 tvg-name="МИР 24" group-title="Провайдер 5", МИР 24
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/MIR24/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ETV" group-title="Провайдер 5", ETV
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/ETV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="БСТ" group-title="Провайдер 5", БСТ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/BST/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Arirang HD" group-title="Провайдер 5", Arirang HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Arirang/index.m3u8?token=test
+#EXTINF:-1 tvg-name="РАДОСТЬ МОЯ" group-title="Провайдер 5", РАДОСТЬ МОЯ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/RadostMoya/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Уникум" group-title="Провайдер 5", Уникум
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Unikum/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Карусель" group-title="Провайдер 5", Карусель
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Karusel/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Бобёр" group-title="Провайдер 5", Бобёр
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Bober/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Мульт" group-title="Провайдер 5", Мульт
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Mult/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Мультиландия" group-title="Провайдер 5", Мультиландия
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Multilandiya/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Мама" group-title="Провайдер 5", Мама
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Mama/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Мультимузыка" group-title="Провайдер 5", Мультимузыка
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Multimuzyka/index.m3u8?token=test
+#EXTINF:-1 tvg-name="СОЛНЦЕ" group-title="Провайдер 5", СОЛНЦЕ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Disney/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Рыжий" group-title="Провайдер 5", Рыжий
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Ryzhij/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Ani" group-title="Провайдер 5", Ani
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Ani/index.m3u8?token=test
+#EXTINF:-1 tvg-name="TiJi" group-title="Провайдер 5", TiJi
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TiJi/index.m3u8?token=test
+#EXTINF:-1 tvg-name="БОБЕР" group-title="Провайдер 5", БОБЕР
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/Bober/index.m3u8?token=test
+#EXTINF:-1 tvg-name="МузТВ" group-title="Провайдер 5", МузТВ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/MUZTV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ЖАРА" group-title="Провайдер 5", ЖАРА
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/ZhARA/index.m3u8?token=test
+#EXTINF:-1 tvg-name="RU.TV" group-title="Провайдер 5", RU.TV
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/RU.TV/index.m3u8?token=test
+#EXTINF:-1 tvg-name="ТНТ music" group-title="Провайдер 5", ТНТ music
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/TNTMusic/index.m3u8?token=test
+#EXTINF:-1 tvg-name="RUSSIAN MUSIC BOX" group-title="Провайдер 5", RUSSIAN MUSIC BOX
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/RUSSIANMUSICBOX/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Музыка Первого" group-title="Провайдер 5", Музыка Первого
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/MuzikaPervogo/index.m3u8?token=test
+#EXTINF:-1 tvg-name="О2" group-title="Провайдер 5", О2
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/O2/index.m3u8?token=test
+#EXTINF:-1 tvg-name="Европа Плюс ТВ HD" group-title="Провайдер 5", Европа Плюс ТВ HD
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/EuropaHD/index.m3u8?token=test
+#EXTINF:-1 tvg-name="BRIDGE TV CLASSIC" group-title="Провайдер 5", BRIDGE TV CLASSIC
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/BRIDGETVCLASSIC/index.m3u8?token=test
+#EXTINF:-1 tvg-name="BRIDGE TV ФРЭШ" group-title="Провайдер 5", BRIDGE TV ФРЭШ
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/BRIDGE_FRESH/index.m3u8?token=test
+#EXTINF:-1 tvg-name="BRIDGE TV HITS" group-title="Провайдер 5", BRIDGE TV HITS
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/BRIDGETVDANCE/index.m3u8?token=test
+#EXTINF:-1 tvg-name="BRIDGE TV Русский хит" group-title="Провайдер 5", BRIDGE TV Русский хит
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/BRIDGETVRusskijXit/index.m3u8?token=test
+#EXTINF:-1 tvg-name="BRIDGE TV ШЛЯГЕР" group-title="Провайдер 5", BRIDGE TV ШЛЯГЕР
+#EXTGRP:Провайдер 5
+http://185.23.80.28:8080/BridgeTVShlyager/index.m3u8?token=test
 #EXT-X-ENDLIST
