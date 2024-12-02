@@ -1,3 +1,4 @@
+#EXTM3U 
 #EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от 02.12.2024", Обновление от 02.12.2024
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="pervy"  tvg-logo="http://i122.fastpic.org/big/2023/0704/13/cd5a5508b20da12d6131cafd8eb23513.png" ,Первый канал HD
@@ -2390,7 +2391,7 @@ https://mults.info/mp4/krepysh.mp4
 https://mults.info/mp4/aibolit_krokodil_i_solnce.mp4
 #EXTINF:-1  group-title="Мульты СССР"   tvg-name="Крот и телефон", Крот и телефон
 https://mults.info/mp4/krot_i_telefon.mp4
-#EXTINF:-1  group-title="Мульты СССР"   tvg-name="Крылатый мохнатый,масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г." group-title="Мульты СССР", Крылатый мохнатый,масляный 1990г.
+#EXTINF:-1  group-title="Мульты СССР"   tvg-name="Крылатый мохнатый,масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г.",масляный 1990г." group-title="Мульты СССР", Крылатый мохнатый,масляный 1990г.
 https://mults.info/mp4/kryloma.mp4
 #EXTINF:-1  group-title="Мульты СССР"   tvg-name="Летели два верблюда 1988г.", Летели два верблюда 1988г.
 https://mults.info/mp4/leteli_dva_verbluda.mp4
@@ -2758,7 +2759,7 @@ https://mults.info/mp4/krot_i_tranzistor.mp4
 https://mults.info/mp4/letuchiy_korabl.mp4
 #EXTINF:-1  group-title="Мульты СССР"   tvg-name="Метеор на ринге", Метеор на ринге
 https://mults.info/mp4/meteor_na_ringe.mp4
-#EXTINF:-1  group-title="Мульты СССР"   tvg-name="Ну Погоди! (телевыпуски 2,3)",3)",3)",3)",3)",3)",3)",3)",3)",3)" group-title="Мульты СССР", Ну Погоди! (телевыпуски 2,3)
+#EXTINF:-1  group-title="Мульты СССР"   tvg-name="Ну Погоди! (телевыпуски 2,3)",3)",3)",3)",3)",3)",3)",3)",3)",3)",3)" group-title="Мульты СССР", Ну Погоди! (телевыпуски 2,3)
 https://mults.info/mp4/nu_pogodi_tv.mp4
 #EXTINF:-1  group-title="Мульты СССР"   tvg-name="Обезьянки и грабители", Обезьянки и грабители
 https://mults.info/mp4/obezyanki_i_grabiteli.mp4
@@ -4294,8 +4295,6 @@ http://api.peers.tv/timeshift/mma_tv_com/16/playlist.m3u8?token=eyJhbGciOiJIUzI1
 http://api.peers.tv/timeshift/mir_basketbola/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzMyMTI4ODgsImlhdCI6MTczMzEyNjQ4OCwiY2lkIjo2LCJ1aWQiOjg2NDcwNjc0MCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.wy-E85LyX-s4M7nppU233gl69j6L_kTCSjRK6ntBiOc&offset=10
 #EXTINF:-1  group-title="Провайдер 4 (Сибирь)"  tvg-id="start"   catchup="append" catchup-days="7" catchup-source="&offset=${offset}",Старт
 http://api.peers.tv/timeshift/start/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzMyMTI4ODgsImlhdCI6MTczMzEyNjQ4OCwiY2lkIjo2LCJ1aWQiOjg2NDcwNjc0MCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.wy-E85LyX-s4M7nppU233gl69j6L_kTCSjRK6ntBiOc&offset=10
-#EXTINF:-1  group-title="Провайдер 4 (Сибирь)"  tvg-id="russky-ekstrim"   catchup="append" catchup-days="7" catchup-source="&offset=${offset}" catchup="append" catchup-days="7" catchup-source="&offset=${offset}",Русский Экстрим
-http://api.peers.tv/timeshift/ru_extrem/126/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzMyMTI4ODgsImlhdCI6MTczMzEyNjQ4OCwiY2lkIjo2LCJ1aWQiOjg2NDcwNjc0MCwicmVnIjpmYWxzZSwiaXAiOjE0MzM0MzM1ODcsImFkdWx0IjpmYWxzZX0.wy-E85LyX-s4M7nppU233gl69j6L_kTCSjRK6ntBiOc&offset=10#EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Peers (VPN)" ,Первый канал HD +4
 #EXTINF:-1  group-title="Провайдер 4 (Сибирь)"  tvg-id="pervy-pl4"   catchup="append" catchup-days="7" catchup-source="&offset=${offset}",Первый канал +4
 http://api.peers.tv/timeshift/1kanal/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MzMyMTI5MTgsImlhdCI6MTczMzEyNjUxOCwiY2lkIjo2LCJ1aWQiOjg2NDcwNjg5OCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjI1NDEsImFkdWx0IjpmYWxzZX0.q3-sBxyfri3bYXVeVaCspeaLd4AZJEP0jKryzDDl_m8&offset=10
 #EXTINF:-1  group-title="Провайдер 4 (Сибирь)"  tvg-id="rossia1"   catchup="append" catchup-days="7" catchup-source="&offset=${offset}",Россия HD
