@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz; https://gabbarit.page.link/epg"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="no_epg" tvg-logo="https://iptvshared.ucoz.net/20240413082653.png" group-title="ИНФО",HTTPS://T.ME/IPTV_SHARED
 https://iptvshared.ucoz.net/YouCut_20241002_033317533.mp4
