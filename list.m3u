@@ -1201,6 +1201,52 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzIzMzI3OCwiaHdpZCI6ImIzYTQxNDUxM2JmOGQyZDBlOTRiMzY3OWQyMGMxOTVlZjVmOTk3ZGM2ODM2NmRjMDkyNGQwMzI4NjgyNmVmNTQiLCJsYXN0X3JlcV9kYXRlIjoxNzM2NjI4NDc4LCJzZXNzaW9uX2lkIjoiNjdiMDVmOWVkZDkzODkzMDQ5YTJjZTgwOGMwNWVlM2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uQ9KNGrMtCOfPn2xbf9S_E36JR8nS9YcqHnAj5_sBFE
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" , МАЖОР
 https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzIzMzI3OCwiaHdpZCI6ImIzYTQxNDUxM2JmOGQyZDBlOTRiMzY3OWQyMGMxOTVlZjVmOTk3ZGM2ODM2NmRjMDkyNGQwMzI4NjgyNmVmNTQiLCJsYXN0X3JlcV9kYXRlIjoxNzM2NjI4NDc4LCJzZXNzaW9uX2lkIjoiNjdiMDVmOWVkZDkzODkzMDQ5YTJjZTgwOGMwNWVlM2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uQ9KNGrMtCOfPn2xbf9S_E36JR8nS9YcqHnAj5_sBFE
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman" , CINEMAN
+http://ip1.orgip.net/682/video.m3u8?token=Md7ac19a92
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-top" , CINEMAN TOP
+http://ott.server-iptv.live/683/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-premium" , CINEMAN PREMIUM
+http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-vhs" , CINEMAN VHS
+http://ip1.orgip.net/685/video.m3u8?token=Md7ac19a92
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-thriller" , CINEMAN THRILLER
+http://ip1.orgip.net/686/video.m3u8?token=Md7ac19a92
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-marvel" , CINEMAN MARVEL
+http://ott.server-iptv.live/688/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-action" , CINEMAN ACTION
+http://ip1.orgip.net/689/video.m3u8?token=Md7ac19a92
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-action" , CINEMAN ACTION
+http://ott.server-iptv.live/689/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-melodrama" , CINEMAN MELODRAMA
+http://ip1.orgip.net/690/video.m3u8?token=Md7ac19a92
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-comedy" , CINEMAN КОМЕДИЯ
+http://ip1.orgip.net/691/video.m3u8?token=Md7ac19a92
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-uzhasy" , CINEMAN УЖАСЫ
+http://ip1.orgip.net/692/video.m3u8?token=Md7ac19a92
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-katastrofy" , CINEMAN КАТАСТРОФЫ
+http://ip1.orgip.net/693/video.m3u8?token=Md7ac19a92
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="amedia1" , А1 HD
+http://ott.server-iptv.live/640/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="amedia2" , A2 HD
+http://ott.server-iptv.live/641/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="amedia-premium" , AMEDIA PREMIUM
+http://stream01.vnet.am/AmediaPremium/mono.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinopremiera-hd" , КИНОПРЕМЬЕРА HD
+http://ott.server-iptv.live/613/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="premialnoe-hd" , ПРЕМИАЛЬНОЕ HD
+http://ott.server-iptv.live/612/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinoxit" , КИНОХИТ
+http://ott.server-iptv.live/608/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinosvidanie" , КИНОСВИДАНИЕ
+http://ott.server-iptv.live/614/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinokomedia" , КИНОКОМЕДИЯ
+http://ott.server-iptv.live/654/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinouzhas" , КИНОУЖАС HD
+http://ott.server-iptv.live/642/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="blokbaster-hd" , БЛОКБАСТЕР HD
+http://ott.server-iptv.live/668/video.m3u8?token=M4f082ab4c
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="khit-hd" , ХИТ HD
+http://ott.server-iptv.live/665/video.m3u8?token=M4f082ab4c
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-01-07/5e/6b/5e6bc50af868f0e84fa63cfd69841af1.jpg" , Идеальный подарок для Лии (2024)
 https://river-1.rutube.ru/hls-vod/TYKQLegAHITJkGQmp55OTQ/1737140941/2540/0x5000039ce839a1dd/415e6b3b223d43fda000a8c26adf815b.mp4.m3u8?i=1920x1080_2858
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-01-07/2d/b7/2db746faddec48d2ced8009750aa5fe5.jpg" , Пустоши (2024)
@@ -10003,6 +10049,76 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099
 http://stream01.vnet.am/Channel_131/mono.m3u8
 #EXTINF:-1  group-title="Спортивные"  tvg-id="no_epg_sport"  tvg-logo="https://png.pngitem.com/pimgs/s/263-2636214_sports-logo-png-transparent-sports-png-download.png" , NetoSports
 https://netohls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football1" , МАТЧ! ФУТБОЛ 1
+http://ip1.orgip.net/202/video.m3u8?token=Md7ac19a92
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football2" , МАТЧ! ФУТБОЛ 2
+http://ip1.orgip.net/203/video.m3u8?token=Md7ac19a92
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football3" , МАТЧ! ФУТБОЛ 3
+http://ip1.orgip.net/204/video.m3u8?token=Md7ac19a92
+#EXTINF:-1  group-title="Спортивные" , NLSE
+http://vp-txpro.com:80/Astros1962/vLfVrpSZXCRa/52031
+#EXTINF:-1  group-title="Спортивные" , FS1
+http://vp-txpro.com:80/Astros1962/vLfVrpSZXCRa/52049
+#EXTINF:-1  group-title="Спортивные" , FS2
+http://vp-txpro.com:80/Astros1962/vLfVrpSZXCRa/52050
+#EXTINF:-1  group-title="Спортивные" , SKY SPORTS F1 FHD
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/164130
+#EXTINF:-1  group-title="Спортивные" , DAZN 1 BAR HD
+http://mjydxzp.luxevpn.xyz:900/PxRAMVFTsmS4SNA/CDCxnLDfNfG8MuD/164488
+#EXTINF:-1  group-title="Спортивные" , DAZN 2 BAR HD
+http://mjydxzp.luxevpn.xyz:900/PxRAMVFTsmS4SNA/CDCxnLDfNfG8MuD/164489
+#EXTINF:-1  group-title="Спортивные" , TNT SPORTS 1 HD
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47850.ts
+#EXTINF:-1  group-title="Спортивные" , TNT SPORTS 2 HD
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47851.ts
+#EXTINF:-1  group-title="Спортивные" , TNT SPORTS 3 HD
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47852.ts
+#EXTINF:-1  group-title="Спортивные" , TNT SPORTS 4 HD
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47853.ts
+#EXTINF:-1  group-title="Спортивные" , TNT SPORTS 5 HD
+http://kstv.us:8080/live/BWxD9XBSgz/2859225324/47854.ts
+#EXTINF:-1  group-title="Спортивные" , ZIGGO SPORT 2
+http://77.160.58.67:8004/play/a02b
+#EXTINF:-1  group-title="Спортивные" , ZIGGO SPORT 4
+http://77.160.58.67:8004/play/a02a
+#EXTINF:-1  group-title="Спортивные" , ZIGGO SPORT SELECT
+http://77.160.58.67:8004/play/a02d
+#EXTINF:-1  group-title="Спортивные" , ZIGGO SPORT SELECT HD NL
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/206477
+#EXTINF:-1  group-title="Спортивные" , ZIGGO SPORT SELECT FHD NL
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/206478
+#EXTINF:-1  group-title="Спортивные" , POLSAT SPORT NEWS HD
+http://185.236.229.62:9981/play/a06m
+#EXTINF:-1  group-title="Спортивные" , DIGI SPORT
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/202245
+#EXTINF:-1  group-title="Спортивные"  tvg-id="digisport3" , DIGI SPORT 3
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/194516
+#EXTINF:-1  group-title="Спортивные"  tvg-id="digisport4" , DIGI SPORT 4
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/194517
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-1" , BEIN SPORT 1 HD
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/203938
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-2" , BEIN SPORT 2 HD
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/203939
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-3" , BEIN SPORT 3 HD
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/203940
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-4" , BEIN SPORT 4 HD
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/203941
+#EXTINF:-1  group-title="Спортивные" , BEIN SPORT HABER HD
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/203942
+#EXTINF:-1  group-title="Спортивные"  tvg-id="arena-premium-1" , ARENA PREMIUM 1
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/133761
+#EXTINF:-1  group-title="Спортивные"  tvg-id="arena-premium-2" , ARENA PREMIUM 2
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/133762
+#EXTINF:-1  group-title="Спортивные"  tvg-id="arena-premium-3" , ARENA PREMIUM 3
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/60771
+#EXTINF:-1  group-title="Спортивные"  tvg-id="arena-sport-4" , ARENA SPORT 4
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/60780
+#EXTINF:-1  group-title="Спортивные"  tvg-id="arena-sport-5" , ARENA SPORT 5
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/133894
+#EXTINF:-1  group-title="Спортивные"  tvg-id="arena-sport-6" , ARENA SPORT 6
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/205662
+#EXTINF:-1  group-title="Спортивные"  tvg-id="arena-sport-8" , ARENA SPORT 8
+http://simpsongroups.com:7070/vladimirceric2152/igvLeV6zsQ/122510
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="matur-tv"  tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/08/42d1f2b0148e319bf9972f0303b7347e.png"   tvg-name="Матур ТВ", Матур ТВ
 http://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="muztv"  tvg-logo="https://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png"   tvg-name="Муз ТВ", Муз ТВ
