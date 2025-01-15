@@ -1201,52 +1201,6 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzIzMzI3OCwiaHdpZCI6ImIzYTQxNDUxM2JmOGQyZDBlOTRiMzY3OWQyMGMxOTVlZjVmOTk3ZGM2ODM2NmRjMDkyNGQwMzI4NjgyNmVmNTQiLCJsYXN0X3JlcV9kYXRlIjoxNzM2NjI4NDc4LCJzZXNzaW9uX2lkIjoiNjdiMDVmOWVkZDkzODkzMDQ5YTJjZTgwOGMwNWVlM2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uQ9KNGrMtCOfPn2xbf9S_E36JR8nS9YcqHnAj5_sBFE
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" , МАЖОР
 https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzIzMzI3OCwiaHdpZCI6ImIzYTQxNDUxM2JmOGQyZDBlOTRiMzY3OWQyMGMxOTVlZjVmOTk3ZGM2ODM2NmRjMDkyNGQwMzI4NjgyNmVmNTQiLCJsYXN0X3JlcV9kYXRlIjoxNzM2NjI4NDc4LCJzZXNzaW9uX2lkIjoiNjdiMDVmOWVkZDkzODkzMDQ5YTJjZTgwOGMwNWVlM2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.uQ9KNGrMtCOfPn2xbf9S_E36JR8nS9YcqHnAj5_sBFE
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman" , CINEMAN
-http://ip1.orgip.net/682/video.m3u8?token=Md7ac19a92
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-top" , CINEMAN TOP
-http://ott.server-iptv.live/683/video.m3u8?token=M4f082ab4c
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-premium" , CINEMAN PREMIUM
-http://ip1.orgip.net/1664/video.m3u8?token=Md7ac19a92
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-vhs" , CINEMAN VHS
-http://ip1.orgip.net/685/video.m3u8?token=Md7ac19a92
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-thriller" , CINEMAN THRILLER
-http://ip1.orgip.net/686/video.m3u8?token=Md7ac19a92
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-marvel" , CINEMAN MARVEL
-http://ott.server-iptv.live/688/video.m3u8?token=M4f082ab4c
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-action" , CINEMAN ACTION
-http://ip1.orgip.net/689/video.m3u8?token=Md7ac19a92
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-action" , CINEMAN ACTION
-http://ott.server-iptv.live/689/video.m3u8?token=M4f082ab4c
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-melodrama" , CINEMAN MELODRAMA
-http://ip1.orgip.net/690/video.m3u8?token=Md7ac19a92
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-comedy" , CINEMAN КОМЕДИЯ
-http://ip1.orgip.net/691/video.m3u8?token=Md7ac19a92
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-uzhasy" , CINEMAN УЖАСЫ
-http://ip1.orgip.net/692/video.m3u8?token=Md7ac19a92
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-katastrofy" , CINEMAN КАТАСТРОФЫ
-http://ip1.orgip.net/693/video.m3u8?token=Md7ac19a92
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="amedia1" , А1 HD
-http://ott.server-iptv.live/640/video.m3u8?token=M4f082ab4c
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="amedia2" , A2 HD
-http://ott.server-iptv.live/641/video.m3u8?token=M4f082ab4c
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="amedia-premium" , AMEDIA PREMIUM
-http://stream01.vnet.am/AmediaPremium/mono.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinopremiera-hd" , КИНОПРЕМЬЕРА HD
-http://ott.server-iptv.live/613/video.m3u8?token=M4f082ab4c
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="premialnoe-hd" , ПРЕМИАЛЬНОЕ HD
-http://ott.server-iptv.live/612/video.m3u8?token=M4f082ab4c
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinoxit" , КИНОХИТ
-http://ott.server-iptv.live/608/video.m3u8?token=M4f082ab4c
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinosvidanie" , КИНОСВИДАНИЕ
-http://ott.server-iptv.live/614/video.m3u8?token=M4f082ab4c
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinokomedia" , КИНОКОМЕДИЯ
-http://ott.server-iptv.live/654/video.m3u8?token=M4f082ab4c
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinouzhas" , КИНОУЖАС HD
-http://ott.server-iptv.live/642/video.m3u8?token=M4f082ab4c
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="blokbaster-hd" , БЛОКБАСТЕР HD
-http://ott.server-iptv.live/668/video.m3u8?token=M4f082ab4c
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="khit-hd" , ХИТ HD
-http://ott.server-iptv.live/665/video.m3u8?token=M4f082ab4c
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-01-07/5e/6b/5e6bc50af868f0e84fa63cfd69841af1.jpg" , Идеальный подарок для Лии (2024)
 https://river-1.rutube.ru/hls-vod/TYKQLegAHITJkGQmp55OTQ/1737140941/2540/0x5000039ce839a1dd/415e6b3b223d43fda000a8c26adf815b.mp4.m3u8?i=1920x1080_2858
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-01-07/2d/b7/2db746faddec48d2ced8009750aa5fe5.jpg" , Пустоши (2024)
@@ -9901,10 +9855,6 @@ https://v.tom-dzherri.net/video/film/480/Tom-i-Dzherri-Film-480.mp4
 https://v.tom-dzherri.net/video/film/480/Tom-i-Dzherri-Shpion-Kvest-480.mp4
 #EXTINF:-1  group-title="Мульты СССР"  tvg-logo="https://images.vfl.ru/ii/1620880961/bbf38358/34431133.jpg"   tvg-name="Том и Джерри:Волшебник из страны Оз (2011)", Том и Джерри:Волшебник из страны Оз (2011)
 https://v.tom-dzherri.net/video/film/480/Tom-i-Dzherri-i-Volshebnik-iz-strany-Oz-480.mp4
-#EXTINF:-1  group-title="Спортивные"  tvg-id="kxl" ,KHL
-http://arbiter.bolshoe.tv/?path=streaming/khl/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI1IDc6NTk6MzQgQU0maGFzaF92YWx1ZT1hQUI2SWJidHM0UWpQdnJyK3ZsK1JBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1  group-title="Спортивные"  tvg-id="kxl-hd" ,KHL Prime
-http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI1IDc6NTk6MzQgQU0maGFzaF92YWx1ZT1hQUI2SWJidHM0UWpQdnJyK3ZsK1JBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1  group-title="Спортивные"  tvg-id="football-ru" ,Телеканал Футбол
 http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI1IDc6NTk6MzQgQU0maGFzaF92YWx1ZT1hQUI2SWJidHM0UWpQdnJyK3ZsK1JBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1  group-title="Спортивные"  tvg-id="no_epg_sport"  tvg-logo="http://i121.fastpic.org/big/2023/0516/4d/521030ca4ff0c8d95a2e84d49555ff4d.png" , Поединок
