@@ -373,10 +373,6 @@ https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzYyMDU3MiwiaHdpZCI6Ijc2ZjljNjRmNzJjZWQ5YTQ3ZTZjZWM2NzFmNTEzYzBmNzE1MzYwOTIzOWY0Nzg5OTZhZDQyNmU4ZmE1MzVkNzgiLCJsYXN0X3JlcV9kYXRlIjoxNzM3MDE1NzcyLCJzZXNzaW9uX2lkIjoiY2I2MGY0NTM3NjE5NDQxNGFkNzZhNjhjZjNlNjEyMWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Zx5vAdgA29KtgprxTFELmfaeXbUpWhXgK0efFN1RpMg
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="anekdottv" ,Анекдот ТВ
 http://stream-msk-06.ott.tricolor.tv/dtv/id358_MSKSG-PVR-1--Anekdot_TV/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzYyMDU3MiwiaHdpZCI6Ijc2ZjljNjRmNzJjZWQ5YTQ3ZTZjZWM2NzFmNTEzYzBmNzE1MzYwOTIzOWY0Nzg5OTZhZDQyNmU4ZmE1MzVkNzgiLCJsYXN0X3JlcV9kYXRlIjoxNzM3MDE1NzcyLCJzZXNzaW9uX2lkIjoiY2I2MGY0NTM3NjE5NDQxNGFkNzZhNjhjZjNlNjEyMWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Zx5vAdgA29KtgprxTFELmfaeXbUpWhXgK0efFN1RpMg
-#EXTINF:-1  group-title="Развлекательные"  tvg-id="narod-vsio-vidit" ,Народ Всё Видит
-http://87.99.87.203:2007/channel/n699812e2/index.m3u8?q=5a96c7e48a4072ebac1835b78e965189
-#EXTINF:-1  group-title="Развлекательные"  tvg-id="nowy-igrowoj" ,Новый игровой канал
-http://87.99.87.203:2007/channel/30332566/index.m3u8?q=5a96c7e48a4072ebac1835b78e965189
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="no_epg_cinema"  tvg-logo="http://europe1-hls-cluster01-inter.onairtv.org:80/images/GcDgugVI-TfhTXNJd4LLyXbCLh7bkLJ5ZzEFEFubLrTrn8Pb9VfHmbvf1NzR_wh4.png" ,+Comedy
 http://europe1-hls-cluster01-inter.onairtv.org/zuce8raZdp/EXTmgfncgt/14.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="kvn-tv" , КВН ТВ
@@ -857,8 +853,6 @@ https://s3.gencit.info/content/stream/films/top.gear.s32e03.720p.coldfilm_386138
 https://s3.gencit.info/content/stream/films/top.gear.s32e04.720p.coldfilm_387762/hls/720/index.m3u8
 #EXTINF:-1  group-title="Top Gear"  tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg" ,32x5
 https://s3.gencit.info/content/stream/films/top.gear.s32e05.720p.coldfilm_388442/hls/720/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="plan-b" ,Plan B
-http://87.99.87.203:2007/channel/n1b7bd116/index.m3u8?q=5a96c7e48a4072ebac1835b78e965189
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="patriot" , Патриот
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTczNzYyMDU3MiwiaHdpZCI6Ijc2ZjljNjRmNzJjZWQ5YTQ3ZTZjZWM2NzFmNTEzYzBmNzE1MzYwOTIzOWY0Nzg5OTZhZDQyNmU4ZmE1MzVkNzgiLCJsYXN0X3JlcV9kYXRlIjoxNzM3MDE1NzcyLCJzZXNzaW9uX2lkIjoiY2I2MGY0NTM3NjE5NDQxNGFkNzZhNjhjZjNlNjEyMWEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Zx5vAdgA29KtgprxTFELmfaeXbUpWhXgK0efFN1RpMg
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kion-xit" , KION Хит
