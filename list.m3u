@@ -9865,6 +9865,14 @@ http://109.200.130.123:7537/play/a02l
 http://213.226.137.140:81/tl/l423/mpegts
 #EXTINF:-1  group-title="Спортивные"  tvg-id="no_epg_sport"  tvg-logo="https://m.media-amazon.com/images/I/41NhI9FSeQL._AC_UL800_QL65_.png" ,TENNIS CHANNEL
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="Спортивные" , ESPN 2
+http://vp-txpro.com:80/Astros1962/vLfVrpSZXCRa/52037
+#EXTINF:-1  group-title="Спортивные" , ESPN NEWS
+http://vp-txpro.com:80/Astros1962/vLfVrpSZXCRa/52038
+#EXTINF:-1  group-title="Спортивные" , ESPN
+http://vp-txpro.com:80/Astros1962/vLfVrpSZXCRa/52036
+#EXTINF:-1  group-title="Спортивные" , ESPN U
+http://vp-txpro.com:80/Astros1962/vLfVrpSZXCRa/52039
 #EXTINF:-1  group-title="Спортивные"  tvg-id="no_epg_sport"  tvg-logo="https://cdn-cache.wrestlingnewssource.com/u/d56737530d42b6738680ab9dd0bc81f1_600_400.jpg" , Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1  group-title="Спортивные"  tvg-id="max-sport-1" , MAX Sport 1 HD
