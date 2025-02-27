@@ -1,10 +1,6 @@
 #EXTM3U 
 #EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от 27.02.2025", Обновление от 27.02.2025
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1  group-title="Эфирные" ,Россия РТР 
-http://s7.merlive.am/RTRPlaneta/index.m3u8
-#EXTINF:-1  group-title="Эфирные" ,НТВ мир
-http://s7.merlive.am/NTVMir/index.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="pervy"  tvg-logo="http://i122.fastpic.org/big/2023/0704/13/cd5a5508b20da12d6131cafd8eb23513.png" ,Первый канал HD
 https://live-mirror-01.ott.tricolor.tv/live/live/1TV_hd/hls_enc/1TV_hd-avc1_2000000=10004_mp4a_59200_rus=20000.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 #EXTINF:-1  group-title="Эфирные"  tvg-id="rossia1"  tvg-logo="http://i122.fastpic.org/big/2023/0705/de/ab393bef44b80dc1d57351855763b4de.png" ,Россия 1 HD
@@ -109,52 +105,6 @@ http://31.210.208.171:8080/stslove/index.m3u8?token=+W2MSER
 http://31.210.208.171:8080/sts/index.m3u8?token=+W2MSER
 #EXTINF:-1  group-title="Эфирные"  tvg-id="tv3-ru"   tvg-name="ТВ3", ТВ3
 http://31.210.208.171:8080/tv3/index.m3u8?token=+W2MSER
-#EXTINF:-1  group-title="Познавательные"  tvg-id="ntv-pravo" ,НТВ Право
-http://s7.merlive.am/ntvpravo/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="discovery-channel" ,Discovery HD
-http://s7.merlive.am/discovery/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="ntv-style" ,НТВ стиль
-http://s7.merlive.am/ntvstil/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="glazami-turista" ,Глазами туриста HD
-http://s7.merlive.am/glazamituristahd/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="rtg-hd" ,RTG HD
-http://s7.merlive.am/rtgtv/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="national-geographic" ,National Geographic
-http://s7.merlive.am/NationalGeographic/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="istoria" ,История
-http://s7.merlive.am/History2/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="avto24" ,Авто 24
-http://s7.merlive.am/avto24/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="food-network" ,Food Network
-http://s7.merlive.am/FoodNetwork/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="euronews" ,EURONEWS
-http://s7.merlive.am/EURONEWS/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="mir-uvlecheniy" ,Кто куда
-http://s7.merlive.am/ktokuda/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="kto-est-kto" ,Кто есть кто
-http://s7.merlive.am/ktoestkto/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="dikiy" ,Дикий
-http://45.11.139.43:8555/dikiy/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="docubox-hd" ,Docubox
-http://45.11.139.43:8555/docubox/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="animal-planet-eu" ,Animal Planet
-http://45.11.139.43:8555/animal/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="nat-geo-wild" ,Nat Geo Wild
-http://45.11.139.43:8555/domkino/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="texno-24" ,24 Техно
-http://45.11.139.43:8555/t24/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="moya-planeta" ,Моя планета
-http://45.11.139.43:8555/moyaplaneta/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="glazami-turista" ,Глазами туриста HD
-http://45.11.139.43:8555/glazamiturista/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="nauka" ,Наука
-http://45.11.139.43:8555/nauka/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="ocean-tv" ,Ocean TV
-http://45.11.139.43:8555/ocean/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="nat-geo-wild" ,Nat geo Wild
-http://45.11.139.43:8555/natgeowild/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="istoria" ,История
-http://45.11.139.43:8555/istoriya/index.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="myy"  tvg-logo="https://iptvx.one/picons/myy.png" , МЫ
 https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 #EXTINF:-1  group-title="Познавательные"  tvg-id="poexali" ,Поехали!
@@ -355,8 +305,6 @@ http://185.23.80.29:8080/Klyuch/index.m3u8?token=test
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 #EXTINF:-1  group-title="Познавательные"  tvg-id="no_epg_cinema"  tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" , ВНЕ ЗАКОНА
 https://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
-#EXTINF:-1  group-title="Развлекательные"  tvg-id="gags-network" ,Gags network
-http://s7.merlive.am/gagsnetwork/index.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="gags-network" ,Gags Network HD
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="anekdottv" ,Анекдот ТВ
@@ -853,78 +801,6 @@ https://s3.gencit.info/content/stream/films/top.gear.s32e03.720p.coldfilm_386138
 https://s3.gencit.info/content/stream/films/top.gear.s32e04.720p.coldfilm_387762/hls/720/index.m3u8
 #EXTINF:-1  group-title="Top Gear"  tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg" ,32x5
 https://s3.gencit.info/content/stream/films/top.gear.s32e05.720p.coldfilm_388442/hls/720/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="ntv-xit" ,НТВ Хит
-http://s7.merlive.am/ntvxit/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="ntv-serial" ,НТВ Сериал
-http://s7.merlive.am/NTVSerial/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="amedia1" ,Amedia 1
-http://s7.merlive.am/Amedia1/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="amedia2" ,Amedia 2
-http://s7.merlive.am/A2/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="fox" ,Fox
-http://s7.merlive.am/fox/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="rodnoe-kino" ,Родное кино
-http://s7.merlive.am/rodnoekino/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы" ,21 TV
-http://s7.merlive.am/21TV/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="evrokino" ,Еврокино
-http://s7.merlive.am/eurokino/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kineko" ,Кинеко
-http://s7.merlive.am/kineko/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinokomedia" ,Кинокомедия HD
-http://s7.merlive.am/Kinokomedia/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы" ,Kinoman HD
-http://s7.merlive.am/Kinoman/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinomiks" ,Киномикс
-http://s7.merlive.am/Kinomix/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinopremiera-hd" ,Кинопремьера HD
-http://s7.merlive.am/Kinopremera/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinosemiya" ,Киносемья
-http://s7.merlive.am/Kinosemya/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinoseria" ,Киносерия
-http://s7.merlive.am/Kinoseria/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinosvidanie" ,Киносвидание
-http://s7.merlive.am/Kinosvidanie/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinouzhas" ,Киноужас
-http://s7.merlive.am/Kinoujas/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinoxit" ,Кинохит
-http://s7.merlive.am/Kinoxit/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="lubimoe-kino" ,Любимое кино
-http://s7.merlive.am/lubimoekino/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="nostalgia" ,Ностальгия
-http://s7.merlive.am/Nostalgia/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="pobeda" ,Победа
-http://s7.merlive.am/pobeda/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="sony-scifi" ,.Sci-Fi
-http://s7.merlive.am/Sci-Fi/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cinema-ru" ,Cinema
-http://s7.merlive.am/sinema/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="telekafe" ,Телекафе
-http://s7.merlive.am/telekafe/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinomiks" ,Киномикс HD
-http://45.11.139.43:8555/kinomiks/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="amedia1" ,Amedia 1
-http://45.11.139.43:8555/amedia/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="evrokino" ,Еврокино
-http://45.11.139.43:8555/evrokino/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="fox" ,Fox
-http://45.11.139.43:8555/fox/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="foxlife" ,Fox life
-http://45.11.139.43:8555/foxlife/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы" ,Кинеко HD
-http://45.11.139.43:8555/kineko/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinokomedia" ,Кинокомедия HD
-http://45.11.139.43:8555/kinokomedia/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinosemiya" ,Киносемья
-http://45.11.139.43:8555/kinosemya/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinoxit" ,Кинохит HD
-http://45.11.139.43:8555/kinoxit/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы" ,kinoman HD
-http://45.11.139.43:8555/kinoman/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="pobeda" ,Победа
-http://45.11.139.43:8555/pobeda/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="telekafe" ,Телекафе
-http://45.11.139.43:8555/telekafe/index.m3u8
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="patriot" , Патриот
 https://stream-msk-19.ott.tricolor.tv/dtv/id1030_MSKSG-PVR-1--Patriot_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinokult" , КиноКульт
@@ -2577,14 +2453,6 @@ https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/FP7MRNSDTQJ6wdbS_xV/ZX
 https://vod.plvideo.ru/JLxVTeJD/0GRdptsjAb/FP7MRNSgALObWessb3X/ZX
 #EXTINF:-1  group-title="Старое доброе кино"  tvg-logo="https://i.postimg.cc/W1V865z6/1.jpg" ,Ничего не вижу,ничего не слышу (Комедия 1989) А.Михалёв
 https://vod.plvideo.ru/FbZEopwh/0GRdptsjAb/FP7MRNS_Dj3Iy2Akkcl/ZX
-#EXTINF:-1  group-title="Детские"  tvg-id="nickelodeon-ru" ,Nickelodeon
-http://s7.merlive.am/Nickelodeon/index.m3u8
-#EXTINF:-1  group-title="Детские"  tvg-id="multimania" ,Мультиландия
-http://s7.merlive.am/Multilandia/index.m3u8
-#EXTINF:-1  group-title="Детские"  tvg-id="detsky-mir" ,Детский мир
-http://s7.merlive.am/DetskiMir/index.m3u8
-#EXTINF:-1  group-title="Детские"  tvg-id="da-vinci" ,Da Vinci
-http://s7.merlive.am/DaVinci/index.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="no_epg_cinema"  tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" , ДЕТСКИЕ ПЕСЕНКИ
 https://live-mirror-18.ott.tricolor.tv/dtv/id1008_MSKSG-PVR-1--kinozal_22_sd/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 #EXTINF:-1  group-title="Детские"  tvg-id="no_epg_cinema"  tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" , БОДО БОРОДО
@@ -10935,8 +10803,6 @@ https://v.tom-dzherri.net/video/film/480/Tom-i-Dzherri-Film-480.mp4
 https://v.tom-dzherri.net/video/film/480/Tom-i-Dzherri-Shpion-Kvest-480.mp4
 #EXTINF:-1  group-title="Мульты СССР"  tvg-logo="https://images.vfl.ru/ii/1620880961/bbf38358/34431133.jpg"   tvg-name="Том и Джерри:Волшебник из страны Оз (2011)", Том и Джерри:Волшебник из страны Оз (2011)
 https://v.tom-dzherri.net/video/film/480/Tom-i-Dzherri-i-Volshebnik-iz-strany-Oz-480.mp4
-#EXTINF:-1  group-title="Спортивные"  tvg-id="eurosport1" ,Eurosport 1 HD
-http://45.11.139.43:8555/eurosport1/index.m3u8
 #EXTINF:-1  group-title="Спортивные"  tvg-id="no_epg_sport"  tvg-logo="http://i121.fastpic.org/big/2023/0516/4d/521030ca4ff0c8d95a2e84d49555ff4d.png" , Поединок
 http://stream-msk-08.ott.tricolor.tv/dtv/id629_MSKSG-PVR-1--Channel_LIVE2/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 #EXTINF:-1  group-title="Спортивные"  tvg-id="no_epg_sport"  tvg-logo="https://arsenal-academy.ru/templates/img/part/part11.jpg" , Спортмастер ТВ
@@ -11085,8 +10951,6 @@ http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
 http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
 #EXTINF:-1  group-title="Спортивные"  tvg-id="start"   tvg-name="СТАРТ HD", СТАРТ HD
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
-#EXTINF:-1  group-title="Музыкальные"  tvg-id="mezzo" ,Mezzo
-http://s7.merlive.am/Mezzo/index.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-dance" ,BRIDGE TV HITS
 http://s7.merlive.am/BRIDGETV/index.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="no_epg_cinema"  tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" ,Hits HD
