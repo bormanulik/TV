@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 #EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от 28.02.2025", Обновление от 28.02.2025
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="pervy"  tvg-logo="http://i122.fastpic.org/big/2023/0704/13/cd5a5508b20da12d6131cafd8eb23513.png" ,Первый канал HD
@@ -305,6 +305,30 @@ http://185.23.80.29:8080/Klyuch/index.m3u8?token=test
 https://stream-msk-14.ott.tricolor.tv/dtv/id904_MSKSG-PVR-1--Kinozal_1/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 #EXTINF:-1  group-title="Познавательные"  tvg-id="no_epg_cinema"  tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" , ВНЕ ЗАКОНА
 https://stream-msk-15.ott.tricolor.tv/dtv/id907_MSKSG-PVR-1--Kinozal_8/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
+#EXTINF:-1  group-title="Познавательные"  tvg-id="ratnik" ,РАТНИК
+http://185.23.80.29:8080/RATNIK/index.m3u8?token=test
+#EXTINF:-1  group-title="Познавательные"  tvg-id="ntv-style" ,НТВ Стиль
+http://185.23.80.29:8080/NTVStil/index.m3u8?token=test
+#EXTINF:-1  group-title="Познавательные"  tvg-id="ntv-pravo" ,НТВ Право
+http://185.23.80.29:8080/NTVPravo/index.m3u8?token=test
+#EXTINF:-1  group-title="Познавательные"  tvg-id="uspex" ,Успех
+http://185.23.80.29:8080/VashUspex/index.m3u8?token=test
+#EXTINF:-1  group-title="Познавательные"  tvg-id="univer-tv" ,UNIVER TV
+http://185.23.80.29:8080/UNIVERTV/index.m3u8?token=test
+#EXTINF:-1  group-title="Познавательные"  tvg-id="pes-i-ko" ,Пёс и Ко
+http://185.23.80.29:8080/PyosIKo/index.m3u8?token=test
+#EXTINF:-1  group-title="Познавательные"  tvg-id="prodvizhenie" ,Продвижение
+http://185.23.80.29:8080/Prodvizhenie/index.m3u8?token=test
+#EXTINF:-1  group-title="Познавательные"  tvg-id="tv-brics" ,TV BRICS
+http://185.23.80.29:8080/TVBRICS/index.m3u8?token=test
+#EXTINF:-1  group-title="Познавательные"  tvg-id="doktor" ,ДОКТОР
+http://178.57.121.38:8080/doctor/index.m3u8?token=test
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-explore" ,Viasat Explore HD
+https://livetv.mylifeisgood.net.ru/channels/viju-explorer.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-history" ,Viasat History HD
+https://livetv.mylifeisgood.net.ru/channels/viju-history.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature" ,Viasat Nature HD
+https://livetv.mylifeisgood.net.ru/channels/viju-nature.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="gags-network" ,Gags Network HD
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="anekdottv" ,Анекдот ТВ
@@ -1123,6 +1147,32 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1015_MSKSG-PVR-1--Kinozal27_SD/04/p
 https://live-mirror-18.ott.tricolor.tv/dtv/id1017_MSKSG-PVR-1--Kinozal29_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://us.123rf.com/450wm/captainvector/captainvector2208/captainvector220809083/189746183-filmstrip-and-popcorn-design.jpg" , МАЖОР
 https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc0MTAwNTkzOSwiaHdpZCI6IjUyNmZhZDdjYzRkMTFmYmNhNDEwNmFiOTFjNTFmNjc4NWY3ZjYxN2FmMDk5NzY0ZjczNGIxMTI2MGM4NDNlODciLCJsYXN0X3JlcV9kYXRlIjoxNzQwNDAxMTM5LCJzZXNzaW9uX2lkIjoiYjZkNjkyZDI1N2ZjNjQ0NzM1MjZjZWVmYjdkOWVhNjUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.Ix3vf4NI6snMQ6FXhBa6rWaboApbdaOCFXZ-CzNPCgE&curPos=24022025122116&sid=74ed220f-9145-4ff0-bee4-14351c6fa46e
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="pro-lyubov" ,Про Любовь
+http://185.23.80.29:8080/ProLyubov/index.m3u8?token=test
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="ntv-serial" ,НТВ Сериал
+http://185.23.80.29:8080/NTVSerial/index.m3u8?token=test
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="ntv-xit" ,НТВ Хит
+http://185.23.80.29:8080/NTVXit/index.m3u8?token=test
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="nashe-muzhskoe" ,Наше Мужское
+http://185.23.80.29:8080/NasheMuzhskoe/index.m3u8?token=test
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="nash-kinopokaz" ,Наш Кинопоказ
+http://185.23.80.29:8080/NashKinopokaz/index.m3u8?token=test
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="khit" ,Хит
+http://185.23.80.29:8080/Xit/index.m3u8?token=test
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinosat" ,КиноСат
+http://185.23.80.29:8080/KinoSat/index.m3u8?token=test
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="vip-comedy" ,Vip Comedy HD
+https://livetv.mylifeisgood.net.ru/channels/viju-comedy.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="vip-megahit" ,Vip Megahit HD
+https://livetv.mylifeisgood.net.ru/channels/viju-megahit.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="vip-premiere" ,Vip Premiere HD
+https://livetv.mylifeisgood.net.ru/channels/viju-premiere.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="tv1000-action" ,TV1000 Action HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000action.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="tv1000" ,TV1000 HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="tv1000-russkoe-kino" ,TV1000 Русское Кино HD
+https://livetv.mylifeisgood.net.ru/channels/viju-tv1000russkoe.m3u8
 #EXTINF:-1  group-title="Кино в 4К"  tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg" ,Аларум (2025)
 https://vod.plvideo.ru/xdhKhqAx/AZAevqJa5r/zE2SWKS6g67NFqRLw9Z/ZX
 #EXTINF:-1  group-title="Кино в 4К"  tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg" ,Снова в деле (2025)
@@ -10945,6 +10995,18 @@ http://31.210.208.171:8080/box_tv/index.m3u8?token=+W2MSER
 http://31.210.208.171:8080/football/index.m3u8?token=+W2MSER
 #EXTINF:-1  group-title="Спортивные"  tvg-id="start"   tvg-name="СТАРТ HD", СТАРТ HD
 http://31.210.208.171:8080/start/index.m3u8?token=+W2MSER
+#EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-fresh" ,BRIDGE TV ФРЭШ
+http://185.23.80.29:8080/BRIDGE_FRESH/index.m3u8?token=test
+#EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-classic" ,BRIDGE TV CLASSIC
+http://185.23.80.29:8080/BRIDGETVCLASSIC/index.m3u8?token=test
+#EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-dance" ,BRIDGE TV HITS
+http://185.23.80.29:8080/BRIDGETVDANCE/index.m3u8?token=test
+#EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-ruxit" ,BRIDGE TV Русский хит
+http://185.23.80.29:8080/BRIDGETVRusskijXit/index.m3u8?token=test
+#EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-shlager" ,BRIDGE TV ШЛЯГЕР
+http://185.23.80.29:8080/BridgeTVShlyager/index.m3u8?token=test
+#EXTINF:-1  group-title="Музыкальные"  tvg-id="russian-musicbox" ,RUSSIAN MUSIC BOX
+http://185.23.80.29:8080/RUSSIANMUSICBOX/index.m3u8?token=test
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="no_epg_cinema"  tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" ,Hits HD
 http://fs2.persik.by/Hits5/index.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="no_epg_cinema"  tvg-logo="https://tvnews.by/uploads/posts/2015-04/1429716478_persik-logo.png" ,Рэп HD
