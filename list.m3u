@@ -1,6 +1,34 @@
 #EXTM3U 
 #EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от 03.03.2025", Обновление от 03.03.2025
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="rossia1" ,Россия 1 HD
+http://93.189.224.246:52900/play/a00w/index.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="tnt" ,ТНТ HD
+http://93.189.224.246:52900/play/a00u/index.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="rtr-belarus" ,РТР HD
+http://93.189.224.246:52900/play/a00j/index.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="mir" ,Мир HD
+http://93.189.224.246:52900/play/a004/index.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="tnt4" ,ТНТ4 HD
+https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="tnt" ,ТНТ HD
+https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="rentv" ,РЕН ТВ HD
+https://livetv.mylifeisgood.net.ru/channels/rentv.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="ntv" ,НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="sts" ,СТС HD
+https://livetv.mylifeisgood.net.ru/channels/sts.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="mir" ,МИР HD
+https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="domashny" ,Домашний HD
+https://livetv.mylifeisgood.net.ru/channels/domashnii
+#EXTINF:-1  group-title="Эфирные"  tvg-id="piatnica" ,Пятница HD
+https://livetv.mylifeisgood.net.ru/channels/friday.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="tv3-ru" ,ТВ3 HD
+https://livetv.mylifeisgood.net.ru/channels/tv3.m3u8
+#EXTINF:-1  group-title="Эфирные" ,Мир 24 HD
+https://livetv.mylifeisgood.net.ru/channels/mirhdpremium.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="rbk" , РБК HD
 http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="izvestia" ,Известия HD
@@ -55,8 +83,6 @@ http://31.210.208.171:8080/5kanal/index.m3u8?token=+W2MSER
 http://31.210.208.171:8080/home/index.m3u8?token=+W2MSER
 #EXTINF:-1  group-title="Эфирные"  tvg-id="zvezda"   tvg-name="ЗВЕЗДА", ЗВЕЗДА
 http://31.210.208.171:8080/zvezda/index.m3u8?token=+W2MSER
-#EXTINF:-1  group-title="Эфирные"   tvg-name="МИР 24 HD", МИР 24 HD
-http://31.210.208.171:8080/mir24/index.m3u8?token=+W2MSER
 #EXTINF:-1  group-title="Эфирные"  tvg-id="mir"   tvg-name="МИР", МИР
 http://31.210.208.171:8080/mir/index.m3u8?token=+W2MSER
 #EXTINF:-1  group-title="Эфирные"  tvg-id="moskva-24"   tvg-name="МОСКВА 24", МОСКВА 24
@@ -155,8 +181,6 @@ http://stream01.vnet.am/KukhnyaTv/mono.m3u8
 http://ott.server-iptv.live/447/video.m3u8?token=M4f082ab4c
 #EXTINF:-1  group-title="Познавательные"  tvg-id="rtg-tv"  tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpNPZwb4Gle19kPLKn.png"   tvg-name="RTG", RTG
 http://31.210.208.171:8080/rtg/index.m3u8?token=+W2MSER
-#EXTINF:-1  group-title="Познавательные"  tvg-id="rtg-hd"  tvg-logo="https://app.playlistbox.com/icon/NROQV8j3aWyE2vxpNPZwb4Gle19kPLKn.png"   tvg-name="RTG HD", RTG HD
-http://31.210.208.171:8080/rtg_hd/index.m3u8?token=+W2MSER
 #EXTINF:-1  group-title="Познавательные"  tvg-id="365-dnej"   tvg-name="365 дней", 365 дней
 http://93.189.224.24/365dney/index.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="domashny-int"   tvg-name="Домашний INTERNATIONAL", Домашний INTERNATIONAL
