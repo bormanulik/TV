@@ -81,56 +81,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="no_epg_news"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/TASS_Logo_(Cyrillic)_2017.svg/1200px-TASS_Logo_(Cyrillic)_2017.svg.png" , ТАСС
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="match-tv" ,Матч ТВ
-http://93.189.224.246:52900/play/a00x/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="ntv" ,НТВ
-http://93.189.224.246:52900/play/a012/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="rossia-24" ,Россия 24
-http://93.189.224.246:52900/play/a00o/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="pervy" ,Первый канал
-http://93.189.224.246:52900/play/a011/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="rentv" ,Рен ТВ
-http://93.189.224.246:52900/play/a00v/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="belarus2" ,Беларусь 2 HD
-http://93.189.224.246:52900/play/a003/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="belarus3" ,Беларусь 3 HD
-http://93.189.224.246:52900/play/a008/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="belarus1" ,Беларусь 1 HD
-http://93.189.224.246:52900/play/a006/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="zvezda" ,Звезда
-http://93.189.224.246:52900/play/a015/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="tv3-by" ,ТВ3 (Белорусская версия)  
-http://93.189.224.246:52900/play/a00f/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="tv3-ru" ,ТВ3
-http://93.189.224.246:52900/play/a016/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="5kanal-ru" ,Пятый канал
-http://93.189.224.246:52900/play/a00y/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="piatnica" ,Пятница
-http://93.189.224.246:52900/play/a00n/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="ont-by" ,ОНТ HD
-http://93.189.224.246:52900/play/a009/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="tnt" ,ТНТ HD
-http://93.189.224.246:52900/play/a00u/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="rossia1" ,Россия 1 HD
-http://93.189.224.246:52900/play/a00w/index.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="ntv-belarus" ,НТВ Беларусь
 http://93.189.224.246:52900/play/a00i/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="rtr-belarus" ,РТР Беларусь HD
-http://93.189.224.246:52900/play/a00j/index.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="stv-by" ,СТВ HD
 http://93.189.224.246:52900/play/a00a/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="mir" ,Мир HD
-http://93.189.224.246:52900/play/a004/index.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="kultura" ,Россия К
-http://65.21.85.175:8000/play/a01j/index.m3u8?token=livetv
-#EXTINF:-1  group-title="Эфирные"  tvg-id="360-news" ,360 Новости
-http://92.53.64.197:5050/360_novosti_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1  group-title="Эфирные"  tvg-id="mir-24" ,Мир 24
-http://92.53.64.197:5050/Mir_24_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1  group-title="Эфирные"  tvg-id="super" ,Суббота
-http://92.53.64.197:5050/subbota_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1  group-title="Эфирные"  tvg-id="spas" ,Спас
-http://92.53.64.197:5050/spas/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1  group-title="Познавательные"  tvg-id="myy"  tvg-logo="https://iptvx.one/picons/myy.png" , МЫ
 https://live-mirror-18.ott.tricolor.tv/dtv/id990_MSKSG-PVR-1--We_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MjE4MTA3NiwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQxNTc2Mjc2LCJzZXNzaW9uX2lkIjoiY2NjMzM0YjU0MmIzMmUwZWMzMzdjM2IyMWY1YTUzMGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GFRFQPX-6slnIYD5JaSE1_h_u-BK7R-fsZBXu2BajHM
 #EXTINF:-1  group-title="Познавательные"  tvg-id="poexali" ,Поехали!
@@ -315,8 +269,6 @@ http://135.181.115.81:8000/play/a03i/index.m3u8?token=livetv
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 #EXTINF:-1  group-title="Познавательные"  tvg-id="nat-geo-wild" ,Nat Geo Wild HD
 http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
-#EXTINF:-1  group-title="Познавательные"  tvg-id="ratnik" ,Ратник
-http://92.53.64.197:5050/ratnik_tv/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1  group-title="Познавательные"  tvg-id="ntv-pravo" , НТВ Право
 https://stream-msk-14.ott.tricolor.tv/dtv/id938_MSKSG-PVR-1--NTV_Pravo_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MjE4MTA3NiwiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQxNTc2Mjc2LCJzZXNzaW9uX2lkIjoiY2NjMzM0YjU0MmIzMmUwZWMzMzdjM2IyMWY1YTUzMGEiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.GFRFQPX-6slnIYD5JaSE1_h_u-BK7R-fsZBXu2BajHM
 #EXTINF:-1  group-title="Познавательные"  tvg-id="tv-brics" , TV BRICS
@@ -1009,12 +961,6 @@ http://185.50.148.2:7711/Kinokomedija/index.m3u8
 http://188.113.190.12/329/index.m3u8
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="retro-tv" ,Ретро
 http://135.181.115.81:8000/play/a03e/index.m3u8?token=livetv
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="pobeda" ,Победа
-http://93.189.224.246:52900/play/a010/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kinoxit" ,Кинохит
-http://93.189.224.246:52900/play/a00q/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="domkino" ,Дом кино
-http://93.189.224.246:52900/play/a00z/index.m3u8
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="sony-tv" ,.Red
 http://178.124.152.238:8088/sony
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="shot-tv" ,SHOT TV
@@ -10761,8 +10707,6 @@ http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&w
 http://65.21.85.175:8000/play/a00c/index.m3u8?token=livetv
 #EXTINF:-1  group-title="Спортивные"  tvg-id="a-spor-tr" ,A spor
 http://135.181.115.81:8000/play/a03h/index.m3u8?token=livetv
-#EXTINF:-1  group-title="Спортивные"  tvg-id="ufc" ,УДАР
-http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1  group-title="Спортивные"  tvg-id="match-boets" ,Матч! Боец
 http://95.181.17.14/4nvenc/boets/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI1IDc6NTg6MTYgQU0maGFzaF92YWx1ZT1WWTN1eDVoZHdmTXh0UnJBODZ3NDRBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1  group-title="Спортивные"  tvg-id="match-igra" ,Матч! Игра HD
