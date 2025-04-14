@@ -1,6 +1,8 @@
 #EXTM3U 
 #EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от ", Обновление от 14.04.2025 9:00
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="rossia1" ,Россия 1 HD
+http://176.113.48.221:8986/90
 #EXTINF:-1  group-title="Эфирные"  tvg-id="tnt4" ,ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="tnt" ,ТНТ HD
@@ -45,8 +47,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
 https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="360-news" , 360 Новости
 http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/tracks-v5a1/mono.m3u8
-#EXTINF:-1  group-title="Эфирные"  tvg-id="rossia1" ,Россия 1 HD
-http://176.113.48.221:8986/90
 #EXTINF:-1  group-title="Познавательные"  tvg-id="zdorovoe-tv" ,Здоровое ТВ
 http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="moya-planeta" ,Моя Планета
