@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от ", Обновление от 14.04.2025 
+#EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от ", Обновление от 14.04.2025 9:00
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="tnt4" ,ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
