@@ -12756,364 +12756,364 @@ http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport27
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport28
 #EXTINF:-1  group-title="ТриК" ,Наш спорт 29
 http://list.onlinetv-sochi.ru:8080/live/view55mod.php?name_id=Nash_sport29
-#EXTINF:-1  group-title="РуТруба" ,Rutube TV
-https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=Z7WvppRDU0jNYpu9hcXEQg&e=1745226961&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Первый канал HD
-https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=_Sj4aXu_2DO9CJ1fwrgU1Q&e=1745226962&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,НТВ HD
-https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=rPfRkyr7Hb-mwRf0Eq0tpQ&e=1745226962&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,ТНТ HD
-https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=171_HdiAO-n7SFJsE4tjFg&e=1745226963&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,ТНТ4 HD
-https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=dWJN7QNuOsrsKDSLAH18EQ&e=1745226964&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Охотник и рыболов
-https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=vDURTgPm20qBVfjWveZptw&e=1745226965&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Загородный International
-https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=0UwmyvNJ30TJjALgRSq0QQ&e=1745226965&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Discovery Channel
-https://bl.rutube.ru/livestream/f61701b91f0f15e49611bc2c85494d4b/index.m3u8?s=RzDn61mTXYmRb64un-vTPw&e=1745226966&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,National Geographic
-https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=H09AEpSqohteWoTKVuXTQA&e=1745226967&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Nat Geo Wild
-https://bl.rutube.ru/livestream/c18137e3491619017f984f84598035ec/index.m3u8?s=wi8leuNiRld9tfcfbRAfOg&e=1745226968&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Animal Planet
-https://bl.rutube.ru/livestream/d73e70070a806f9baf6e662f6cc40665/index.m3u8?s=8U9bPgokclVY34w6Uyzx8w&e=1745226969&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Живая природа HD
-https://bl.rutube.ru/livestream/420654c698dce9f03390d32aaf210cdc/index.m3u8?s=KmSYpl3Ifnrsx8i3ipMvnA&e=1745226969&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,TLC
-https://bl.rutube.ru/livestream/8c3fd60f7eb84e7b564d3029d2a833f5/index.m3u8?s=9gThnRI6fYcpSssYWo9b2A&e=1745226970&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Тайна
-https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=rMsAHD5641ORjkJef7-M6w&e=1745226971&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Пятница HD
-https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=BQehMlGYqofrY6MdmII9gw&e=1745226972&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,ТВ3 HD
-https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=4e2QAvxmESmDzenNlAgYSQ&e=1745226973&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,2x2
-https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=vZPMkmqLbPRXQKbIS6joJw&e=1745226976&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="rutube-tv" ,Rutube TV
+https://bl.rutube.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=0OoD1RbleZshLskgehk0-Q&e=1745305153&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="pervy" ,Первый канал HD
+https://bl.rutube.ru/livestream/c58f502c7bb34a8fcdd976b221fca292/index.m3u8?s=4pHoMea1G0Thf3MgBM1JzA&e=1745305154&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="ntv" ,НТВ HD
+https://bl.rutube.ru/livestream/c37cd74192c6bc3d6cd6077c0c4fd686/index.m3u8?s=L2N25l_2pjhj7HOr5MwPlA&e=1745305154&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tnt" ,ТНТ HD
+https://bl.rutube.ru/livestream/546602986e6a424d74d594876ddb3f04/index.m3u8?s=e7qEcIA-2zlj0pAaUe8UXQ&e=1745305155&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tnt4" ,ТНТ4 HD
+https://bl.rutube.ru/livestream/c801a7087e29a097192d74c270fbc6c1/index.m3u8?s=J0ttvM5g9rOAWXL7RWkL6Q&e=1745305157&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="oxotnik-i-rybolov" ,Охотник и рыболов
+https://bl.rutube.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=f28Gfalzx99Mq93r93oMTg&e=1745305158&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="zagorodny-int" ,Загородный International
+https://bl.rutube.ru/livestream/406973c72e9d0449feef05ef7811ad01/index.m3u8?s=gzcd6YtRCOWM6N-kedxhCA&e=1745305158&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="discovery-channel" ,Discovery Channel
+https://bl.rutube.ru/livestream/f61701b91f0f15e49611bc2c85494d4b/index.m3u8?s=SXIqFxjQRXjjKFqKHyxTug&e=1745305159&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="national-geographic" ,National Geographic
+https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=PQvr1iMgvMyAHYw8v-zYqw&e=1745305160&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="nat-geo-wild" ,Nat Geo Wild
+https://bl.rutube.ru/livestream/c18137e3491619017f984f84598035ec/index.m3u8?s=UXDOdMKu3x7jpAAqMte5XA&e=1745305161&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="animal-planet-eu" ,Animal Planet
+https://bl.rutube.ru/livestream/d73e70070a806f9baf6e662f6cc40665/index.m3u8?s=-5RCWvxVKGRAzy1gYQrPfQ&e=1745305162&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="zhivaya-priroda" ,Живая природа HD
+https://bl.rutube.ru/livestream/420654c698dce9f03390d32aaf210cdc/index.m3u8?s=I1kLt3u647t2THdNjipnFQ&e=1745305163&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tlc" ,TLC
+https://bl.rutube.ru/livestream/8c3fd60f7eb84e7b564d3029d2a833f5/index.m3u8?s=T6kNv4vp8P-Wsh1rYkmAqA&e=1745305164&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tayna" ,Тайна
+https://bl.rutube.ru/livestream/a11c890a0ec0730ad33bdaaf2d244e1a/index.m3u8?s=gZmywF8zfMkdqbJ_hfqnwA&e=1745305164&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="piatnica" ,Пятница HD
+https://bl.rutube.ru/livestream/9f87a9a0cecbe773be6fddcbd93585ac/index.m3u8?s=jeK6-EggeczpVdYcPTBX6w&e=1745305165&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tv3-ru" ,ТВ3 HD
+https://bl.rutube.ru/livestream/7bf12d9c050f9a7ef3728db5730432ae/index.m3u8?s=XzPHGvKfFaRL7AHAIqcmuQ&e=1745305169&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="2na2" ,2x2
+https://bl.rutube.ru/livestream/392b4686b770bae2da6bf5ac4574add5/index.m3u8?s=NmF72D9IWNPUPS19bpKWEA&e=1745305171&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Киножелезо
-https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=OyYrPFv2JFWAbRS6T8xYjQ&e=1745226978&scheme=https
+https://bl.rutube.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=sbpgYa_T18m65CSfwU-vmQ&e=1745305172&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Аниме
-https://bl.rutube.ru/livestream/275d07d9601eeefbddfc2af30764ee86/index.m3u8?s=KzdKUF_s0JVI9XkRacOAlw&e=1745226979&scheme=https
+https://bl.rutube.ru/livestream/275d07d9601eeefbddfc2af30764ee86/index.m3u8?s=tijUeHP90kaOu5eTvRKyTw&e=1745305173&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Сериалы Marvel
-https://bl.rutube.ru/livestream/9130347345aa2a6e8b73380ce98f9b00/index.m3u8?s=3OeI4Ddbw1obBSTc1VSe-Q&e=1745226980&scheme=https
+https://bl.rutube.ru/livestream/9130347345aa2a6e8b73380ce98f9b00/index.m3u8?s=_vEggKlybuk-AQSdTtUHFg&e=1745305173&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,MARVEL TV
-https://bl.rutube.ru/livestream/06cad29bbb9ae5f5a06add7676579f76/index.m3u8?s=xIN1wThu4q0iFTMgIKPJXA&e=1745226980&scheme=https
+https://bl.rutube.ru/livestream/06cad29bbb9ae5f5a06add7676579f76/index.m3u8?s=DTgpunaN8HfNw_Mql9_BYw&e=1745305174&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Ужас TV
-https://bl.rutube.ru/livestream/696bffe7b7be44aa1c64fda33c2cff5c/index.m3u8?s=CDANVGew25_p2_PqW9PDSw&e=1745226981&scheme=https
+https://bl.rutube.ru/livestream/696bffe7b7be44aa1c64fda33c2cff5c/index.m3u8?s=cUJWy_L5e3XSJxCTGm8wwA&e=1745305175&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Фильмы получившие Оскар
-https://bl.rutube.ru/livestream/3b0fa3a71bd3f9c4857313447d32109f/index.m3u8?s=Qu0tYN8gLk_nCU3qQ1B_cw&e=1745226981&scheme=https
+https://bl.rutube.ru/livestream/3b0fa3a71bd3f9c4857313447d32109f/index.m3u8?s=TMnbN952b85fGaOZP4IG1g&e=1745305175&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,HollyWood Movies
-https://bl.rutube.ru/livestream/6a91d8da3a2040b829adda18dc4fbd94/index.m3u8?s=ClopuuDZs0ufhLgr9TPT2w&e=1745226982&scheme=https
+https://bl.rutube.ru/livestream/6a91d8da3a2040b829adda18dc4fbd94/index.m3u8?s=n0qL6B-SFxPO4hv1gcmbnQ&e=1745305176&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Эфир Фильм
-https://bl.rutube.ru/livestream/b895807523d756c82bd64c800edc93c6/index.m3u8?s=lyE8cpKp-BME0ENYiPNN0Q&e=1745226983&scheme=https
+https://bl.rutube.ru/livestream/b895807523d756c82bd64c800edc93c6/index.m3u8?s=u6Y7j2ywf0eUt5LdCNaVXg&e=1745305177&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Фильмы MIX
-https://bl.rutube.ru/livestream/5cba95431cbe796297c0fceb54d8edbd/index.m3u8?s=_ag8jSPv4WEK3yMFXapi9Q&e=1745226984&scheme=https
+https://bl.rutube.ru/livestream/5cba95431cbe796297c0fceb54d8edbd/index.m3u8?s=2QYKhYQCzh6SHW0jzTGO2Q&e=1745305177&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Сериалы на Русском TV
-https://bl.rutube.ru/livestream/0c827406f4e9b1cbe3c2757237288501/index.m3u8?s=RhKr9i2dlGzuxjJYp2k5Ag&e=1745226984&scheme=https
+https://bl.rutube.ru/livestream/0c827406f4e9b1cbe3c2757237288501/index.m3u8?s=qssKDrcastZdWu34XzKUiA&e=1745305178&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Кинолента 24
-https://bl.rutube.ru/livestream/23c568b69e0eada33560850484223739/index.m3u8?s=m7mu4z3ria428vNMJj9XXw&e=1745226985&scheme=https
+https://bl.rutube.ru/livestream/23c568b69e0eada33560850484223739/index.m3u8?s=bUB_gVXr3xPUABXaxuyIZQ&e=1745305179&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Mr.Bean Cartoon
-https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=myheL80GSFL7_z0jXt56uQ&e=1745226986&scheme=https
+https://bl.rutube.ru/livestream/0e9e44725d5d5ab7ee92c10b40215419/index.m3u8?s=GPYS_Da2jRCdJ7sZxSV_VQ&e=1745305180&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Твой 2007
-https://bl.rutube.ru/livestream/348ebaac61a382f2028e9a1b06f4f2b6/index.m3u8?s=3T3HPYow-ymoNxhp6Yi_aA&e=1745226987&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Суббота
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=fUYp1wi54qA91bs9Pncfog&e=1745226987&scheme=https
+https://bl.rutube.ru/livestream/348ebaac61a382f2028e9a1b06f4f2b6/index.m3u8?s=pnEX70gbzGLWbVSxtnvJhg&e=1745305180&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="super" ,Суббота
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?s=qpKWaIthegm9vETor7kALA&e=1745305181&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,78 канал
-https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=JyWbWZzpI-qKPyE10ih1bA&e=1745226988&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,ТОЛПАР-ТВ
-https://bl.rutube.ru/livestream/d506fe68746bb96512e328d3ce4cc761/index.m3u8?s=A7WnwrZAdWiI3vxzc2v03w&e=1745226989&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Восток ТВ
-https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=qL0Uo9PKStnQUST9Vm3M7g&e=1745226990&scheme=https
+https://bl.rutube.ru/livestream/bbf23277dbd0dd0e6a623526d4c3f8c9/index.m3u8?s=TWnfqPLvc6YmVK2zXGlzXQ&e=1745305182&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tolpartv" ,ТОЛПАР-ТВ
+https://bl.rutube.ru/livestream/d506fe68746bb96512e328d3ce4cc761/index.m3u8?s=gIyKHtNpiOQJNWCqozn6MA&e=1745305182&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="vostok-tv" ,Восток ТВ
+https://bl.rutube.ru/livestream/da7bcfc0c302a2f0a46f030c9ef8a02b/index.m3u8?s=6TQmmcW0WIrZaYZUuqDr6Q&e=1745305183&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,HHQ
-https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=nV2uuWUSpeLHJKiLvwki0A&e=1745226990&scheme=https
+https://bl.rutube.ru/livestream/2d7fa51716500fba52586d594201777f/index.m3u8?s=mebkAOWpkKOsoDe8QJ4pAg&e=1745305184&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,GLN24-Геленджик
-https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=p6Xaz5UBrRiwVdRI14mIvQ&e=1745226991&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,ОТС HD
-https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=WMJdPdnAuXbtvUrFUsgwsQ&e=1745226992&scheme=https
+https://bl.rutube.ru/livestream/64ab8f32ecf1e2f582110165bf55b60a/index.m3u8?s=GqLw4-EqOEIGXiSJWj2qmg&e=1745305184&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="ots" ,ОТС HD
+https://bl.rutube.ru/livestream/39c5bfe012402990e6402eded8bdc761/index.m3u8?s=WgSvCRyMb1VnXKK6Bfb3Uw&e=1745305185&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Сургут 86 FHD
-https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=_fNbMNRrVOu-tChDXorZlQ&e=1745226993&scheme=https
+https://bl.rutube.ru/livestream/813dc0c5a944559e7e52b840d09a84f6/index.m3u8?s=68IXSHR4WAPY997F_bAwwg&e=1745305186&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Сургут 1 FHD
-https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=A4Md7eZAG-NNTB4uK8nXqw&e=1745226993&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Барс
-https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=xh9l2eDTWU8aaEDUMkWwDA&e=1745226994&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,БелРос
-https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=DFIasPuASLkM6foymVl9Hw&e=1745226995&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Вместе-РФ
-https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=UcDLIbIbgIS3b92pSwhE1A&e=1745226996&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Волга
-https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=7R1lUyr8AQrsD2QvZrneDQ&e=1745226997&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Волга 24
-https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=6KLTs-1tOkP20UQp8WZCnw&e=1745226997&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Башкортостан 24
-https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=c9G4KN3GVCT5w3ow3M3pQA&e=1745226998&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Лен ТВ 24
-https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=L18Kfrdb2v90HtW6B59YQw&e=1745226999&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Абакан 24
-https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=a6VkmU_ueZ_-YBN-FrHV0w&e=1745227000&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Кавказ 24
-https://bl.rutube.ru/livestream/eff9b98140a0e43fec3d6829bca0f8cf/index.m3u8?s=qF-_isJVn8w_QXO1lRXOpA&e=1745227000&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Кубань 24
-https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=xMU9nXZvlSo7WHsoM-0gsg&e=1745227001&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Нижний Новгород 24
-https://bl.rutube.ru/livestream/3c86a67da5919dde328f95c7da0f6a31/index.m3u8?s=lVnLBk8RCqNOA-Z7M_d7Vw&e=1745227002&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Саратов 24
-https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=K8buygAi8dhqC5m9hZ6MLg&e=1745227002&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Липецк 24
-https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=0Ag56pETV4iPzMIn17orsw&e=1745227003&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Ариг Ус 24
-https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=2s1ukbA6FuIDUJayU-y1lA&e=1745227004&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,ДОН 24
-https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=aoMGjrvLuYUGIe1taZirTQ&e=1745227004&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Мордовия 24
-https://bl.rutube.ru/livestream/04106d67b7888cda01b0ffa5e7ef757b/index.m3u8?s=HHpGxa_BBAjJwkUD8qYfGQ&e=1745227005&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,АРИС 24
-https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=C3rz8ZGHVbZmweQ1uu1IyA&e=1745227007&scheme=https
+https://bl.rutube.ru/livestream/7a35d5186515db85144d86900ebe1daf/index.m3u8?s=P0eJg0_-TUCRtDsC5_8GOA&e=1745305186&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="bars" ,Барс
+https://bl.rutube.ru/livestream/f79ff24ad16cf5f5eb52994647596d13/index.m3u8?s=OGbasLC9P40BecQ0QFpx1w&e=1745305187&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tro" ,БелРос
+https://bl.rutube.ru/livestream/46c03b7f1a7255326900f4a60a9b44e0/index.m3u8?s=cGDNGGfoyy8m1p4GxphaiQ&e=1745305188&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="vmeste-rf" ,Вместе-РФ
+https://bl.rutube.ru/livestream/f6a6d5c955180d0d0f80c66d0b6150d3/index.m3u8?s=8rIM4PSDPcTtU_LXClFjQw&e=1745305189&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="volga" ,Волга
+https://bl.rutube.ru/livestream/bed2dcda74004e4e9a61966d2848c027/index.m3u8?s=JVVA4QGzk4u9Hdx27vlfYA&e=1745305189&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="vremia-n" ,Волга 24
+https://bl.rutube.ru/livestream/e30732c0045af997cb7312822534522f/index.m3u8?s=cAlb4R5lJyZ0eEXxXBW6ug&e=1745305190&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="bashkortostan24" ,Башкортостан 24
+https://bl.rutube.ru/livestream/cf7e6ad2c24ce743b5b60478c176037b/index.m3u8?s=XTb5nVhsBBIqem0Dvkxovw&e=1745305191&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="lot-47" ,Лен ТВ 24
+https://bl.rutube.ru/livestream/dd022de9cc6c8af89409513fa0a6117a/index.m3u8?s=2Q7RiwyjRWVT6C_W4xy7Eg&e=1745305192&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="abakan24" ,Абакан 24
+https://bl.rutube.ru/livestream/7c5ae60686a94e04691f6917e1dec066/index.m3u8?s=7wORZMTPzTXcEKVF0y0fAw&e=1745305192&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="kavkaz24" ,Кавказ 24
+https://bl.rutube.ru/livestream/eff9b98140a0e43fec3d6829bca0f8cf/index.m3u8?s=eHiGwGIMkSf32e4Gb4RC_g&e=1745305193&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="kuban-24" ,Кубань 24
+https://bl.rutube.ru/livestream/cb2f1d99b88c9b4d38df05cd7fa0a6c2/index.m3u8?s=akoW2ebK2EDzTVQ0Hjg3CQ&e=1745305194&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="nn-24" ,Нижний Новгород 24
+https://bl.rutube.ru/livestream/3c86a67da5919dde328f95c7da0f6a31/index.m3u8?s=Q8HdOfKq23GVQYUQWtzIIw&e=1745305194&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="saratov-24" ,Саратов 24
+https://bl.rutube.ru/livestream/e07fffc5eb21f98a5ade09e825d7095a/index.m3u8?s=sRbkgebF8xWDRFD30EZVag&e=1745305195&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="lipeck24" ,Липецк 24
+https://bl.rutube.ru/livestream/b04fc212802bbf7ec94768c029e54aa9/index.m3u8?s=b_0wEWImficoeQRVYOrJYg&e=1745305196&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="arig-us-24" ,Ариг Ус 24
+https://bl.rutube.ru/livestream/5d9273a93631b87a3bbdc883bb3a58cb/index.m3u8?s=PLp90Q5U-eYD57j3FKPQow&e=1745305197&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="don-24" ,ДОН 24
+https://bl.rutube.ru/livestream/72ced5d533f940251e5e4bd5d61f6bc9/index.m3u8?s=K6lNeQLFSezPy8fUI-2gqQ&e=1745305197&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="mordovia-24" ,Мордовия 24
+https://bl.rutube.ru/livestream/04106d67b7888cda01b0ffa5e7ef757b/index.m3u8?s=a6OzxnsYa8SHne9Zk7AW3w&e=1745305198&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="aris24" ,АРИС 24
+https://bl.rutube.ru/livestream/9b482361d6c845f7d70eafc98356d8bf/index.m3u8?s=OdBk5OGVpCxvR9zjwBMoDg&e=1745305200&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,ИНФО 24
-https://bl.rutube.ru/livestream/b8079a6e1e184643d9a17c42469a1f30/index.m3u8?s=dLx7MisvNxYdDf2q7F10Bw&e=1745227007&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,БСТ
-https://bl.rutube.ru/livestream/2804b7fd1507420dda2e2c81b2b72c8e/index.m3u8?s=wKenRCjGW3mM3a8ERmsq1Q&e=1745227008&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Катунь 24
-https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=hbawT_k9XA_kCwwuTSiASg&e=1745227009&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,ВЕТТА 24
-https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=-XwoAwqFoFYMNI3qivcdBQ&e=1745227010&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Мир 24
-https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=RC-6WLGttu0zi_hBuMyZXA&e=1745227011&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Мир
-https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=HLISBzsLsg89kdAhBAxhTQ&e=1745227012&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Рифей-ТВ
-https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=89P0-wAgWFagT0jIvVfw_Q&e=1745227012&scheme=https
+https://bl.rutube.ru/livestream/b8079a6e1e184643d9a17c42469a1f30/index.m3u8?s=eqS0y9Dx-KKwZi9cpc7ISg&e=1745305201&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="bst" ,БСТ
+https://bl.rutube.ru/livestream/2804b7fd1507420dda2e2c81b2b72c8e/index.m3u8?s=0svjRQDCN_q7Ime5SXw1NA&e=1745305201&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="katun-24" ,Катунь 24
+https://bl.rutube.ru/livestream/5e56eba895d87d84749e756720a71e73/index.m3u8?s=GLRFdqJYMDCmtJIy-gIlGw&e=1745305202&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="vetta24" ,ВЕТТА 24
+https://bl.rutube.ru/livestream/3053eeaecc60e0adef57b81d3498fdd0/index.m3u8?s=sJzfmIU1AnxZU9CcBtXBog&e=1745305203&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="mir-24" ,Мир 24
+https://bl.rutube.ru/livestream/43269ba8fb179e298b1e497f557e8d2d/index.m3u8?s=LXOh5bwO-LqCTTJ4k2un7A&e=1745305204&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="mir" ,Мир
+https://bl.rutube.ru/livestream/afef67d151b5a607dee1ef0aa299a52c/index.m3u8?s=SkNcNCLDI-eS9em1Eb0leQ&e=1745305205&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="rifey-tv" ,Рифей-ТВ
+https://bl.rutube.ru/livestream/57486bf8e1c01d16a5a939c463867fab/index.m3u8?s=pf6iUJ233behd6wT0OHuuQ&e=1745305205&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,АСТВ LIVE HD
-https://bl.rutube.ru/livestream/df0faa92ca3f1d7df057c202fd4b21c4/index.m3u8?s=6ZtFV4Z_p_6PDiaqas1F8g&e=1745227013&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,КРИК-ТВ
-https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=M_im6QiZKcomp4MB31eNjg&e=1745227014&scheme=https
+https://bl.rutube.ru/livestream/df0faa92ca3f1d7df057c202fd4b21c4/index.m3u8?s=3FSf1hw2KOMBMwgMMUDGqg&e=1745305206&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="krik-tv" ,КРИК-ТВ
+https://bl.rutube.ru/livestream/f372aa2aff09518d050ecdf70956012c/index.m3u8?s=5pctXzA3rRWx2AUejXPFGA&e=1745305207&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Своё ТВ FHD
-https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=tMDNEXgyY8GNIJi3CnkWfg&e=1745227015&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,НЖК
-https://bl.rutube.ru/livestream/5f378f373c88dcebd6549bb0c84d623f/index.m3u8?s=vr4ytAZDDc2NdXLcmYo71Q&e=1745227016&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Импульс Севера
-https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=956OSs0ofESJ4EM-vFPxFw&e=1745227016&scheme=https
+https://bl.rutube.ru/livestream/1932f750f00f3a742a1d90c62d0076ad/index.m3u8?s=H97ThEUoZSt9zZDuS4Nl4w&e=1745305207&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="naczhk" ,НЖК
+https://bl.rutube.ru/livestream/5f378f373c88dcebd6549bb0c84d623f/index.m3u8?s=uNZdT_mD0MbSmm9tD8ylVA&e=1745305208&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="impuls-sewera" ,Импульс Севера
+https://bl.rutube.ru/livestream/342a3e4f3c9bb0d7830a52af0d956c44/index.m3u8?s=7kypymocH6DUlzh4_q4tKQ&e=1745305209&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,САМОТЛОР
-https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=6vvYj7iST-alESXqAy6FvQ&e=1745227018&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Юрган
-https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=yrf8T1u_x4Z85BdyGp0ovg&e=1745227019&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,НТС Иркутск
-https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=QA9mQk1nnId-53P4rD9lDw&e=1745227021&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Липецкое время
-https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=eBKa3uFfv763Cz6V6CjaMw&e=1745227022&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Евразия
-https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=n8XYG0HRx_21XJ43WyhJeA&e=1745227022&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,РБК
-https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=Bb2CHkk8Nk3Th4cvCKegVg&e=1745227023&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,ТОЛК
-https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=Gwy2J6VCufAv5pHOJJXqVQ&e=1745227024&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,ННТВ
-https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=Vi86wvVIgNrTOBniJlvbIw&e=1745227025&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,МТВ Волгоград
-https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=nuT45And6q9P-hlpGOm4RA&e=1745227027&scheme=https
+https://bl.rutube.ru/livestream/695f0fdefc96b6f7f2b4a311b71f596b/index.m3u8?s=M84EXr-p5xBHxVwOi5ESKg&e=1745305209&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="yurgan" ,Юрган
+https://bl.rutube.ru/livestream/601ca3d760de90391c18772e43d5190e/index.m3u8?s=Kaa2G5yf9-sUMCldxq8h8w&e=1745305210&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="nts-irkutsk" ,НТС Иркутск
+https://bl.rutube.ru/livestream/b4c501ea4129408a3c195f9ae4359c0e/index.m3u8?s=GeR_PEvZk3L6LB-k_MyTFw&e=1745305212&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="lipeckoe-vremia" ,Липецкое время
+https://bl.rutube.ru/livestream/23afd7debed1cfc7a8efa0827c24d836/index.m3u8?s=K6Zfh9CPWPgEKnubdW1VeQ&e=1745305213&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="evrasia" ,Евразия
+https://bl.rutube.ru/livestream/ce34005d3db841e15eecb7e31749adf6/index.m3u8?s=Zulu-CPH8vZ0kT0w3Zv-yg&e=1745305213&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="rbk" ,РБК
+https://bl.rutube.ru/livestream/88f6485ee28d56daf13302ac6fe3d931/index.m3u8?s=YlhLUUEyT9OvQ4vhcY4MDQ&e=1745305214&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tolk" ,ТОЛК
+https://bl.rutube.ru/livestream/0115cdc35fb5234242a89de98137dca9/index.m3u8?s=w4T2SUgPQNEDfnKhk2kSbg&e=1745305215&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="nntv" ,ННТВ
+https://bl.rutube.ru/livestream/333f94ef9af118c0ac51006243053e07/index.m3u8?s=r4Qrk_-Jvv_JyR5xqaikew&e=1745305215&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="mtv-volgograd" ,МТВ Волгоград
+https://bl.rutube.ru/livestream/1839496ed8242ed47f5c540e25d4ba3f/index.m3u8?s=tdxvgn4C6s79-GCqHZ3epw&e=1745305217&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Енисей +4 (Орион)
-https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=JEIPBkXrz20hp-qIVKpS4w&e=1745227028&scheme=https
+https://bl.rutube.ru/livestream/5835cd10c04311e400f2ed19b1b2fe8b/index.m3u8?s=tUP9Qyqx-kf2O1g3Fsqs-Q&e=1745305217&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Царьград
-https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=JKjEmPsB-m9qiSYhu6Z9yQ&e=1745227028&scheme=https
+https://bl.rutube.ru/livestream/91815da4edb167b5bd617bae490e57da/index.m3u8?s=wcu5DFQwdqe4r6OPNBoLrA&e=1745305218&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,ОмскТВ
-https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=hQo9OGroHfRpjy1rgcqMAw&e=1745227029&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,7 канал Красноярск
-https://bl.rutube.ru/livestream/a0e83fe5c23fc219886f7d7f084a8cb4/index.m3u8?s=rztZEnA0irDvnY07UGCHRQ&e=1745227030&scheme=https
+https://bl.rutube.ru/livestream/9927a61345cbec5aac6558f6c5454d61/index.m3u8?s=OLqV8MopE0zqPakjQSNGPA&e=1745305219&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="7kanal-krasnoyarsk" ,7 канал Красноярск
+https://bl.rutube.ru/livestream/a0e83fe5c23fc219886f7d7f084a8cb4/index.m3u8?s=1zK1x64dm8HwHRpN0KZ6iw&e=1745305220&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,ТБВ
-https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=CcuwvmpacLND-tHxJuKmmg&e=1745227031&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Дума ТВ
-https://bl.rutube.ru/livestream/6e8e136ce154f4cc56603f9652b482a0/index.m3u8?s=xlrhN2HpaHHI-O5XXfiJFA&e=1745227031&scheme=https
+https://bl.rutube.ru/livestream/68b2533a29f7de163842baf1b9dfc17e/index.m3u8?s=1U8EV9m_JbvIDRzdJ00UwQ&e=1745305220&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="dumatv" ,Дума ТВ
+https://bl.rutube.ru/livestream/6e8e136ce154f4cc56603f9652b482a0/index.m3u8?s=6JvZai0PLFR1nMgNZwxfxg&e=1745305221&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,ТСТ
-https://bl.rutube.ru/livestream/9a19dcd9b6307fcbd85af3950b988012/index.m3u8?s=IH1l9o5pgxY0P2KBIqC-cw&e=1745227032&scheme=https
+https://bl.rutube.ru/livestream/9a19dcd9b6307fcbd85af3950b988012/index.m3u8?s=YRuaLx0S70qCFM5t8y7d6A&e=1745305222&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Ямал-Медиа
-https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=yH8dIM82IeZE8d_ys9_bGA&e=1745227033&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,UNIVER TV
-https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=rxeV1HnYkIillG8wNLUJEQ&e=1745227034&scheme=https
+https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=HglFvMm6ymYZsKj12xhLrg&e=1745305222&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="univer-tv" ,UNIVER TV
+https://bl.rutube.ru/livestream/2372550cb9fd4b970a274ebec6c71839/index.m3u8?s=shiCSOAd5jE60jCn7MNhbw&e=1745305223&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,МИТВ
-https://bl.rutube.ru/livestream/05065508aed175eaf0f92ef633561974/index.m3u8?s=SuOq0p43ZV_YTXBajfSavg&e=1745227035&scheme=https
+https://bl.rutube.ru/livestream/05065508aed175eaf0f92ef633561974/index.m3u8?s=nLlhk33ZAQiM0fIF6PJp_g&e=1745305226&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Магас
-https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=TuF26svvNJO1iT7ZIxJ_pg&e=1745227036&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Прима
-https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=hh0dKPiwBSOmTx2tqsx_3Q&e=1745227036&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,360 Новости
-https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=6Ly2c1DsYOvSyvTiCAx5VQ&e=1745227037&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Первый Ярославский
-https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=3oTb33tN_6zrNGg7NLZ7Cg&e=1745227038&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Первый крымский
-https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=yoffWUB24YnyF0beFWaqmA&e=1745227039&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Первый Тульский
-https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=HbycSQwJDRdAr47O2p6S8A&e=1745227040&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,ОТР
-https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=WveQhMzU20H0XPmXD5u34A&e=1745227041&scheme=https
+https://bl.rutube.ru/livestream/15bb032337c7425983757d211713eb7d/index.m3u8?s=AhtuEoTt8hB48JIgvw8ViQ&e=1745305227&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="prima" ,Прима
+https://bl.rutube.ru/livestream/3fd26103b82508289ef7b7f60c77d9c8/index.m3u8?s=xmVzZZ543XU-VtTH5K6rMQ&e=1745305228&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="360-news" ,360 Новости
+https://bl.rutube.ru/livestream/d14fcf59cb7d07a26c48ebc8c6565f44/index.m3u8?s=nqi-asqFVSQ6n7bXInABFA&e=1745305228&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="pervy-yaroslavsky" ,Первый Ярославский
+https://bl.rutube.ru/livestream/b7d879feefadde4e04e516dde89012cd/index.m3u8?s=HfK9xEceN0AbcBRWrkBZtw&e=1745305229&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="pervy-krymsky" ,Первый крымский
+https://bl.rutube.ru/livestream/3bbbfe178e58ca0830a701e0624f20d8/index.m3u8?s=wm_mQs5KqJv3QX6rO2IqYg&e=1745305230&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="pervy-tulsky" ,Первый Тульский
+https://bl.rutube.ru/livestream/8bdbf725a882473a1e558d00a882cf03/index.m3u8?s=F1tZZObI8PirwOD469-81Q&e=1745305231&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="otr" ,ОТР
+https://bl.rutube.ru/livestream/faa934385b83f9e8a92f5484defae5fa/index.m3u8?s=jGNdIuxGVxdVJnOwGwQv2w&e=1745305232&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Истоки Орёл
-https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=IiwSkAxfPtdphy4bkWyg2Q&e=1745227043&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Ю
-https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=8gwJFwqc5W6-u82hoxypDg&e=1745227044&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,БТВ
-https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=X237EfvAhu8W7gavlGofXw&e=1745227045&scheme=https
+https://bl.rutube.ru/livestream/503a8ac5ca6d738f05a147764f70215b/index.m3u8?s=VYPgK3siKP0_CTs7O2DQkQ&e=1745305233&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="yu" ,Ю
+https://bl.rutube.ru/livestream/5c9327074e25ca86f3111d4085cbbb65/index.m3u8?s=ZnIKyaG2dMzCvf3mpzwphw&e=1745305236&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="btvmd" ,БТВ
+https://bl.rutube.ru/livestream/671239d68ada3000a154a68efa0c7813/index.m3u8?s=I_ITUDlffgDUWifxctlzBg&e=1745305236&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Канал 12
-https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=phmFfpfhSn96DVTEvgtaGA&e=1745227045&scheme=https
+https://bl.rutube.ru/livestream/7d6d8c8fc5c6e02d9c0b78eb451f3bd0/index.m3u8?s=ca2ThoqCiCXmWIVoWm67wQ&e=1745305237&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,10 канал
-https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=uWjViUeE-A3WE9xepPluvw&e=1745227046&scheme=https
+https://bl.rutube.ru/livestream/c9e26bf5c003fd8d477200065ca1a05f/index.m3u8?s=NhBwhhJbwa_NtyfILckHaA&e=1745305238&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Среда
-https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=w-9EZx0NNfxLf3t7Orw2Mg&e=1745227048&scheme=https
+https://bl.rutube.ru/livestream/5fa486bf465c8735fff9f41b372610cc/index.m3u8?s=dFS5xtRsyXF7Sej9DrhZOA&e=1745305240&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,ЛРТ
-https://bl.rutube.ru/livestream/b6257f020bd1a156e47e0e3fb607f287/index.m3u8?s=A_Cwen6bL5doLFkN4Z-QMQ&e=1745227049&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,RT Doc
-https://bl.rutube.ru/livestream/d1eb5756f77825451cc9d129bf5607b0/index.m3u8?s=iGg2VFDxjx0SkAAKRfpYMg&e=1745227050&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Спас
-https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=8oOZthKqSUIBdX4oS_RVRA&e=1745227050&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Кино и Жизнь
-https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=Z-CsV3Aux6VAUi5Um-WbaQ&e=1745227051&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Резонанс ТВ
-https://bl.rutube.ru/livestream/e2d1a304d55b9a807ec5df1837859304/index.m3u8?s=T-KEf0rzJAc1yKuTrS2_Aw&e=1745227052&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,TV Губерния
-https://bl.rutube.ru/livestream/00d3bba0b8dade53fff9a4d07fa9611f/index.m3u8?s=mUpHOfIDc5AotzHSA_fVTg&e=1745227053&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Звезда
-https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=jca1WhrIYj0fJ_3EGVnPHw&e=1745227054&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Смайлик ТВ
-https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=29UgkRrkto0miX3b2M2umA&e=1745227055&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Радость моя
-https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=c9TaC3jPCN8FNO2pGudgVA&e=1745227056&scheme=https
+https://bl.rutube.ru/livestream/b6257f020bd1a156e47e0e3fb607f287/index.m3u8?s=4fbrul-DoqkCHv-ONJMBHg&e=1745305240&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="rtd-ru" ,RT Doc
+https://bl.rutube.ru/livestream/d1eb5756f77825451cc9d129bf5607b0/index.m3u8?s=_uR8lmmEL6LOCi3hzLQMlQ&e=1745305241&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="spas" ,Спас
+https://bl.rutube.ru/livestream/2bbfa9ebf9d79ade480d7281fcef1008/index.m3u8?s=OJlbZ3XRxp2UVtXhWWYA1w&e=1745305242&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="kino-i-zhizn" ,Кино и Жизнь
+https://bl.rutube.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=mrkQ36GOIy8VEKI-Wyfmnw&e=1745305242&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="rezonans" ,Резонанс ТВ
+https://bl.rutube.ru/livestream/e2d1a304d55b9a807ec5df1837859304/index.m3u8?s=aRvmMxloytiZVnPJ7FQOeA&e=1745305243&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tv-guberniya" ,TV Губерния
+https://bl.rutube.ru/livestream/00d3bba0b8dade53fff9a4d07fa9611f/index.m3u8?s=NioWnF7Bd9IQsTTrvWuIjg&e=1745305244&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="zvezda" ,Звезда
+https://bl.rutube.ru/livestream/5ab908fccfac5bb43ef2b1e4182256b0/index.m3u8?s=32YwkSQi1bGOqqzK6C2gzg&e=1745305244&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="smaylik-tv" ,Смайлик ТВ
+https://bl.rutube.ru/livestream/2f052691c75d72b3ed7f3c33ea956a41/index.m3u8?s=Q04DERs1ISnXQDX1Z9jNFw&e=1745305245&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="radost-moya" ,Радость моя
+https://bl.rutube.ru/livestream/9ad2099eed71b4a0e577292c3bfd0708/index.m3u8?s=fhwvUXCHWcMSkAjPdF--XQ&e=1745305246&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Вселенная мультфильмов
-https://bl.rutube.ru/livestream/66710e44c6f796f0b754794ca2585229/index.m3u8?s=CVs4LWIjWVkkgqVHSRJToQ&e=1745227056&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Солнце
-https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=fP_kOdR0lom0eHEwQU_diw&e=1745227057&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Буряад ТВ
-https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=PORhQwjT7lylEVkb-tl1ew&e=1745227058&scheme=https
+https://bl.rutube.ru/livestream/66710e44c6f796f0b754794ca2585229/index.m3u8?s=rbpc9CT1Tk_tUrNHV-AKnA&e=1745305246&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="solnce" ,Солнце
+https://bl.rutube.ru/livestream/2dba20a8405e57935827cb5721c2b759/index.m3u8?s=I2oMwo2A6jP1JVAlSLgaMA&e=1745305247&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="buriaad" ,Буряад ТВ
+https://bl.rutube.ru/livestream/55fec7f2c11f4decc66568fca39f26b2/index.m3u8?s=xemHe03GrlTe7b3VTRYjgQ&e=1745305248&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Kpop TV
-https://bl.rutube.ru/livestream/2d0e8f000ed430b793d8683db0f1a77f/index.m3u8?s=DdYWHc9gkNTE_Jh8tp22Xg&e=1745227059&scheme=https
+https://bl.rutube.ru/livestream/2d0e8f000ed430b793d8683db0f1a77f/index.m3u8?s=2zoB84WlQUDjqICI5Lg1qA&e=1745305249&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Смотри Радио
-https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=ew6M_rRZ0C3Du5Rb1mCkTg&e=1745227060&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,41 РЕГИОН
-https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=FbZT5ZpMxvn60QB_Ze_Qmg&e=1745227061&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Жар Птица
-https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=B63Oc2u9vi5XWt_q3NxNxA&e=1745227061&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,ТНТ Music
-https://bl.rutube.ru/livestream/f5ba23a0149f409c18168231844e0a3b/index.m3u8?s=rXxst5ZN4i6SChMnX5v3zQ&e=1745227062&scheme=https
+https://bl.rutube.ru/livestream/18eda61a347b781dd765b410133ef33a/index.m3u8?s=01FOi5QQBWUAucSw7rczVw&e=1745305250&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="41region" ,41 РЕГИОН
+https://bl.rutube.ru/livestream/aff0a2b356d2e1eef55bdb868be4dcc3/index.m3u8?s=uXWSNspH6GB58G-Xf2021A&e=1745305250&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="zhar-ptica" ,Жар Птица
+https://bl.rutube.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=1tKktYo6Ivxzm4N9E5qeKA&e=1745305251&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="tnt-music" ,ТНТ Music
+https://bl.rutube.ru/livestream/f5ba23a0149f409c18168231844e0a3b/index.m3u8?s=hN_v75MlJVQVclZ-xlsvaQ&e=1745305252&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Deluxe Dance
-https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=a5DF7lBUBm8yjoUTsh5Zaw&e=1745227063&scheme=https
+https://bl.rutube.ru/livestream/47fdffd6ab82bbab0a19039d7018839f/index.m3u8?s=WOv5zrE_Lr4P-9b2SuTRew&e=1745305253&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Activa TV
-https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=NRBQRwz1bdUlKhHOmFEjwQ&e=1745227064&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,MTV Live HD
-https://bl.rutube.ru/livestream/2e8d2bd1b1c868b180482ae78cc98dce/index.m3u8?s=BtkgzxrkRbzL5llz4bRpGQ&e=1745227065&scheme=https
+https://bl.rutube.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=s7_7TNwQ1YSb9QVxyHI2Lw&e=1745305254&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="mtv-live-hd" ,MTV Live HD
+https://bl.rutube.ru/livestream/2e8d2bd1b1c868b180482ae78cc98dce/index.m3u8?s=IV2etPH0b62bNDmoSwIp8g&e=1745305254&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,MTV
-https://bl.rutube.ru/livestream/e317f86bd2b387c47ea25cc319e31cd2/index.m3u8?s=sV-2T5ejHUhg2m1AfvtauA&e=1745227066&scheme=https
+https://bl.rutube.ru/livestream/e317f86bd2b387c47ea25cc319e31cd2/index.m3u8?s=uI6QqazJEcU2oSL89hU4RA&e=1745305255&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,NOW: Rock
-https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=EsStadNxqOq7l4_oKYBR9Q&e=1745227066&scheme=https
+https://bl.rutube.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=OQgcHoAFI6eOnmsxGUa-fA&e=1745305256&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Rock TV
-https://bl.rutube.ru/livestream/516fbcaf6d1634677cb04701d2207e54/index.m3u8?s=Cws7XpEflwEH49HgtGtqYg&e=1745227067&scheme=https
+https://bl.rutube.ru/livestream/516fbcaf6d1634677cb04701d2207e54/index.m3u8?s=bt5sQaM0csHN9vmRVy-USg&e=1745305256&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Record Dance Radio
-https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=wnWSX65sUu5IZgOR9MxjKA&e=1745227068&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,ММТВ
-https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=8m0ZDHR6jGPk8JLmJiod7g&e=1745227068&scheme=https
+https://bl.rutube.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=xp8OePvgYwgcj8OhBx-0_g&e=1745305257&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="muzykamodatv" ,ММТВ
+https://bl.rutube.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=3zZrwHuiEvBZ3uWN6nFwNA&e=1745305258&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Zerouno TV
-https://bl.rutube.ru/livestream/9938816973f0cd8df5bcd5ecaab0a387/index.m3u8?s=vNjjWSNdhXOSpHF1tLhLQw&e=1745227069&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,МузТВ
-https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=cI-3pVf7LzWdUdQf3M1V_A&e=1745227070&scheme=https
+https://bl.rutube.ru/livestream/9938816973f0cd8df5bcd5ecaab0a387/index.m3u8?s=b74zuPubh1f-gRMBuNYUrA&e=1745305258&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="muztv" ,МузТВ
+https://bl.rutube.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=lWpjzKZ7er6li4Bd1z9MUQ&e=1745305259&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,VIVA Russia HD
-https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=rG4G8xoo7tGnvKA8hQy6fA&e=1745227071&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Русский Корабль
-https://bl.rutube.ru/livestream/3ebc361db78373495974123cfb994531/index.m3u8?s=2lq4F46yzkAmdGTiEp-tew&e=1745227072&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Матч ТВ HD
-https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=x9ZLfNsGzZWEC_FlZuxFbQ&e=1745227072&scheme=https
+https://bl.rutube.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=K4O4qJZMJhE9tA4gwFwpWQ&e=1745305260&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="ruskorabl" ,Русский Корабль
+https://bl.rutube.ru/livestream/3ebc361db78373495974123cfb994531/index.m3u8?s=kO0KFLRGuiVsCFV5Np-Teg&e=1745305261&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="match-tv" ,Матч ТВ HD
+https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=eDt2HrbyTu5XE8F8W2qt-A&e=1745305262&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Спортплощадка
-https://bl.rutube.ru/livestream/dcc02ed1ff97923541c6d4c030c54c65/index.m3u8?s=pxIEUzUDnvMgTmzIpitjrQ&e=1745227073&scheme=https
+https://bl.rutube.ru/livestream/dcc02ed1ff97923541c6d4c030c54c65/index.m3u8?s=GUISOOwjFu_PUrHbMn7HXg&e=1745305262&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,beIN SPORTS XTRA Español
-https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=9RTcFaDMAFGEa2pNkmjYQw&e=1745227074&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,NBA TV HD
-https://bl.rutube.ru/livestream/876cf3628c698e956de40c1c911b0c5f/index.m3u8?s=ZPWGyWm6rDT8YiCAMOp1jQ&e=1745227075&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,SKY SPORTS F1
-https://bl.rutube.ru/livestream/920a9c2aa191bc403fef13ad449ad6fa/index.m3u8?s=lA_gVqDunuH68cX-itGt7A&e=1745227076&scheme=https
+https://bl.rutube.ru/livestream/05550e441b09aeec53e60de66b6c47bf/index.m3u8?s=zRvyVyzEfbu4hfnuRYlAwA&e=1745305263&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="nba-tv" ,NBA TV HD
+https://bl.rutube.ru/livestream/876cf3628c698e956de40c1c911b0c5f/index.m3u8?s=NYMMT2THLRTFo3ZW8E2S6A&e=1745305264&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="sky-sports-f1" ,SKY SPORTS F1
+https://bl.rutube.ru/livestream/920a9c2aa191bc403fef13ad449ad6fa/index.m3u8?s=x26QnBBbx5Qu6K9G9M4Tww&e=1745305265&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,One Golf
-https://bl.rutube.ru/livestream/f7387878105c66933cdc7fc826db3bd5/index.m3u8?s=HFVAlbD9yM0c9syJ-WrODQ&e=1745227077&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,SKY SPORTS PREMIER LEAGUE
-https://bl.rutube.ru/livestream/9cc47f22f8b64783940a3be37a2c69e7/index.m3u8?s=HQA5Dw2VbfQLL0bfzWI0eg&e=1745227078&scheme=https
+https://bl.rutube.ru/livestream/f7387878105c66933cdc7fc826db3bd5/index.m3u8?s=IvIvrRtNdMsTscRhdORiOg&e=1745305266&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="sky-sports-apl" ,SKY SPORTS PREMIER LEAGUE
+https://bl.rutube.ru/livestream/9cc47f22f8b64783940a3be37a2c69e7/index.m3u8?s=tPLu0NyCPe77_5JyR2WeYQ&e=1745305266&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,NHL Network US
-https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=LPLSp-3TGC5-7i4X6t8YgQ&e=1745227079&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,SKY SPORTS TENNIS
-https://bl.rutube.ru/livestream/b4bc015e3b636f9133c504f8f1a739eb/index.m3u8?s=AgvC--kCE-YKory861QjXw&e=1745227080&scheme=https
+https://bl.rutube.ru/livestream/7a485ef5da9fe50ba939f36ca3e6ed96/index.m3u8?s=FJRFLB3PoaRR0HzOOkjLKg&e=1745305268&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="sky-sports-tennis" ,SKY SPORTS TENNIS
+https://bl.rutube.ru/livestream/b4bc015e3b636f9133c504f8f1a739eb/index.m3u8?s=kutR3aEXrDauUaY9Oxunag&e=1745305269&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,MANCHESTER UNITED LIVE
-https://bl.rutube.ru/livestream/b3fdd0520eff7c3c2ab01529e511da03/index.m3u8?s=BkOjbSnrGitRG7jKbaOujw&e=1745227090&scheme=https
+https://bl.rutube.ru/livestream/b3fdd0520eff7c3c2ab01529e511da03/index.m3u8?s=dEB7qxBtQwbsaU3JrzcgSQ&e=1745305269&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Red Bull TV
-https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=fl1KyUE7K_jhrZiRUta-tQ&e=1745227091&scheme=https
+https://bl.rutube.ru/livestream/45b30eef1b89857182b03db2c25631d9/index.m3u8?s=hDfMHXMRUaeB2tgUR1DoOQ&e=1745305270&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,SuperSport Premier League
-https://bl.rutube.ru/livestream/e6fa77441a3b019526498775c5a5b9dc/index.m3u8?s=9ND85Kt7WF0olffoJA_sVA&e=1745227092&scheme=https
+https://bl.rutube.ru/livestream/e6fa77441a3b019526498775c5a5b9dc/index.m3u8?s=GSrmAGHKA8AzzvLDl6j4bw&e=1745305271&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Canal Motor Sport
-https://bl.rutube.ru/livestream/115c25ffbbd675fec60ac0b85d5febe0/index.m3u8?s=9u539lV8zZYyVKrBbUaFUw&e=1745227093&scheme=https
+https://bl.rutube.ru/livestream/115c25ffbbd675fec60ac0b85d5febe0/index.m3u8?s=dA5ozT7s15M16UNnnn59iA&e=1745305272&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Sony Ten 1 HD Live TV
-https://bl.rutube.ru/livestream/aa92aab9eb38ddfec3cab22436cf67c0/index.m3u8?s=3g_f38-vP5fB2wAzzsNSuw&e=1745227094&scheme=https
+https://bl.rutube.ru/livestream/aa92aab9eb38ddfec3cab22436cf67c0/index.m3u8?s=sDC-axSP6M9OWpDgoYRbag&e=1745305272&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Billiard TV
-https://bl.rutube.ru/livestream/efd143d2f5ea5d00eb3c19230bed3dc6/index.m3u8?s=-pN8yzVpBFGeWvRBMWwlyw&e=1745227095&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Dazn 1 HD
-https://bl.rutube.ru/livestream/f001e570f65fb1e351b606c4fa11bb99/index.m3u8?s=iz8RR3snIe5Ki9H-CzxpOg&e=1745227095&scheme=https
+https://bl.rutube.ru/livestream/efd143d2f5ea5d00eb3c19230bed3dc6/index.m3u8?s=7UnS-F3cin-5MpxB_T-qOQ&e=1745305273&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="daznbar1" ,Dazn 1 HD
+https://bl.rutube.ru/livestream/f001e570f65fb1e351b606c4fa11bb99/index.m3u8?s=LuB7wIExnwE2hW0TBklkTw&e=1745305274&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Sport Digital HD
-https://bl.rutube.ru/livestream/ece6eac5d133f66d7777a76b920c4cb3/index.m3u8?s=mvdqcWbeiyGneT1jUpfU0g&e=1745227096&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,Волейбол
-https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=lEPkpyWwuzAfN5jjX9OITA&e=1745227097&scheme=https
+https://bl.rutube.ru/livestream/ece6eac5d133f66d7777a76b920c4cb3/index.m3u8?s=qED-Oot1FMhXkhPao6gr2g&e=1745305275&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="voleybol" ,Волейбол
+https://bl.rutube.ru/livestream/cc1b56aa4955a144f324ad58998513bb/index.m3u8?s=D3XGg_hCGsfd5S7HyyT97A&e=1745305275&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,SPORT1+
-https://bl.rutube.ru/livestream/ef2dcc0457cd26f1ca9890272462c25d/index.m3u8?s=vBnzNTrMaUq3Se_lTNyldg&e=1745227098&scheme=https
+https://bl.rutube.ru/livestream/ef2dcc0457cd26f1ca9890272462c25d/index.m3u8?s=1EJtf6jmppZH6jsF-xgscw&e=1745305276&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,USA Sport
-https://bl.rutube.ru/livestream/a7458e3d00260f8f1150ba177d328e20/index.m3u8?s=HpbAl1DcXxbQOv5G2RnbNw&e=1745227098&scheme=https
+https://bl.rutube.ru/livestream/a7458e3d00260f8f1150ba177d328e20/index.m3u8?s=pJilhTewAECuMAwQ2GIpFg&e=1745305277&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,TENNIS CHANNEL
-https://bl.rutube.ru/livestream/55078c18df2f66480b6804fad685bc44/index.m3u8?s=VEsGX8yJfyd0Dt8kfVSd6Q&e=1745227099&scheme=https
+https://bl.rutube.ru/livestream/55078c18df2f66480b6804fad685bc44/index.m3u8?s=cMxUv-3BAQzeS8C4DdXn9A&e=1745305278&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Racing Com
-https://bl.rutube.ru/livestream/91f864be2fa47460ab516591425c91e6/index.m3u8?s=e2FzJ5B9pVqf3ha4A4StTw&e=1745227100&scheme=https
+https://bl.rutube.ru/livestream/91f864be2fa47460ab516591425c91e6/index.m3u8?s=9C7Tpfxakivt7b6xVARLjQ&e=1745305278&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,WWE NETWORK
-https://bl.rutube.ru/livestream/f994d44e47cd2361b383eb6d8163f8ee/index.m3u8?s=77h2uXI96BPocVxx1B5gKQ&e=1745227102&scheme=https
+https://bl.rutube.ru/livestream/f994d44e47cd2361b383eb6d8163f8ee/index.m3u8?s=eh1jRlRP_NW6KgTrh4-X-A&e=1745305281&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,WWE RETRO TV
-https://bl.rutube.ru/livestream/0567bd6a581c0a8f9e158338a24f3642/index.m3u8?s=xqg_fGhiMb4u_Y5LwGA5Tg&e=1745227103&scheme=https
+https://bl.rutube.ru/livestream/0567bd6a581c0a8f9e158338a24f3642/index.m3u8?s=7JFsX4zFFGyu2FhUyzvd6w&e=1745305281&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Fight Network TV
-https://bl.rutube.ru/livestream/d09ce6253419d9ca26ba1f29c9b7820a/index.m3u8?s=8bSX5m0QQZzH9ubrIIfTXg&e=1745227104&scheme=https
+https://bl.rutube.ru/livestream/d09ce6253419d9ca26ba1f29c9b7820a/index.m3u8?s=MJOMwGM-rpyly3HK7D92Vg&e=1745305282&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,NFL Network HD CA
-https://bl.rutube.ru/livestream/1c8f3034af99f0f2bdf444d0cffff371/index.m3u8?s=_gwIsLR7qqSZfGGCCEvfQQ&e=1745227104&scheme=https
+https://bl.rutube.ru/livestream/1c8f3034af99f0f2bdf444d0cffff371/index.m3u8?s=CVYo_-pHM8rjX4UeikI_IA&e=1745305283&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Strongman Champions TV
-https://bl.rutube.ru/livestream/ce8bc34a9db0cb9ce2b795f157e57d53/index.m3u8?s=Y-Gp23f2oFc-rxiMWQWl6g&e=1745227105&scheme=https
+https://bl.rutube.ru/livestream/ce8bc34a9db0cb9ce2b795f157e57d53/index.m3u8?s=W65Qy-KfEtr6-ZNwn9LgRA&e=1745305284&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,NHRA TV
-https://bl.rutube.ru/livestream/1c89ae9ce10293d622dfb0c9b9b9972a/index.m3u8?s=p9E4ZSOl7QbdBiE6b0aUXg&e=1745227106&scheme=https
+https://bl.rutube.ru/livestream/1c89ae9ce10293d622dfb0c9b9b9972a/index.m3u8?s=sLau-P5oDAE27dy97daclw&e=1745305284&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Cricket Gold TV
-https://bl.rutube.ru/livestream/833c0881e465e15f6c31dccaafe67faa/index.m3u8?s=ds1oFzpMG3gA8NNfMvxlTg&e=1745227107&scheme=https
+https://bl.rutube.ru/livestream/833c0881e465e15f6c31dccaafe67faa/index.m3u8?s=RO2XBUTbY9plRBFgsRzqYQ&e=1745305285&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Powder TV
-https://bl.rutube.ru/livestream/a8e8b44a9aa8a5b3232a5027883ba34c/index.m3u8?s=T3PR4lpCAwcWbcYnQ2ktRw&e=1745227108&scheme=https
+https://bl.rutube.ru/livestream/a8e8b44a9aa8a5b3232a5027883ba34c/index.m3u8?s=nmj2xSaQItuoq7E86JR9-Q&e=1745305286&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Sports Grid
-https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=jRFSvdeH4wH_aE2FEa2ZCQ&e=1745227109&scheme=https
+https://bl.rutube.ru/livestream/afc3073ec3efc6cb70c88ce6acaf4344/index.m3u8?s=S_5Z-8NAoSxQ1MtBBRtIjw&e=1745305287&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Sports First
-https://bl.rutube.ru/livestream/12dc2369a0b8982bc75b53102fefb311/index.m3u8?s=fX2pSJQdiGe--1qcJ9FF1w&e=1745227109&scheme=https
+https://bl.rutube.ru/livestream/12dc2369a0b8982bc75b53102fefb311/index.m3u8?s=t3uvwItp_v3CHV3s18Wfeg&e=1745305288&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,MLB TV
-https://bl.rutube.ru/livestream/99f8efb85c6ab6acc2c997a8b26a6bef/index.m3u8?s=Kb8x3M-glA3wmGtsYHRC2w&e=1745227110&scheme=https
+https://bl.rutube.ru/livestream/99f8efb85c6ab6acc2c997a8b26a6bef/index.m3u8?s=6m55EpgTcrtLIBtk32WOmg&e=1745305288&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,TVS Classic Sports
-https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=cDzHJcGTyYZWPvdYFjhytQ&e=1745227111&scheme=https
+https://bl.rutube.ru/livestream/9f28acb802549828d3ce7fbd8ecc17d3/index.m3u8?s=K-skPuLsmisSpgfDlfRJFw&e=1745305289&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Sports Connect
-https://bl.rutube.ru/livestream/f7adb677ed0cf40db973798d9cfa1883/index.m3u8?s=lLohjGsMNSUgJY7Lx_C96A&e=1745227112&scheme=https
+https://bl.rutube.ru/livestream/f7adb677ed0cf40db973798d9cfa1883/index.m3u8?s=ddvbNm1qbHr7qu6dfqfYUg&e=1745305290&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Sport En France
-https://bl.rutube.ru/livestream/061ef31849ab29f17d2ab70c3cc67f2f/index.m3u8?s=l0eexp_vFExGiTnaRPGJGA&e=1745227113&scheme=https
+https://bl.rutube.ru/livestream/061ef31849ab29f17d2ab70c3cc67f2f/index.m3u8?s=rsIOhKsESSpLJNC2_3C_Qw&e=1745305291&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Dubai Sports 2
-https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=_nUKPiniCV1GkFNqJ28h7A&e=1745227113&scheme=https
+https://bl.rutube.ru/livestream/9d751116af89fd3a94b79927de49699b/index.m3u8?s=X66QEItLLURBsaYBHlk6Ow&e=1745305292&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,CBS Sports Network USA
-https://bl.rutube.ru/livestream/b0b18852d54304b674e78e27c188f481/index.m3u8?s=ouUP8Znse4F31cDAMr9Raw&e=1745227114&scheme=https
+https://bl.rutube.ru/livestream/b0b18852d54304b674e78e27c188f481/index.m3u8?s=SxqV90OthKt00qwBtr9JVQ&e=1745305292&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,RACING AMERICA TV
-https://bl.rutube.ru/livestream/ec0614e0501efad6006dfced8390b755/index.m3u8?s=v4JGkHYHcQGLZ2-C0HlpoA&e=1745227115&scheme=https
+https://bl.rutube.ru/livestream/ec0614e0501efad6006dfced8390b755/index.m3u8?s=iHquLAG69-1186sWwsl9mA&e=1745305293&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Lax Sports Network
-https://bl.rutube.ru/livestream/e1f44e12c1a91dc164828923dee24ae0/index.m3u8?s=Xd9EMLermE_SU3JjFPfMJA&e=1745227116&scheme=https
+https://bl.rutube.ru/livestream/e1f44e12c1a91dc164828923dee24ae0/index.m3u8?s=W8ozvJ4iFxOrW1pRXDIURw&e=1745305294&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Court Sports NetWork
-https://bl.rutube.ru/livestream/47567c328d692e958c4f59e15bd0ea5e/index.m3u8?s=FTQ7ZRfwg_KwhLk_oIhBQA&e=1745227117&scheme=https
+https://bl.rutube.ru/livestream/47567c328d692e958c4f59e15bd0ea5e/index.m3u8?s=ICtg4Km8CQMzEKNviXOqTQ&e=1745305295&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,ESPN
-https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=Cc4np7bMdBxAJ6DW3kWdvw&e=1745227117&scheme=https
+https://bl.rutube.ru/livestream/eac1e371fbb6ab680d0176d472c04089/index.m3u8?s=weViXpMAV_Lw9gLMtZdA_Q&e=1745305295&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,ESPN 2
-https://bl.rutube.ru/livestream/3d2fcc6a858c3e421e496572814dbbcb/index.m3u8?s=96lrOFP8jcGGxzYjJKozhg&e=1745227118&scheme=https
+https://bl.rutube.ru/livestream/3d2fcc6a858c3e421e496572814dbbcb/index.m3u8?s=osneqv5SGEAD7SJz08annQ&e=1745305296&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Pickle TV
-https://bl.rutube.ru/livestream/1a8052d52bb100b108fa3a6317485f6e/index.m3u8?s=1vSj10WIg9biYIl39Ak6Cw&e=1745227119&scheme=https
-#EXTINF:-1  group-title="РуТруба" ,FUEL TV
-https://bl.rutube.ru/livestream/0fe3b087f03a42a341ad9c1442ce6895/index.m3u8?s=RNzVvCofkYc-SIZmFJihGw&e=1745227120&scheme=https
+https://bl.rutube.ru/livestream/1a8052d52bb100b108fa3a6317485f6e/index.m3u8?s=r5z8pVeYsCAmhbtD8o87yA&e=1745305297&scheme=https
+#EXTINF:-1  group-title="РуТруба"  tvg-id="fuel-tv-hd" ,FUEL TV
+https://bl.rutube.ru/livestream/0fe3b087f03a42a341ad9c1442ce6895/index.m3u8?s=ot6GzAWNs-5LKlGzjvSvJw&e=1745305298&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Women's Sports Network
-https://bl.rutube.ru/livestream/871de8db05eb2ed0b4e06920be892179/index.m3u8?s=1JlrGcc2g2dcPCgbvChicg&e=1745227121&scheme=https
+https://bl.rutube.ru/livestream/871de8db05eb2ed0b4e06920be892179/index.m3u8?s=KYg7z-_iwloIGjUIc4RDQQ&e=1745305299&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,FTF Sports
-https://bl.rutube.ru/livestream/97ffbbdcc2d962036e5b0d3d30c0a5e0/index.m3u8?s=oIeb9b1zqOMWsWNZVYGMPg&e=1745227121&scheme=https
+https://bl.rutube.ru/livestream/97ffbbdcc2d962036e5b0d3d30c0a5e0/index.m3u8?s=ao3lNdrTkqANS1MIP8fDRQ&e=1745305299&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,Unbeaten
-https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=HWGbYvBVRH8glzhFxI5y_g&e=1745227122&scheme=https
+https://bl.rutube.ru/livestream/efc2833169ec20a3ea61197714bea6ab/index.m3u8?s=OW27ozB5ntFYo5mv1I22Kw&e=1745305300&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,HUNT and FISH
-https://bl.rutube.ru/livestream/9faeeb8f8896f6d04517c7d77fdf5e51/index.m3u8?s=KpmXpzyYduW6ybjKicAKaw&e=1745227123&scheme=https
+https://bl.rutube.ru/livestream/9faeeb8f8896f6d04517c7d77fdf5e51/index.m3u8?s=4dEIaK3UKHEyKe4fybWIYA&e=1745305301&scheme=https
 #EXTINF:-1  group-title="РуТруба" ,WORLD FISHING NETWORK
-https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=azpixdjyMaWTY8BT3idL8A&e=1745227124&scheme=https
+https://bl.rutube.ru/livestream/88860091dc5125b1b5cd266988d5be74/index.m3u8?s=2SgBYLRH5vd5EYE7gLvvZg&e=1745305302&scheme=https
 #EXTINF:-1  group-title="Крым"  tvg-id="pervy" ,Первый канал HD 
 http://178.212.71.253:8000/play/62/index.m3u8
 #EXTINF:-1  group-title="Крым"  tvg-id="pervy" ,Первый канал
