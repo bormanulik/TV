@@ -1,12 +1,26 @@
 #EXTM3U 
 #EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от ", Обновление от 28.04.2025 9:00
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="pervy"  tvg-logo="http://epg.it999.ru/img/983.png" ,Первый канал HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1  group-title="Эфирные"  tvg-id="rossia1" , Россия 1 HD
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="ntv"  tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
+https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="tnt" ,ТНТ HD
 https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="mir-premium"  tvg-logo="https://www.oreol.tv/img/mirpremium1.jpg" ,Мир Premium HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="pervy" ,Первый HD
+https://livetv.mylifeisgood.net.ru/channels/perviytest.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="ntv" ,НТВ HD
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="tnt4" ,ТНТ4 HD
 https://livetv.mylifeisgood.net.ru/channels/tnt4.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="mir" ,МИР HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdorig.m3u8
+#EXTINF:-1  group-title="Эфирные"  tvg-id="ntv"  tvg-logo="http://epg.it999.ru/img/2001.png" ,НТВ HD
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="Эфирные" ,Мир 24 HD
 https://livetv.mylifeisgood.net.ru/channels/mirhdpremium.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="izvestia" ,Известия HD
@@ -199,6 +213,16 @@ http://195.18.23.20:8000/play/1/index.m3u8
 http://130.193.73.10:8937/play/a04q
 #EXTINF:-1  group-title="Познавательные"  tvg-id="ntv-style" , НТВ Стиль
 http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="ntv-pravo"  tvg-logo="http://epg.it999.ru/img/1753.png" ,НТВ Право
+https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="ntv-style"  tvg-logo="http://epg.it999.ru/img/1755.png" ,НТВ Стиль
+https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-logo="https://universmotri.ru/images/Univer-HD.png" ,Univer TV HD
+https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="terra-ru" ,TERRA
+https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="dialogi-o-rybalke" ,Диалоги о Рыбалке
+https://livetv.mylifeisgood.net.ru/channels/dialogiorybalke.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="kvn-tv" , КВН ТВ
 http://178.212.71.253:8000/play/119/index.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="no_epg_cinema"  tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" , Alpha Funny
@@ -925,6 +949,10 @@ http://109.200.130.123:7537/play/a02g
 http://46.175.123.164:4022/udp/239.195.65.56:1234
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="timeless-dizi" , Timeless Dizi Channel 
 http://194.158.222.36:6086
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="ntv-xit"  tvg-logo="http://epg.it999.ru/img/2041.png" ,НТВ Хит
+https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="ntv-serial"  tvg-logo="http://epg.it999.ru/img/1754.png" ,НТВ Сериал
+https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="Кино в 4К"  tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg" ,Капитан Америка: Новый мир (2025)
 https://vod.plvideo.ru/JLxVTeJD/cXyXEGJ0A4/5jktNnXi0afdMsAFDZL/ZX
 #EXTINF:-1  group-title="Кино в 4К"  tvg-logo="https://i.postimg.cc/FH6m8kSR/1.jpg" ,Красный шёлк (2025)
