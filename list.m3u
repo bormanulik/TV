@@ -337,6 +337,44 @@ http://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-logo="https://universmotri.ru/images/Univer-HD.png" ,Univer TV HD
 https://cdn.universmotri.ru/live/smil:univer.smil/chunklist_w911267907_b3628000_slru.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="animal-planet-eu" , ANIMAL PLANET HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/32795/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="discovery-channel" , DISCOVERY CHANNEL HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/2005/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="discovery-science" , DISCOVERY SCIENCE HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/59942/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="id-xtra-ru" , INVESTIGATION DISCOVERY HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/51073/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="national-geographic" , NATIONAL GEOGRAPHIC HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/2007/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="nat-geo-wild" , NAT GEO WILD HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/2004/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="big-planet" , BIG PLANET
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/39561/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные" , H2  HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/47392/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные" , VIJU+ EXPLORE HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/63941/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные" , VIJI+ HISTORY HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/37742/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные" , VIJI+ NATURE HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/61953/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные" , VIJI PLANET
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/620957/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные" , TERRA HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/20947/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="dtx" , DTX HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/27/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="docubox-hd" , DOCUBOX HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/56228/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные" , OXOТНИК И РЫБOЛOВ HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/1658/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="dikiy" , ДИКИЙ
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/34/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные" , ДИКAЯ PЫБAЛКA HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/18028/hls/pl.m3u8
+#EXTINF:-1  group-title="Познавательные" , ДИКAЯ OXOТA HD
+http://rr3.8v8i8p.com/~20689cbc9966bdeb8a18b96b8aa36090cb3/18027/hls/pl.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="gags-network" ,Gags Network HD
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0NjQyMTk5OSwiaHdpZCI6IjNmNmNlNzQ5YzdiZTg3NWI2Y2JjMDdmMTBiODI4ZjY4NzNlY2UzNzczMGM0ZmYzNjVkZDU4YWUzOGY4MWU4ZDIiLCJsYXN0X3JlcV9kYXRlIjoxNzQ1ODE3MTk5LCJzZXNzaW9uX2lkIjoiYjBmMDZlNmIyN2IwMDI2YTg1ODQ5Y2UwYmU1ODhiM2YiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.oWjtAhAIKUtkUUAqCvrgD5WEAhlkAMi6muPoM0OI_i4
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="anekdottv" ,Анекдот ТВ
