@@ -387,6 +387,32 @@ http://80.245.95.243:8888/play/a00d/index.m3u8
 http://80.245.95.243:8888/play/sgg798/index.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="pervy-vegetariansky" ,Первый вегетарианский
 http://80.245.95.243:8888/play/a02o/index.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="animal-planet-eu" , ANIMAL PLANET HD
+http://de.online24.pm/play/175/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="discovery-channel" , DISCOVERY CHANNEL HD
+http://de.online24.pm/play/147/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="id-xtra-ru" , ID XTRA HD
+http://de.online24.pm/play/392/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="national-geographic" , NATIONAL GEOGRAPHIC
+http://de.online24.pm/play/31/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="national-geographic" , NATIONAL GEOGRAPHIC HD
+http://de.online24.pm/play/143/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="nat-geo-wild" , NAT GEO WILD HD
+http://de.online24.pm/play/162/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature" , VIASAT NATURE
+http://de.online24.pm/play/8851/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-explore" , VIASAT EXPLORE
+http://de.online24.pm/play/8852/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-history" , VIASAT HISTORY HD
+http://de.online24.pm/play/491/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-explore" , VIJU EXPLORE HD
+http://de.online24.pm/play/79/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-history" , VIJU HISTORY HD
+http://de.online24.pm/play/78/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature" , VIJU NATURE HD
+http://de.online24.pm/play/119/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature-history-hd" , VIJU+ PLANET HD
+http://de.online24.pm/play/91/FB4F94DA00C3BE0/video.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="gags-network" ,Gags Network HD
 https://stream-msk-06.ott.tricolor.tv:443/dtv/id697_MSKSG-PVR-1--Gagsnetwork/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="anekdottv" ,Анекдот ТВ
