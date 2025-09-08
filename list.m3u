@@ -203,6 +203,28 @@ http://tvip.btk.teleos.ru:8081/chid514/index.m3u8
 http://45.159.74.22/Telekafe/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Познавательные" , Fashion&LifeStyle HD
 http://31.148.48.15/Fashion_One_HD/index.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-explore" , VIASAT EXPLORE
+http://de.online24.pm/play/8852/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-explore" , VIJU EXPLORE HD
+http://de.online24.pm/play/79/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-history" , VIASAT HISTORY
+http://85.117.61.97:8000/play/a010/index.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-history" , VIASAT HISTORY HD
+http://de.online24.pm/play/491/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-history" , VIJU HISTORY HD
+http://de.online24.pm/play/78/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature" , VIASAT NATURE
+http://de.online24.pm/play/8851/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature" , VIASAT NATURE
+http://85.117.61.97:8000/play/a011/index.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature" , VIJU NATURE HD
+http://de.online24.pm/play/119/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature-history-hd" , VIJU+ PLANET HD
+http://de.online24.pm/play/91/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="oxota-i-rybalka" , ОХОТА И РЫБАЛКА
+http://85.117.61.97:8000/play/a01e/index.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="dikiy" , ДИКИЙ
+http://85.117.61.97:8000/play/a01f/index.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="no_epg_cinema"  tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" , Alpha Funny
 http://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ytimg.com/vi/t4XyFHEw3FA/maxresdefault.jpg" ,Шоу Бенни Хилла
@@ -10171,6 +10193,78 @@ http://95.85.109.219:7000/play/a067
 http://95.85.109.219:7000/play/a068
 #EXTINF:-1  group-title="Спортивные"  tvg-id="viasat-sport" , Viju+ Sport
 http://178.134.1.158:8081/viasatsport/index.m3u8
+#EXTINF:-1  group-title="Спортивные" , RED BULL TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1  group-title="Спортивные" , HORIZON SPORTS
+https://dai.google.com/linear/hls/event/onG023gQQ22Tjm14B5yg1w/master.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="sport1-lt" , SPORT 1
+http://95.85.109.219:7000/play/a08e
+#EXTINF:-1  group-title="Спортивные" , SPORT 2
+http://95.85.109.219:7000/play/a08f
+#EXTINF:-1  group-title="Спортивные" , SPORT 3
+http://95.85.109.219:7000/play/a08g
+#EXTINF:-1  group-title="Спортивные" , SPORT 4
+http://95.85.109.219:7000/play/a08h
+#EXTINF:-1  group-title="Спортивные" , SPORT 1 [LT]
+http://kbln.shott.top/p/83c8eca19c40148d49bd4f70a92c1937/548
+#EXTINF:-1  group-title="Спортивные"  tvg-id="sport1-lt" , SPORT 1 HD [LT]
+http://kbln.shott.top/p/83c8eca19c40148d49bd4f70a92c1937/549
+#EXTINF:-1  group-title="Спортивные" , TV3 SPORT HD [LT]
+http://kbln.shott.top/p/83c8eca19c40148d49bd4f70a92c1937/1476
+#EXTINF:-1  group-title="Спортивные" , TV3 SPORT 2 HD [LT]
+http://kbln.shott.top/p/83c8eca19c40148d49bd4f70a92c1937/1477
+#EXTINF:-1  group-title="Спортивные"  tvg-id="okko-sport" , ОККО СПОРТ HD
+http://boxviptv.net:25461/sp60/882762/1608
+#EXTINF:-1  group-title="Спортивные"  tvg-id="okko-football" , ОККО ФУТБОЛ HD
+http://boxviptv.net:25461/sp60/882762/1610
+#EXTINF:-1  group-title="Спортивные"  tvg-id="eurosport1-pl" , EUROSPORT 1 HD PL
+http://de.online24.pm/play/5453/BC28182177585B5/video.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="eurosport2-pl" , EUROSPORT 2 HD PL
+http://de.online24.pm/play/5454/BC28182177585B5/video.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="setanta-sports" , SETANTA SPORTS 1 HD
+http://kbln.shott.top/p/83c8eca19c40148d49bd4f70a92c1937/1882
+#EXTINF:-1  group-title="Спортивные"  tvg-id="setanta-sports" , SETANTA SPORTS 1 HD
+http://boxviptv.net:25461/sp60/882762/1112
+#EXTINF:-1  group-title="Спортивные"  tvg-id="setanta-sports-plus" , SETANTA SPORTS 2 HD
+http://kbln.shott.top/p/83c8eca19c40148d49bd4f70a92c1937/1883
+#EXTINF:-1  group-title="Спортивные"  tvg-id="setanta-sports-plus" , SETANTA SPORTS 2 HD
+http://boxviptv.net:25461/sp60/882762/1113
+#EXTINF:-1  group-title="Спортивные" , SETANTA  SPORT EURASIA HD
+http://kbln.shott.top/p/83c8eca19c40148d49bd4f70a92c1937/377
+#EXTINF:-1  group-title="Спортивные" , SKY SPORT TOP EVENT HD
+http://de.online24.pm/play/925/BC28182177585B5/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , SKY SPORT PREMIER LEAGUE
+http://de.online24.pm/play/818/BC28182177585B5/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , SKY SPORT BUNDESLIGA HD
+http://de.online24.pm/play/836/BC28182177585B5/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , SKY SPORT AUSTRIA HD DE
+http://de.online24.pm/play/5129/BC28182177585B5/video.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="daznbar1" , DAZN 1 HD
+http://boxviptv.net:25461/sp60/882762/570
+#EXTINF:-1  group-title="Спортивные"  tvg-id="daznbar2" , DAZN 2 HD
+http://boxviptv.net:25461/sp60/882762/571
+#EXTINF:-1  group-title="Спортивные" , DAZN 3 HD
+http://boxviptv.net:25461/sp60/882762/572
+#EXTINF:-1  group-title="Спортивные" , DAZN 4 HD
+http://boxviptv.net:25461/sp60/882762/573
+#EXTINF:-1  group-title="Спортивные" , BEIN EXTRAS
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-1" , BEIN SPORTS 1 HD
+http://boxviptv.net:25461/sp60/882762/273
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-2" , BEIN SPORTS 2 HD
+http://boxviptv.net:25461/sp60/882762/213
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-3" , BEIN SPORTS 3 HD
+http://boxviptv.net:25461/sp60/882762/214
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-4" , BEIN SPORTS 4 HD
+http://boxviptv.net:25461/sp60/882762/215
+#EXTINF:-1  group-title="Спортивные" , SPORT TV + HD
+http://vocotv.pro:80/h123456/h123456/273597
+#EXTINF:-1  group-title="Спортивные"  tvg-id="polsat-sport" , POLSAT SPORT
+http://de.online24.pm/play/5456/BC28182177585B5/video.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="polsat-sport-extra" , POLSAT SPORT 2
+http://de.online24.pm/play/5452/BC28182177585B5/video.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="polsat-sport-news" , POLSAT SPORT 3
+http://de.online24.pm/play/5457/BC28182177585B5/video.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="matur-tv"  tvg-logo="http://s1.hostingkartinok.com/uploads/images/2021/08/42d1f2b0148e319bf9972f0303b7347e.png"   tvg-name="Матур ТВ", Матур ТВ
 http://s45177.cdn.ngenix.net/hls/CH_R02_MATURTV/variant.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="muztv"  tvg-logo="https://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png"   tvg-name="Муз ТВ", Муз ТВ
