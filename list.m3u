@@ -12873,6 +12873,66 @@ http://178.212.71.253:8000/play/77/index.m3u8
 http://178.212.71.253:8000/play/47/index.m3u8
 #EXTINF:-1  group-title="Крым"  tvg-id="multimuzyka" ,Мультимузыка
 http://178.212.71.253:8000/play/116/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="pervy" ,Первый HD
+http://85.117.61.97:8000/play/a01n/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="ntv-mir" ,НТВ-Мир
+http://85.117.61.97:8000/play/a01u/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="rentv-int" ,Рен ТВ International
+http://85.117.61.97:8000/play/a01t/index.m3u8
+#EXTINF:-1  group-title="Кавказ" ,Планета РТР
+http://85.117.61.97:8000/play/a01s/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="tayny-galaktiki" ,Тайны галактики
+http://85.117.61.97:8000/play/a01c/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="drive" ,Драйв
+http://85.117.61.97:8000/play/a022/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="nauka" ,Наука
+http://85.117.61.97:8000/play/a01d/index.m3u8
+#EXTINF:-1  group-title="Кавказ" ,Зоопарк
+http://85.117.61.97:8000/play/a01g/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="amedia-premium" ,Amedia Premium
+http://85.117.61.97:8000/play/a013/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="amedia-hit" ,Amedia Hit
+http://85.117.61.97:8000/play/a015/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="amedia1" ,Amedia 1
+http://85.117.61.97:8000/play/a012/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="amedia2" ,Amedia 2
+http://85.117.61.97:8000/play/a014/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="cinema-ru" ,Cinema
+http://85.117.61.97:8000/play/a01a/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="evrokino" ,Еврокино
+http://85.117.61.97:8000/play/a017/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="nst" ,НСТ
+http://85.117.61.97:8000/play/a019/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="plan-b" ,Plan B
+http://85.117.61.97:8000/play/a016/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="tvxxi" ,TV XXI
+http://85.117.61.97:8000/play/a018/index.m3u8
+#EXTINF:-1  group-title="Кавказ" ,TV 25
+http://85.117.61.97:8000/play/a00h/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="vip-comedy" ,VIP Comedy
+http://85.117.61.97:8000/play/a00s/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="vip-megahit" ,VIP Megahit
+http://85.117.61.97:8000/play/a00t/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="vip-premiere" ,VIP Premiere
+http://85.117.61.97:8000/play/a00u/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="domashny" ,Домашний
+http://85.117.61.97:8000/play/a01i/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="mir" ,Мир
+http://85.117.61.97:8000/play/a01v/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="novy-kanal-ua" ,Новый канал
+http://85.117.61.97:8000/play/a01l/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="space-tv" ,Space TV
+http://85.117.61.97:8000/play/a028/index.m3u8
+#EXTINF:-1  group-title="Кавказ" ,Musik box ge
+http://85.117.61.97:8000/play/a00n/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="sts-kids-hd" ,СТС Kids
+http://85.117.61.97:8000/play/a01y/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="mult" ,Мульт
+http://85.117.61.97:8000/play/a01r/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="karusel" ,Карусель
+http://85.117.61.97:8000/play/a01z/index.m3u8
+#EXTINF:-1  group-title="Кавказ"  tvg-id="detsky" ,Уникум
+http://85.117.61.97:8000/play/a01q/index.m3u8
 #EXTINF:-1  group-title="Осс"  tvg-id="rentv" ,Рен ТВ HD
 http://178.217.72.66:8080/REN_TV/index.m3u8
 #EXTINF:-1  group-title="Осс"  tvg-id="rossia1" ,Россия 1 HD
@@ -13187,4 +13247,266 @@ http://178.217.72.66:8080/Match_Futbol_1_HD/index.m3u8
 http://178.217.72.66:8080/mir_basketbola/index.m3u8
 #EXTINF:-1  group-title="Осс"  tvg-id="box-tv" ,Бокс ТВ
 http://178.217.72.66:8080/Boks_TV/index.m3u8
+#EXTINF:-1  group-title="Лнт"  tvg-id="tnt4" ,ТНТ4
+http://93.125.121.61:8383/play/a020
+#EXTINF:-1  group-title="Лнт"  tvg-id="glazami-turista" ,Глазами туриста HD
+http://93.125.121.61:8383/play/Intelsat85k1405
+#EXTINF:-1  group-title="Лнт"  tvg-id="ocean-tv" ,Ocean TV
+http://93.125.121.61:8383/play/Intelsat85k1218
+#EXTINF:-1  group-title="Лнт"  tvg-id="dialogi-o-rybalke" ,Диалоги о рыбалке
+http://93.125.121.61:8383/play/a02g
+#EXTINF:-1  group-title="Лнт"  tvg-id="dikaya-oxota-hd" ,Дикая охота HD 
+http://93.125.121.61:8383/play/a00o
+#EXTINF:-1  group-title="Лнт"  tvg-id="dikaya-rybalka-hd" ,Дикая рыбалка HD
+http://93.125.121.61:8383/play/a00n
+#EXTINF:-1  group-title="Лнт"  tvg-id="istoria" ,История
+http://93.125.121.61:8383/play/a018
+#EXTINF:-1  group-title="Лнт"  tvg-id="moya-planeta" ,Моя планета HD
+http://93.125.121.61:8383/play/Intelsat85k1305
+#EXTINF:-1  group-title="Лнт"  tvg-id="nauka-20" ,Наука HD
+http://93.125.121.61:8383/play/Intelsat85k311
+#EXTINF:-1  group-title="Лнт"  tvg-id="oxota-i-rybalka" ,Охота и Рыбалка
+http://93.125.121.61:8383/play/a032
+#EXTINF:-1  group-title="Лнт"  tvg-id="texno-24" ,Техно 24
+http://93.125.121.61:8383/play/a00f
+#EXTINF:-1  group-title="Лнт"  tvg-id="rtg-tv" ,RTG TV
+http://93.125.121.61:8383/play/a025
+#EXTINF:-1  group-title="Лнт"  tvg-id="domashny-int" ,Домашний International
+http://93.125.121.61:8383/play/a009
+#EXTINF:-1  group-title="Лнт"  tvg-id="perec-int" ,Перец International
+http://93.125.121.61:8383/play/a007
+#EXTINF:-1  group-title="Лнт"  tvg-id="amedia-hit" ,Amedia Hit HD
+http://93.125.121.61:8383/play/Intelsat85k1410
+#EXTINF:-1  group-title="Лнт"  tvg-id="amedia2" ,Amedia 2 HD
+http://93.125.121.61:8383/play/Intelsat85k503
+#EXTINF:-1  group-title="Лнт"  tvg-id="amedia-premium" ,Amedia Premium HD
+http://93.125.121.61:8383/play/Intelsat85k812
+#EXTINF:-1  group-title="Лнт"  tvg-id="amedia1" ,Amedia 1
+http://93.125.121.61:8383/play/a02m
+#EXTINF:-1  group-title="Лнт"  tvg-id="fashion-tv" ,Fashion TV HD
+http://93.125.121.61:8383/play/Intelsat85k1223
+#EXTINF:-1  group-title="Лнт"  tvg-id="rbk" ,РБК
+http://93.125.121.61:8383/play/a023
+#EXTINF:-1  group-title="Лнт"  tvg-id="shot-tv" ,SHOT TV
+http://93.125.121.61:8383/play/a034
+#EXTINF:-1  group-title="Лнт"  tvg-id="sarafan" ,Сарафан
+http://93.125.121.61:8383/play/exp80k606
+#EXTINF:-1  group-title="Лнт"  tvg-id="tvxxi" ,TV XXI
+http://93.125.121.61:8383/play/Intelsat85k507
+#EXTINF:-1  group-title="Лнт"  tvg-id="vip-comedy" ,VIP Comedy
+http://93.125.121.61:8383/play/a00m
+#EXTINF:-1  group-title="Лнт"  tvg-id="vip-megahit" ,VIP Megahit
+http://93.125.121.61:8383/play/a038
+#EXTINF:-1  group-title="Лнт"  tvg-id="vip-premiere" ,VIP Premiere
+http://93.125.121.61:8383/play/a037
+#EXTINF:-1  group-title="Лнт" ,Кинеко HD
+http://93.125.121.61:8383/play/a035
+#EXTINF:-1  group-title="Лнт"  tvg-id="kinosemiya" ,Киносемья HD 
+http://93.125.121.61:8383/play/Intelsat85k307
+#EXTINF:-1  group-title="Лнт"  tvg-id="kinoxit" ,Кинохит HD
+http://93.125.121.61:8383/play/Intelsat85k308
+#EXTINF:-1  group-title="Лнт"  tvg-id="lubimoe-kino" ,Любимое кино
+http://93.125.121.61:8383/play/Intelsat85k306
+#EXTINF:-1  group-title="Лнт"  tvg-id="russky-illuzion" ,Русский Иллюзион
+http://93.125.121.61:8383/play/a02t
+#EXTINF:-1  group-title="Лнт"  tvg-id="domkino" ,Дом кино
+http://93.125.121.61:8383/play/a02l
+#EXTINF:-1  group-title="Лнт" ,Зоопарк
+http://93.125.121.61:8383/play/a02y
+#EXTINF:-1  group-title="Лнт"  tvg-id="illuzion-plus" ,Иллюзион+
+http://93.125.121.61:8383/play/a01p
+#EXTINF:-1  group-title="Лнт"  tvg-id="indiyskoe-kino" ,Индийское Кино
+http://93.125.121.61:8383/play/a031
+#EXTINF:-1  group-title="Лнт"  tvg-id="kvn-tv" ,КВН ТВ
+http://93.125.121.61:8383/play/a030
+#EXTINF:-1  group-title="Лнт"  tvg-id="teatr" ,Театр
+http://93.125.121.61:8383/play/Intelsat85k1214
+#EXTINF:-1  group-title="Лнт"  tvg-id="yu" ,Ю
+http://93.125.121.61:8383/play/a02n
+#EXTINF:-1  group-title="Лнт"  tvg-id="mir-seriala" ,Мир Сериала
+http://93.125.121.61:8383/play/a02s
+#EXTINF:-1  group-title="Лнт"  tvg-id="piatnica" ,Пятница
+http://93.125.121.61:8383/play/a02e
+#EXTINF:-1  group-title="Лнт"  tvg-id="sapfir" ,САПФИР HD
+http://93.125.121.61:8383/play/a02z
+#EXTINF:-1  group-title="Лнт"  tvg-id="sovsek" ,Совершенно Секретно
+http://93.125.121.61:8383/play/ Intelsat85k1309
+#EXTINF:-1  group-title="Лнт"  tvg-id="tvcentr" ,ТВЦ 
+http://93.125.121.61:8383/play/a029
+#EXTINF:-1  group-title="Лнт"  tvg-id="spas" ,Спас
+http://93.125.121.61:8383/play/a02f
+#EXTINF:-1  group-title="Лнт"  tvg-id="che" ,Че
+http://93.125.121.61:8383/play/a033
+#EXTINF:-1  group-title="Лнт"  tvg-id="shanson-tv" ,Шансон ТВ
+http://93.125.121.61:8383/play/Intelsat85k1221
+#EXTINF:-1  group-title="Лнт"  tvg-id="bridge-tv" ,Bridge TV
+http://93.125.121.61:8383/play/a026
+#EXTINF:-1  group-title="Лнт"  tvg-id="bridge-tv-ruxit" ,Bridge TV Русский Хит
+http://93.125.121.61:8383/play/a02b
+#EXTINF:-1  group-title="Лнт"  tvg-id="europa-plus-tv" ,Europa Plus TV
+http://93.125.121.61:8383/play/a01o
+#EXTINF:-1  group-title="Лнт"  tvg-id="solnce" ,Солнце
+http://93.125.121.61:8383/play/a02o
+#EXTINF:-1  group-title="Лнт"  tvg-id="multimania" ,Мультиландия 
+http://93.125.121.61:8383/play/a02j
+#EXTINF:-1  group-title="Лнт"  tvg-id="bolt" ,Bolt
+http://93.125.121.61:8383/play/a017
+#EXTINF:-1  group-title="Лнт"  tvg-id="cartoon-classics" ,Cartoon Classics
+http://93.125.121.61:8383/play/a00s
+#EXTINF:-1  group-title="Лнт"  tvg-id="mult" ,Мульт 
+http://93.125.121.61:8383/play/a00u
+#EXTINF:-1  group-title="Лнт"  tvg-id="detsky-mir" ,Детский мир
+http://93.125.121.61:8383/play/Intelsat85k1220
+#EXTINF:-1  group-title="Лнт" ,KHL HD
+http://93.125.121.61:8383/play/a028
+#EXTINF:-1  group-title="Лнт"  tvg-id="match-planeta" ,Матч! Планета
+http://93.125.121.61:8383/play/a00q
+#EXTINF:-1  group-title="Лнт"  tvg-id="football-ru" ,ФУТБОЛ
+http://93.125.121.61:8383/play/a00d
+#EXTINF:-1  group-title="Лнт" ,Extreme Sports Channel
+http://93.125.121.61:8383/play/a02a
+#EXTINF:-1  group-title="Орак"  tvg-id="texno-24" ,24 техно
+http://158.101.222.193:88/georgia_play.php?id=24techno
+#EXTINF:-1  group-title="Орак"  tvg-id="viasat-explore" ,Viasat explore
+http://158.101.222.193:88/georgia_play.php?id=viasatexp
+#EXTINF:-1  group-title="Орак"  tvg-id="viasat-history" ,Viasat History
+http://158.101.222.193:88/georgia_play.php?id=viasathist
+#EXTINF:-1  group-title="Орак"  tvg-id="viasat-nature" ,Viasat Nature
+http://158.101.222.193:88/georgia_play.php?id=viasatnat
+#EXTINF:-1  group-title="Орак"  tvg-id="viasat-sport" ,Viasat Sport
+http://158.101.222.193:88/georgia_play.php?id=viasatsport
+#EXTINF:-1  group-title="Орак"  tvg-id="oruzhie" ,Оружие
+http://158.101.222.193:88/georgia_play.php?id=oruzhie
+#EXTINF:-1  group-title="Орак"  tvg-id="365-dnej" ,365 дней
+http://158.101.222.193:88/georgia_play.php?id=365day
+#EXTINF:-1  group-title="Орак"  tvg-id="amedia1" ,Amedia 1
+http://158.101.222.193:88/georgia_play.php?id=amedia
+#EXTINF:-1  group-title="Орак"  tvg-id="amedia2" ,Amedia 2
+http://158.101.222.193:88/georgia_play.php?id=amedia2
+#EXTINF:-1  group-title="Орак"  tvg-id="amedia-hit" ,Amedia Hit
+http://158.101.222.193:88/georgia_play.php?id=amediahit
+#EXTINF:-1  group-title="Орак"  tvg-id="amedia-premium" ,Amedia Premium HD
+http://158.101.222.193:88/georgia_play.php?id=amediapremium
+#EXTINF:-1  group-title="Орак"  tvg-id="avto24" ,Авто 24
+http://158.101.222.193:88/georgia_play.php?id=auto24
+#EXTINF:-1  group-title="Орак"  tvg-id="avto-plus" ,Авто плюс
+http://158.101.222.193:88/georgia_play.php?id=autoplus
+#EXTINF:-1  group-title="Орак"  tvg-id="sony-turbo" ,.black
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1  group-title="Орак"  tvg-id="sony-tv" ,.red
+http://158.101.222.193:88/georgia_play.php?id=red
+#EXTINF:-1  group-title="Орак"  tvg-id="sts" ,СТС
+http://158.101.222.193:88/georgia_play.php?id=ctctv
+#EXTINF:-1  group-title="Орак"  tvg-id="evrokino" ,Еврокино
+http://158.101.222.193:88/georgia_play.php?id=eurokino
+#EXTINF:-1  group-title="Орак"  tvg-id="feniks-plus-kino" ,Феникс+Кино
+http://158.101.222.193:88/georgia_play.php?id=fenikspluskino
+#EXTINF:-1  group-title="Орак"  tvg-id="piatnica-int" ,Пятница! International
+http://158.101.222.193:88/georgia_play.php?id=friday
+#EXTINF:-1  group-title="Орак"  tvg-id="illuzion-plus" ,Иллюзион+
+http://158.101.222.193:88/georgia_play.php?id=illuzionplus
+#EXTINF:-1  group-title="Орак"  tvg-id="zhivi" ,Живи
+http://158.101.222.193:88/georgia_play.php?id=jivi
+#EXTINF:-1  group-title="Орак"  tvg-id="muzhskoe-kino" ,Мужское кино
+http://158.101.222.193:88/georgia_play.php?id=interesnoetv
+#EXTINF:-1  group-title="Орак"  tvg-id="kinoxit" ,Кинохит
+http://158.101.222.193:88/georgia_play.php?id=kinohit
+#EXTINF:-1  group-title="Орак"  tvg-id="kinokomedia" ,Кинокомедия
+http://158.101.222.193:88/georgia_play.php?id=kinokomediya
+#EXTINF:-1  group-title="Орак"  tvg-id="kinomiks" ,Киномикс
+http://158.101.222.193:88/georgia_play.php?id=kinomiks
+#EXTINF:-1  group-title="Орак"  tvg-id="kinopremiera-hd" ,Кинопремьера HD
+http://158.101.222.193:88/georgia_play.php?id=kinopremyerahd
+#EXTINF:-1  group-title="Орак"  tvg-id="kinosemiya" ,Киносемья
+http://158.101.222.193:88/georgia_play.php?id=kinosemya
+#EXTINF:-1  group-title="Орак"  tvg-id="nashe-novoe-kino" ,Наше новое кино
+http://158.101.222.193:88/georgia_play.php?id=nashanovoekino
+#EXTINF:-1  group-title="Орак"  tvg-id="kinoseria" ,Киносерия
+http://158.101.222.193:88/georgia_play.php?id=kinoseria
+#EXTINF:-1  group-title="Орак"  tvg-id="kinosvidanie" ,Киносвидание
+http://158.101.222.193:88/georgia_play.php?id=kinosvidanie
+#EXTINF:-1  group-title="Орак"  tvg-id="kinouzhas" ,Киноужас
+http://158.101.222.193:88/georgia_play.php?id=kinoujas
+#EXTINF:-1  group-title="Орак"  tvg-id="kvn-tv" ,КВН ТВ
+http://158.101.222.193:88/georgia_play.php?id=kvntv
+#EXTINF:-1  group-title="Орак"  tvg-id="mir-24" ,Мир 24
+http://158.101.222.193:88/georgia_play.php?id=mir24
+#EXTINF:-1  group-title="Орак"  tvg-id="mir" ,Мир
+http://158.101.222.193:88/georgia_play.php?id=mir
+#EXTINF:-1  group-title="Орак"  tvg-id="muzhskoy" ,Мужской
+http://158.101.222.193:88/georgia_play.php?id=muzhskoy
+#EXTINF:-1  group-title="Орак"  tvg-id="nostalgia" ,Ностальгия
+http://158.101.222.193:88/georgia_play.php?id=nostalgy
+#EXTINF:-1  group-title="Орак"  tvg-id="perec-int" ,Перец
+http://158.101.222.193:88/georgia_play.php?id=perec
+#EXTINF:-1  group-title="Орак"  tvg-id="tv1000-russkoe-kino" ,TV1000 Русское кино
+http://158.101.222.193:88/georgia_play.php?id=tv1000rukino
+#EXTINF:-1  group-title="Орак"  tvg-id="uspex" ,Успех
+http://158.101.222.193:88/georgia_play.php?id=uspeh
+#EXTINF:-1  group-title="Орак" ,Зоопарк
+http://158.101.222.193:88/georgia_play.php?id=zoo
+#EXTINF:-1  group-title="Орак"  tvg-id="zee-tv" ,Индия
+http://158.101.222.193:88/georgia_play.php?id=zeetv
+#EXTINF:-1  group-title="Орак" ,М1 HD UA
+http://158.101.222.193:88/georgia_play.php?id=m1
+#EXTINF:-1  group-title="Орак"  tvg-id="mezzo" ,Mezzo
+http://158.101.222.193:88/georgia_play.php?id=mezzo
+#EXTINF:-1  group-title="Орак"  tvg-id="malysh" ,Супергерои
+http://158.101.222.193:88/georgia_play.php?id=malysh
+#EXTINF:-1  group-title="Орак"  tvg-id="da-vinci" ,Da vinci
+http://158.101.222.193:88/georgia_play.php?id=davinci
+#EXTINF:-1  group-title="Орак"  tvg-id="detsky" ,Уникум
+http://158.101.222.193:88/georgia_play.php?id=unikum
+#EXTINF:-1  group-title="Орак"  tvg-id="detsky-mir" ,Детский мир
+http://158.101.222.193:88/georgia_play.php?id=detskymir
+#EXTINF:-1  group-title="Орак" ,Setanta Sports 1 GE
+http://158.101.222.193:88/georgia_play.php?id=setanta_georgia
+#EXTINF:-1  group-title="Орак"  tvg-id="match-planeta" ,Матч! Планета
+http://158.101.222.193:88/georgia_play.php?id=matchplaneta
+#EXTINF:-1  group-title="Орак"  tvg-id="box-tv" ,Бокс ТВ
+http://158.101.222.193:88/georgia_play.php?id=boxtv
+#EXTINF:-1  group-title="Орак" ,Formula
+http://158.101.222.193:88/georgia_play.php?id=formula
+#EXTINF:-1  group-title="Орак" ,maestro
+http://158.101.222.193:88/georgia_play.php?id=maestro
+#EXTINF:-1  group-title="Орак" ,Marao
+http://158.101.222.193:88/georgia_play.php?id=marao
+#EXTINF:-1  group-title="Орак" ,egrisitv HD
+http://158.101.222.193:88/georgia_play.php?id=egrisitv
+#EXTINF:-1  group-title="Орак" ,diatv HD
+http://158.101.222.193:88/georgia_play.php?id=diatv
+#EXTINF:-1  group-title="Орак" ,Agrotv HD GE
+http://158.101.222.193:88/georgia_play.php?id=agrotv
+#EXTINF:-1  group-title="Орак" ,Abkhaz
+http://158.101.222.193:88/georgia_play.php?id=abkhaz
+#EXTINF:-1  group-title="Орак" ,argotv
+http://158.101.222.193:88/georgia_play.php?id=argotv
+#EXTINF:-1  group-title="Орак" ,caucasia HD
+http://158.101.222.193:88/georgia_play.php?id=caucasia
+#EXTINF:-1  group-title="Орак" ,Comedy Arkhi
+http://158.101.222.193:88/georgia_play.php?id=comedy
+#EXTINF:-1  group-title="Орак" ,Ertsulovneba
+http://158.101.222.193:88/georgia_play.php?id=ertsulovneba
+#EXTINF:-1  group-title="Орак" ,Girchi TV GE
+http://158.101.222.193:88/georgia_play.php?id=girchitv
+#EXTINF:-1  group-title="Орак" ,GDS TV GE
+http://158.101.222.193:88/georgia_play.php?id=gttv
+#EXTINF:-1  group-title="Орак" ,guriatv HD
+http://158.101.222.193:88/georgia_play.php?id=guriatv
+#EXTINF:-1  group-title="Орак" ,gms HD
+http://158.101.222.193:88/georgia_play.php?id=gms
+#EXTINF:-1  group-title="Орак" ,Imedi TV GE
+http://158.101.222.193:88/georgia_play.php?id=imedihd
+#EXTINF:-1  group-title="Орак" ,qvemoqartli HD
+http://158.101.222.193:88/georgia_play.php?id=qvemoqartli
+#EXTINF:-1  group-title="Орак" ,Pirveli GE
+http://158.101.222.193:88/georgia_play.php?id=pirvelitv
+#EXTINF:-1  group-title="Орак" ,pktv HD
+http://158.101.222.193:88/georgia_play.php?id=pktv
+#EXTINF:-1  group-title="Орак" ,POS TV HD GE
+http://158.101.222.193:88/georgia_play.php?id=postv
+#EXTINF:-1  group-title="Орак" ,nwbctv
+http://158.101.222.193:88/georgia_play.php?id=nwbctv
+#EXTINF:-1  group-title="Орак" ,obiektivi HD
+http://158.101.222.193:88/georgia_play.php?id=obiektivi
 #EXT-X-ENDLIST
