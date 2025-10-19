@@ -13471,56 +13471,6 @@ http://5.188.221.43:8080/play/disney
 http://5.188.221.43:8080/play/karusel
 #EXTINF:-1  group-title="Инет"  tvg-id="muztv" ,МузТВ
 http://5.188.221.43:8080/play/muz_tv
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Мультсериал HD",BCU Мультсериал HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv7JTnkmkdMT99PwNcZ5RVwE/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Catastrophe HD",BCU Catastrophe HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9f6SWiFw8PNZk4id7RFgc0/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Charm HD",BCU Charm HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-JFmQWO4ln-WckFd8N6rHI/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Cinema HD",BCU Cinema HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4I4rb8HB6HRT1m2r704nAw/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Cinema+ HD",BCU Cinema+ HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv3ep5istILlJoTAz8cyQG0U/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Comedy HD",BCU Comedy HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwrX1vZH9mpCzdyKcCunfNk/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Cosmo HD",BCU Cosmo HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv48nbqzix0io8M6uabX7_v8/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Criminal HD",BCU Criminal HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5SksEGtd7d3nuu2927oA-g/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Fantastic HD",BCU Fantastic HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv9yDIvAPIZngXrZU-0F_-8U/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Kids HD",BCU Kids HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwKeLvglHIE9szxGKxKsPkM/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Kids+ HD",BCU Kids+ HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv5vdPZncqE0CWdh9OPaENog/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Kinorating HD",BCU Kinorating HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv__ZwaT4B7QdWMBkb5kWJNg/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU KINOZAKAZ HD",BCU KINOZAKAZ HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyerBpVTXuRwaTpz1Q0lAEI/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Little HD",BCU Little HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv2xdypzM8wFnIQl73Odc4iY/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Premiere 2 HD",BCU Premiere 2 HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyvLqSptfc1SKx-z1dV8ZbI/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Premiere 3 HD",BCU Premiere 3 HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvyB3p-UUaNgn4QKM3cNGArQ/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Premiere HD",BCU Premiere HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv-IbT0YqD94K8roB7swxNvI/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Premiere Ultra 4K",BCU Premiere Ultra 4K
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvxc3Zv7vg7VT_3AmRBZD8p8/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Reality HD",BCU Reality HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvz_T7-fuqyrZoj4BDiDMayg/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU RUSerial HD",BCU RUSerial HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv8WUwxJpt9iPp8oa4id9ykA/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Russian HD",BCU Russian HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6i6bewaKtNcxXjUkKEU31I/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Stars HD",BCU Stars HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv8FJ3fIo0L9Tnm2AALJkBcQ/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU TruMotion HD",BCU TruMotion HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv4xqWDWCCyLn2qp38HJ0cwY/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU Ultra 4K",BCU Ultra 4K
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv_rw3dU4YBMISQwdwuZK9nA/m3u8
-#EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="BCU VHS HD",BCU VHS HD
-http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDv6oyEnkSHfCOe9d2ntzE5bE/m3u8
 #EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="Clarity4K Боевик",Clarity4K Боевик
 http://128.140.55.5:80/play/hhvFRY1oVT36QbH4zdqDvwlgYR9qr1eyz4PjODcA3ZI/m3u8
 #EXTINF:-1  group-title="Тестовые 1"  tvg-id="(no tvg-id)"   tvg-name="Clarity4K Драмы",Clarity4K Драмы
