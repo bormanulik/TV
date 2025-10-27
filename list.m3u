@@ -11797,6 +11797,82 @@ http://87.120.142.11:18000/Match!
 http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1  group-title="Спортивные"  tvg-id="match-igra" ,МАТЧ! Игра
 http://87.120.142.11:18000/Match!Igra
+#EXTINF:-1  group-title="Спортивные"  tvg-id="eurosport1" , Eurosport 1
+https://blueberry.uvs.onlinetv.link/cdn_origin2/eurosport/chunks.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="eurosport2" , Eurosport 2
+https://blueberry.uvs.onlinetv.link/cdn_origin2/eurosport2/chunks.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="eurosport1" , Eurosport 1 HD
+http://87.76.32.36:8001/eurosport1hd
+#EXTINF:-1  group-title="Спортивные"  tvg-id="eurosport2" , Eurosport 2 HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/eurosport2hd/chunks.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football1" , Матч! Футбол 1 HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matchfutbol1hd/chunks.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football2" , Матч! Футбол 2 HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matchfutbol2hd/chunks.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football3" , Матч! Футбол 3 HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matchfutbol3hd/chunks.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-premier" , Матч Премьер
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matchpremier/chunks.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-premier" , Матч Премьер HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/matchpremierhd/chunks.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="mir-basketbola" , Мир баскетбола
+https://blueberry.uvs.onlinetv.link/cdn_origin2/mirbasketbola/chunks.m3u8
+#EXTINF:-1  group-title="Спортивные" , Sport UZ HD
+https://blueberry.uvs.onlinetv.link/cdn_origin2/UzSport_uz/chunks.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="fightbox-hd" ,FightBox HD
+http://139.28.255.188:8080/FightBox/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="mir-basketbola" ,Мир баскетбола
+http://217.25.80.16/Mir_Basketbola/mono.m3u8
+#EXTINF:-1  group-title="Спортивные" ,KHL HD
+http://217.25.80.16/KHL_HD/mono.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="kxl-hd" , KHL Prime
+http://50.7.28.226/8297/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="fightbox-hd" ,FightBox
+http://217.25.80.16/FightBox/mono.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="start" ,СТАРТ HD
+http://217.25.80.16/start_hd/mono.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="okko-football" , Окко Футбол HD
+http://50.7.28.226/9170/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="okko-sport-2" , Окко Спорт 2 HD
+http://50.7.28.226/9183/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="sportivny" , ТВ Спорт 
+http://50.7.28.226/9187/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="voleybol" , Волейбол 
+http://50.7.28.226/9192/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="mir-basketbola" ,Мир Баскетбола
+http://146.120.14.239:3001/play/a0bw
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football1" ,Матч! Футбол 1 HD
+http://178.217.72.72/Match_Futbol_3_HD/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football2" ,Матч! Футбол 2 HD
+http://178.217.72.72/Match_Futbol_2_HD/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football3" ,Матч! Футбол 3 HD
+http://178.217.72.72/Match_Futbol_1_HD/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="mir-basketbola" ,Мир баскетбола
+http://178.217.72.72/mir_basketbola/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="eurosport1" ,Eurosport 1 HD
+http://iptv46.mcx-ix.ru:8077/Eurosport1HD/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="eurosport2" ,Eurosport 2 HD
+http://iptv46.mcx-ix.ru:8077/Eurosport2HD/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football1" ,Матч! Футбол 1 HD
+http://iptv46.mcx-ix.ru:8077/football1_hd/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football2" ,Матч! Футбол 2 HD
+http://iptv46.mcx-ix.ru:8077/football2_hd/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football3" ,Матч! Футбол 3 HD
+http://iptv46.mcx-ix.ru:8077/football3_hd/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="kxl-hd" ,КХЛ HD
+http://iptv46.mcx-ix.ru:8077/khl_hd/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="kxl" ,КХЛ ТВ
+http://iptv46.mcx-ix.ru:8077/khl/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="viasat-sport" ,Viasat Sport HD
+http://iptv46.mcx-ix.ru:8077/ViasatSportHD/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="start" ,СТАРТ HD
+http://iptv46.mcx-ix.ru:8077/start_hd/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football1" , Матч! Футбол 1
+http://188.190.222.53/Match_Futbol_1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football2" , Матч! Футбол 2
+http://188.190.222.53/Match_Futbol_2/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football3" , Матч! Футбол 3
+http://188.190.222.53/Match_Futbol_3/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Спортивные"  tvg-id="tonus-tv" ,Тонус ТВ
 http://iptv46.mcx-ix.ru:8077/tonus/index.m3u8
 #EXTINF:-1  group-title="Спортивные"  tvg-id="russky-ekstrim" ,Русский Экстрим
@@ -14467,198 +14543,6 @@ http://178.212.71.253:8000/play/77/index.m3u8
 http://178.212.71.253:8000/play/47/index.m3u8
 #EXTINF:-1  group-title="Крым"  tvg-id="multimuzyka" ,Мультимузыка
 http://178.212.71.253:8000/play/116/index.m3u8
-#EXTINF:-1  group-title="Беларусь"  tvg-id="kultura" ,Россия К
-http://146.120.14.239:3001/play/a083
-#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus1" ,Беларусь 1
-http://146.120.14.239:3001/play/a06d
-#EXTINF:-1  group-title="Беларусь"  tvg-id="ont-by" ,ОНТ
-http://146.120.14.239:3001/play/a06e
-#EXTINF:-1  group-title="Беларусь"  tvg-id="stv-by" ,СТВ
-http://146.120.14.239:3001/play/a06f
-#EXTINF:-1  group-title="Беларусь"  tvg-id="mir" ,Мир
-http://146.120.14.239:3001/play/a09j
-#EXTINF:-1  group-title="Беларусь"  tvg-id="pervy-info-by" ,Первый Информационный
-http://146.120.14.239:3001/play/a06h
-#EXTINF:-1  group-title="Беларусь"  tvg-id="rtr-belarus" ,РТР Беларусь
-http://146.120.14.239:3001/play/a06i
-#EXTINF:-1  group-title="Беларусь"  tvg-id="ntv-pravo" ,НТВ Право
-http://146.120.14.239:3001/play/a079
-#EXTINF:-1  group-title="Беларусь"  tvg-id="ntv-style" ,НТВ Стиль
-http://146.120.14.239:3001/play/a07a
-#EXTINF:-1  group-title="Беларусь"  tvg-id="ntv-serial" ,НТВ Сериал
-http://146.120.14.239:3001/play/a0bx
-#EXTINF:-1  group-title="Беларусь"  tvg-id="ntv-belarus" ,НТВ Беларусь
-http://146.120.14.239:3001/play/a06j
-#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus3" ,Беларусь 3
-http://146.120.14.239:3001/play/a06k
-#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus2" ,Беларусь 2
-http://146.120.14.239:3001/play/a0kh
-#EXTINF:-1  group-title="Беларусь"  tvg-id="zagorodnaya-zhizn" ,Загородная жизнь
-http://146.120.14.239:3001/play/a0bp
-#EXTINF:-1  group-title="Беларусь"  tvg-id="moya-planeta" ,Моя Планета
-http://146.120.14.239:3001/play/a06v
-#EXTINF:-1  group-title="Беларусь"  tvg-id="nauka" ,Наука
-http://146.120.14.239:3001/play/a06w
-#EXTINF:-1  group-title="Беларусь"  tvg-id="glazami-turista" ,Глазами Туриста
-http://146.120.14.239:3001/play/a0bs
-#EXTINF:-1  group-title="Беларусь"  tvg-id="id-xtra-ru" ,Investigation Discovery
-http://146.120.14.239:3001/play/a06x
-#EXTINF:-1  group-title="Беларусь"  tvg-id="discovery-channel" ,Discovery Channel
-http://146.120.14.239:3001/play/a06y
-#EXTINF:-1  group-title="Беларусь"  tvg-id="animal-planet-eu" ,Animal Planet
-http://146.120.14.239:3001/play/a06z
-#EXTINF:-1  group-title="Беларусь"  tvg-id="tayny-galaktiki" ,Тайны Галактики
-http://146.120.14.239:3001/play/a08j
-#EXTINF:-1  group-title="Беларусь"  tvg-id="morskoy" ,Моя Стихия
-http://146.120.14.239:3001/play/a089
-#EXTINF:-1  group-title="Беларусь"  tvg-id="oruzhie" ,Оружие
-http://146.120.14.239:3001/play/a09a
-#EXTINF:-1  group-title="Беларусь"  tvg-id="sovsek" ,Совершенно Секретно
-http://146.120.14.239:3001/play/a0fo
-#EXTINF:-1  group-title="Беларусь"  tvg-id="hd-life" ,Точка РФ
-http://146.120.14.239:3001/play/a0jh
-#EXTINF:-1  group-title="Беларусь"  tvg-id="dikaya-oxota-hd" ,Дикая Охота HD
-http://146.120.14.239:3001/play/a0ji
-#EXTINF:-1  group-title="Беларусь"  tvg-id="dikaya-rybalka-hd" ,Дикая Рыбалка HD
-http://146.120.14.239:3001/play/a0jk
-#EXTINF:-1  group-title="Беларусь"  tvg-id="ocean-tv" ,Ocean TV
-http://146.120.14.239:3001/play/a06s
-#EXTINF:-1  group-title="Беларусь"  tvg-id="domashny" ,Домашний
-http://146.120.14.239:3001/play/a06n
-#EXTINF:-1  group-title="Беларусь"  tvg-id="perec-int" ,Перец International
-http://146.120.14.239:3001/play/a06o
-#EXTINF:-1  group-title="Беларусь" ,ТНТ International
-http://146.120.14.239:3001/play/a08i
-#EXTINF:-1  group-title="Беларусь" ,5 International
-http://146.120.14.239:3001/play/a08q
-#EXTINF:-1  group-title="Беларусь"  tvg-id="sarafan" ,Сарафан
-http://146.120.14.239:3001/play/a06q
-#EXTINF:-1  group-title="Беларусь"  tvg-id="uspex" ,Успех
-http://146.120.14.239:3001/play/a06r
-#EXTINF:-1  group-title="Беларусь"  tvg-id="hollywood-hd" ,Hollywood HD
-http://146.120.14.239:3001/play/a06t
-#EXTINF:-1  group-title="Беларусь"  tvg-id="amedia-premium" ,Amedia Premium HD
-http://146.120.14.239:3001/play/a06u
-#EXTINF:-1  group-title="Беларусь" ,Киноман
-http://146.120.14.239:3001/play/a0fv
-#EXTINF:-1  group-title="Беларусь"  tvg-id="domkino" ,Дом кино
-http://146.120.14.239:3001/play/a073
-#EXTINF:-1  group-title="Беларусь"  tvg-id="vremia" ,Время
-http://146.120.14.239:3001/play/a0be
-#EXTINF:-1  group-title="Беларусь"  tvg-id="pobeda" ,Победа
-http://146.120.14.239:3001/play/a076
-#EXTINF:-1  group-title="Беларусь"  tvg-id="nst" ,НСТ
-http://146.120.14.239:3001/play/a077
-#EXTINF:-1  group-title="Беларусь"  tvg-id="teatr" ,Театр
-http://146.120.14.239:3001/play/a07d
-#EXTINF:-1  group-title="Беларусь"  tvg-id="mir-24" ,Мир 24
-http://146.120.14.239:3001/play/a07e
-#EXTINF:-1  group-title="Беларусь"  tvg-id="nasha-tema" ,Наша Тема
-http://146.120.14.239:3001/play/a0gi
-#EXTINF:-1  group-title="Беларусь"  tvg-id="amedia1" ,Amedia 1
-http://146.120.14.239:3001/play/a07g
-#EXTINF:-1  group-title="Беларусь"  tvg-id="muzhskoy" ,Мужской
-http://146.120.14.239:3001/play/a0br
-#EXTINF:-1  group-title="Беларусь"  tvg-id="amedia2" ,Amedia 2
-http://146.120.14.239:3001/play/a07i
-#EXTINF:-1  group-title="Беларусь"  tvg-id="amedia-hit" ,Amedia HIT HD
-http://146.120.14.239:3001/play/a07j
-#EXTINF:-1  group-title="Беларусь"  tvg-id="dorama" ,Дорама
-http://146.120.14.239:3001/play/a07k
-#EXTINF:-1  group-title="Беларусь"  tvg-id="indiyskoe-kino" ,Индийское Кино
-http://146.120.14.239:3001/play/a07p
-#EXTINF:-1  group-title="Беларусь"  tvg-id="kinokomedia" ,Кинокомедия
-http://146.120.14.239:3001/play/a07t
-#EXTINF:-1  group-title="Беларусь"  tvg-id="kinomiks" ,Киномикс
-http://146.120.14.239:3001/play/a07q
-#EXTINF:-1  group-title="Беларусь"  tvg-id="kinosvidanie" ,Киносвидание
-http://146.120.14.239:3001/play/a07r
-#EXTINF:-1  group-title="Беларусь"  tvg-id="kinopremiera-hd" ,Кинопремьера HD
-http://146.120.14.239:3001/play/a0ds
-#EXTINF:-1  group-title="Беларусь"  tvg-id="kinosemiya" ,Киносемья
-http://146.120.14.239:3001/play/a082
-#EXTINF:-1  group-title="Беларусь"  tvg-id="kinoseria" ,Киносерия
-http://146.120.14.239:3001/play/a07x
-#EXTINF:-1  group-title="Беларусь"  tvg-id="kinoxit" ,Кинохит
-http://146.120.14.239:3001/play/a07s
-#EXTINF:-1  group-title="Беларусь"  tvg-id="muzhskoe-kino" ,Мужское Кино
-http://146.120.14.239:3001/play/a07y
-#EXTINF:-1  group-title="Беларусь"  tvg-id="nashe-novoe-kino" ,НАШЕ НОВОЕ КИНО
-http://146.120.14.239:3001/play/a0ih
-#EXTINF:-1  group-title="Беларусь"  tvg-id="rodnoe-kino" ,Родное Кино
-http://146.120.14.239:3001/play/a07z
-#EXTINF:-1  group-title="Беларусь"  tvg-id="365-dnej" ,365 дней ТВ
-http://146.120.14.239:3001/play/a07m
-#EXTINF:-1  group-title="Беларусь"  tvg-id="avto-plus" ,Авто Плюс
-http://146.120.14.239:3001/play/a07n
-#EXTINF:-1  group-title="Беларусь" ,Слуцк ТВ 2
-http://146.120.14.239:3001/play/a085
-#EXTINF:-1  group-title="Беларусь"  tvg-id="kvn-tv" ,КВН ТВ
-http://146.120.14.239:3001/play/a086
-#EXTINF:-1  group-title="Беларусь"  tvg-id="kto-est-kto" ,Кто есть кто
-http://146.120.14.239:3001/play/a07u
-#EXTINF:-1  group-title="Беларусь"  tvg-id="kuxnia-tv" ,Кухня ТВ
-http://146.120.14.239:3001/play/a07v
-#EXTINF:-1  group-title="Беларусь"  tvg-id="nostalgia" ,Ностальгия
-http://146.120.14.239:3001/play/a081
-#EXTINF:-1  group-title="Беларусь"  tvg-id="kazakh-tv" ,Kazakh TV
-http://146.120.14.239:3001/play/a0bt
-#EXTINF:-1  group-title="Беларусь"  tvg-id="suspense" ,Suspense
-http://146.120.14.239:3001/play/a08o
-#EXTINF:-1  group-title="Беларусь"  tvg-id="anekdottv" ,Анекдот ТВ
-http://146.120.14.239:3001/play/a08p
-#EXTINF:-1  group-title="Беларусь"  tvg-id="tro" ,БелРос
-http://146.120.14.239:3001/play/a0gk
-#EXTINF:-1  group-title="Беларусь"  tvg-id="womens-magazine" ,Women's Magazine
-http://146.120.14.239:3001/play/a08w
-#EXTINF:-1  group-title="Беларусь" ,Слуцк ТВ
-http://146.120.14.239:3001/play/a06m
-#EXTINF:-1  group-title="Беларусь"  tvg-id="soyuz" ,Союз
-http://146.120.14.239:3001/play/a0bn
-#EXTINF:-1  group-title="Беларусь"  tvg-id="lubimoe-kino" ,Любимое Кино
-http://146.120.14.239:3001/play/a095
-#EXTINF:-1  group-title="Беларусь"  tvg-id="mir-seriala" ,Мир сериала
-http://146.120.14.239:3001/play/a096
-#EXTINF:-1  group-title="Беларусь"  tvg-id="domkino-premium" ,Дом Кино Премиум
-http://146.120.14.239:3001/play/a097
-#EXTINF:-1  group-title="Беларусь"  tvg-id="feniks-plus-kino" ,Феникс+Кино
-http://146.120.14.239:3001/play/a099
-#EXTINF:-1  group-title="Беларусь"  tvg-id="detsky-mir" ,Детский Мир
-http://146.120.14.239:3001/play/a0fc
-#EXTINF:-1  group-title="Беларусь"  tvg-id="sts-kids-hd" ,СТС Kids
-http://146.120.14.239:3001/play/a0ob
-#EXTINF:-1  group-title="Беларусь"  tvg-id="detsky" ,Уникум
-http://146.120.14.239:3001/play/a084
-#EXTINF:-1  group-title="Беларусь"  tvg-id="o_" ,О!
-http://146.120.14.239:3001/play/a07l
-#EXTINF:-1  group-title="Беларусь"  tvg-id="v-gostiax-u-skazki" ,В Гостях У Сказки
-http://146.120.14.239:3001/play/a078
-#EXTINF:-1  group-title="Беларусь"  tvg-id="ducktv" ,Duck TV
-http://146.120.14.239:3001/play/a075
-#EXTINF:-1  group-title="Беларусь" ,Cartoon Classic
-http://146.120.14.239:3001/play/a08h
-#EXTINF:-1  group-title="Беларусь"  tvg-id="karusel" ,Карусель
-http://146.120.14.239:3001/play/a070
-#EXTINF:-1  group-title="Беларусь"  tvg-id="mult" ,Мульт
-http://146.120.14.239:3001/play/a071
-#EXTINF:-1  group-title="Беларусь"  tvg-id="malysh" ,СуперГерои
-http://146.120.14.239:3001/play/a0gj
-#EXTINF:-1  group-title="Беларусь"  tvg-id="multimania" ,Мультиландия
-http://146.120.14.239:3001/play/a08z
-#EXTINF:-1  group-title="Беларусь"  tvg-id="bobior" ,Бобёр
-http://146.120.14.239:3001/play/a0du
-#EXTINF:-1  group-title="Беларусь"  tvg-id="europa-plus-tv" ,Европа Плюс ТВ
-http://146.120.14.239:3001/play/a07o
-#EXTINF:-1  group-title="Беларусь"  tvg-id="la-minor" ,Музыка Live
-http://146.120.14.239:3001/play/a07w
-#EXTINF:-1  group-title="Беларусь"  tvg-id="mezzo" ,Mezzo
-http://146.120.14.239:3001/play/a0bz
-#EXTINF:-1  group-title="Беларусь"  tvg-id="muzsoyuz" ,МузСоюз
-http://146.120.14.239:3001/play/a08g
-#EXTINF:-1  group-title="Беларусь"  tvg-id="bridge-hd" ,Bridge TV Deluxe
-http://146.120.14.239:3001/play/a0jl
-#EXTINF:-1  group-title="Беларусь"  tvg-id="shanson-tv" ,Шансон ТВ
-http://146.120.14.239:3001/play/a0i3
 #EXTINF:-1  group-title="Прибалтика"  tvg-id="tnt4" ,ТНТ4
 http://139.28.255.188:8080/tnt4/index.m3u8
 #EXTINF:-1  group-title="Прибалтика"  tvg-id="rentv" ,РЕН ТВ HD
