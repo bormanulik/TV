@@ -1,14 +1,3 @@
-
-Группы
-Корзина
-+
-
-Shift
-Каналы
-Ctrl
-+Nasharu.TV
-
-Текстовый редактор
 #EXTM3U 
 #EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от ", Обновление от 05.11.25 
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
@@ -13899,6 +13888,4 @@ http://178.217.72.72/Mezzo/index.m3u8
 #EXTINF:-1  group-title="Резерв"  tvg-id="mezzo-live-hd" ,Mezzo Live HD
 http://178.217.72.72/Mezzo_Live_HD/index.m3u8
 #EXT-X-ENDLIST
-Применить  
-  Редактор
-IPTV
+
