@@ -10693,6 +10693,44 @@ http://lb.wisp.cat/lb0/DigiSport4FHDRO/mpegts?token=nPfO4rRaax
 http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyNSA3OjU3OjIwIEFNJmhhc2hfdmFsdWU9U3RVM21tK252eXdPY0pSQlBpMzkxQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1  group-title="Спортивные"  tvg-id="football-ru" ,Телеканал Футбол
 http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyNSA3OjU3OjIwIEFNJmhhc2hfdmFsdWU9U3RVM21tK252eXdPY0pSQlBpMzkxQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1  group-title="Спортивные" , SKY SPORT MIX
+http://ua.online24.pm/play/745/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="sky-sports-news" , SKY SPORTS NEWS HD
+http://ua.online24.pm/play/832/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , SKY SPORT TOP EVENT DE
+http://lb.wisp.cat/lb0/DE_Sky_Sport_Top_Event/mpegts?token=nPfO4rRaax
+#EXTINF:-1  group-title="Спортивные" , SKY SPORT TOP EVENT HD
+http://ua.online24.pm/play/925/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , SKY SPORT BUNDESLIGA HD
+http://ua.online24.pm/play/836/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , SKY SPORT AUSTRIA HD DE
+http://ua.online24.pm/play/5129/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , SKY SPORT PREMIER LEAGUE
+http://ua.online24.pm/play/818/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="sky-sports-f1" , SKY SPORTS F1 HD
+http://ua.online24.pm/play/9923/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , SKY SPORT F1 (DE)
+http://cms-portals.com:80/Marin2/fRxZTMIHL7/12078
+#EXTINF:-1  group-title="Спортивные" , MOVISTAR FORMULA 1
+http://ua.online24.pm/play/1121/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , ORF SPORT+
+http://ua.online24.pm/play/936/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , BEIN EXTRAS
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1  group-title="Спортивные" , BEIN EXTRAS
+http://ua.online24.pm/play/1686/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , US| BEIN SPORTS XTRA HD
+http://vntxdqs.smart-tv.xyz:80/live/0581550533/6787051532/254741.m3u8
+#EXTINF:-1  group-title="Спортивные" , US| BEIN SPORTS  HD
+http://vntxdqs.smart-tv.xyz:80/live/0581550533/6787051532/181397.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-1" , BEIN SPORT 1 HD
+http://ua.online24.pm/play/1101/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-2" , BEIN SPORT 2 HD
+http://ua.online24.pm/play/1102/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-3" , BEIN SPORT 3 HD
+http://ua.online24.pm/play/1103/0E5BF0B5A9755BD/video.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-4" , BEIN SPORT 4 HD
+http://ua.online24.pm/play/1104/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-rock" , Bridge Rock
 http://178.212.71.253:8000/play/101/index.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-shlager" , Bridge Шлягер
