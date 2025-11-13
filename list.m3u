@@ -1495,6 +1495,48 @@ http://95.85.109.219:7000/play/a090
 http://95.85.109.219:7000/play/a08z
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="vip-premiere" , VIJU+ PREMIERE HD
 http://95.85.109.219:7000/play/a08y
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="(no tvg-id)"   tvg-name="Comedy Central",Comedy Central
+http://46.8.46.14/paramountcomedy/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman" , CineMan 
+http://50.7.28.226/8812/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png" , Сити Эдем - КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/nq5vyFrh/image-11.png" , Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/CKnJRBd0/image-12.png" , Сити Эдем - КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/GQKpsxmC/image-14.png" , Сити Эдем - КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cityedem-kinoklas"  tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png" , Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/WNMR4pxD/image-16.png" , Сити Эдем - КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cityedem-kinomist"  tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png" , Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png" , Сити Эдем - КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cityedem-kinoact"  tvg-logo="https://i.ibb.co/Zp0rStg2/image-19.png" , Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cityedem-telenov"  tvg-logo="https://i.ibb.co/R4YPstZF/image-20.png" , Сити Эдем - Теленовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы" , Malden Мегахит
+https://autopilot.catcast.tv/content/47689/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы" ,Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Кино и сериалы" ,Первый Отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Кино и сериалы" ,Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  group-title="Кино и сериалы" , TV1 (KG)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/BH5Kfx36/image-4.png" , Logovo Films
+https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/Kx885Mby/image-9.png" , Phoenix TV
+https://karapuztv.catcast.tv/content/33418/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы" , KTV
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/pvCJpRnm/image-4.png" , TvBoom-ViP
+https://kb.catcast.tv/content/49702/index.m3u8
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-11-07/43/b0/43b037d7a84ffa267097b67b5a8107df.jpg" , Крушащая машина (2025)
 https://river-1.rutube.ru/hls-vod/YfRaYjjgI89Yp2lSO6IHiA/1763299980/3348/0x5000c500e9ebf5cd/35680c31f43646cfa41bf044ac997f3b.mp4.m3u8?i=1920x1080_4461
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-11-04/4c/98/4c98e73c739e287547a945f01c86e880.jpg" , Баллада о маленьком игроке (2025)
@@ -10693,44 +10735,6 @@ http://lb.wisp.cat/lb0/DigiSport4FHDRO/mpegts?token=nPfO4rRaax
 http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyNSA3OjU3OjIwIEFNJmhhc2hfdmFsdWU9U3RVM21tK252eXdPY0pSQlBpMzkxQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1  group-title="Спортивные"  tvg-id="football-ru" ,Телеканал Футбол
 http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTMvMjAyNSA3OjU3OjIwIEFNJmhhc2hfdmFsdWU9U3RVM21tK252eXdPY0pSQlBpMzkxQT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
-#EXTINF:-1  group-title="Спортивные" , SKY SPORT MIX
-http://ua.online24.pm/play/745/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1  group-title="Спортивные"  tvg-id="sky-sports-news" , SKY SPORTS NEWS HD
-http://ua.online24.pm/play/832/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1  group-title="Спортивные" , SKY SPORT TOP EVENT DE
-http://lb.wisp.cat/lb0/DE_Sky_Sport_Top_Event/mpegts?token=nPfO4rRaax
-#EXTINF:-1  group-title="Спортивные" , SKY SPORT TOP EVENT HD
-http://ua.online24.pm/play/925/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1  group-title="Спортивные" , SKY SPORT BUNDESLIGA HD
-http://ua.online24.pm/play/836/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1  group-title="Спортивные" , SKY SPORT AUSTRIA HD DE
-http://ua.online24.pm/play/5129/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1  group-title="Спортивные" , SKY SPORT PREMIER LEAGUE
-http://ua.online24.pm/play/818/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1  group-title="Спортивные"  tvg-id="sky-sports-f1" , SKY SPORTS F1 HD
-http://ua.online24.pm/play/9923/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1  group-title="Спортивные" , SKY SPORT F1 (DE)
-http://cms-portals.com:80/Marin2/fRxZTMIHL7/12078
-#EXTINF:-1  group-title="Спортивные" , MOVISTAR FORMULA 1
-http://ua.online24.pm/play/1121/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1  group-title="Спортивные" , ORF SPORT+
-http://ua.online24.pm/play/936/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1  group-title="Спортивные" , BEIN EXTRAS
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1  group-title="Спортивные" , BEIN EXTRAS
-http://ua.online24.pm/play/1686/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1  group-title="Спортивные" , US| BEIN SPORTS XTRA HD
-http://vntxdqs.smart-tv.xyz:80/live/0581550533/6787051532/254741.m3u8
-#EXTINF:-1  group-title="Спортивные" , US| BEIN SPORTS  HD
-http://vntxdqs.smart-tv.xyz:80/live/0581550533/6787051532/181397.m3u8
-#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-1" , BEIN SPORT 1 HD
-http://ua.online24.pm/play/1101/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-2" , BEIN SPORT 2 HD
-http://ua.online24.pm/play/1102/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-3" , BEIN SPORT 3 HD
-http://ua.online24.pm/play/1103/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-4" , BEIN SPORT 4 HD
-http://ua.online24.pm/play/1104/0E5BF0B5A9755BD/video.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-rock" , Bridge Rock
 http://178.212.71.253:8000/play/101/index.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-shlager" , Bridge Шлягер
