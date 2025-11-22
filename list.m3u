@@ -1503,14 +1503,6 @@ http://s1.iptvcinema.ru/kbc_vidak/index.m3u8
 http://s1.iptvcinema.ru/kbc_war/index.m3u8
 #EXTINF:-1  group-title="Кино и сериалы" ,KBC-MusKino HD
 http://s1.iptvcinema.ru/kbc_muskino/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы" ,KBC-Animals HD
-http://s1.iptvcinema.ru/kbc_animals/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kbc-goblin" ,KBC-Гоблин HD
-http://s1.iptvcinema.ru/kbc_goblin/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kbc-nash-rock" ,KBC-Наш рок HD
-http://s1.iptvcinema.ru/kbc_nashrock/index.m3u8
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kbs-world" ,KBC-World HD
-http://s1.iptvcinema.ru/kbc_world/index.m3u8
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-11-14/8b/80/8b803781768cba4e938f647123d9cef7.jpg" , Битва за битвой (2025)
 https://river-1.rutube.ru/hls-vod/zPdMNlfdmGwEp2Iyzu4Vng/1763834376/3352/0x5000c500e9ebdef8/a3cedd5ef8f54a7d939a5342208234d1.mp4.m3u8?i=1920x1080_4009
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-10-31/b7/e5/b7e507e6ce64f01a3a6d3f27450bf528.jpg" , Анемона (2025)
