@@ -127,6 +127,10 @@ https://fl1001.bozztv.com/ushba28/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="no_epg"  tvg-logo="https://cf2.ppt-online.org/files2/slide/q/QawGdDELZ6zF4AUJkR9iCylu1jvxHKWM50NoSYtsc/slide-0.jpg" , Документалка 3
 https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="no_epg"  tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" , Документалка 5
+https://fl1001.bozztv.com/ushba30/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="no_epg"  tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" , Документалка 8 
+https://fl1001.bozztv.com/ushba68/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="no_epg"  tvg-logo="https://cinemaplex.ru/wp-content/uploads/2018/03/unnamed-optimized.jpg" , Star Media
 https://fl1001.bozztv.com/ushba4/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="krasnaya-linia" , Красная линия 
@@ -329,6 +333,10 @@ http://hls127.freeott.top:8080/Kuhnya_TV/mono.m3u8
 http://hls127.freeott.top:8080/Kluch/mono.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="sovsek" ,Совершенно секретно
 http://hls127.freeott.top:8080/Sovershenno_Sekretno/mono.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-logo="https://i.ibb.co/nMsMD0Q4/image-34.png" , Следствие вели... 
+https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="no_epg"  tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" , Военный
+http://fl1001.bozztv.com/ushba16/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="sts"  tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6lqxNEqAYzmrVWyjg.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС", СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="tnt"  tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVvmoNr4jQPOGd7KJb.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТНТ", ТНТ
@@ -373,6 +381,20 @@ http://hls127.freeott.top:8080/Nostalgiya/mono.m3u8
 http://hls127.freeott.top:8080/Teatr/mono.m3u8
 #EXTINF:-1  group-title="Развлекательные" ,alpha Funny 
 http://195.9.195.3:8080/hls/206963.m3u8
+#EXTINF:-1  group-title="Развлекательные"  tvg-logo="https://i.ibb.co/4ZwcfR6P/image-28.png" ,Кибер Задов
+http://hls.goodgame.ru:8080/hls/210558.m3u8
+#EXTINF:-1  group-title="Развлекательные"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" ,🔴 Британский юмор 😐
+http://hls.goodgame.ru:8080/hls/218490.m3u8
+#EXTINF:-1  group-title="Развлекательные"  tvg-logo="https://i.ibb.co/CpYZFf54/image-38.png" , Ты супер !
+https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/zTDczZ19/image-15.png" , Ералаш
+http://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/zTDczZ19/image-15.png" , Ералаш 2
+https://fl1001.bozztv.com/ushba10/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="no_epg_sport"  tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" , Приколы 1
+https://fl1001.bozztv.com/ushba11/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Развлекательные"  tvg-id="no_epg_sport"  tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" , Приколы 2
+https://fl1001.bozztv.com/ushba20/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Кларксон&Ко"  tvg-logo="https://i.postimg.cc/tgzRWnjf/1.jpg" ,01x1
 https://s2.gencit.info/content/stream/films/the.grand.tour.s01e01.webrip.1080p.rus.eng.alexfilm_252866/hls/1080/index.m3u8
 #EXTINF:-1  group-title="Кларксон&Ко"  tvg-logo="https://i.postimg.cc/tgzRWnjf/1.jpg" ,01x2
@@ -1057,6 +1079,60 @@ http://195.9.195.3:8080/hls/204709.m3u8
 http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:-1  group-title="Кино и сериалы" ,Millenniym UHD
 http://195.9.195.3:8080/hls/206461.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" , Новый Русский
+https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" ,SSA Film
+https://fl1003.bozztv.com/ushba-films-c/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" ,Cinema Test
+https://rpn3.bozztv.com/dvrfl07/ushba64/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="muvitv"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" ,МУви ТВ
+http://cdn.voka.tv/live/5007-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" , TV4 SD
+https://dvr3.vokkavideo.xyz/TV4SD/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/gG2bNbq/image-30.png" , Скрипач ТВ
+https://live21.bozztv.com/akamaissh101/ssh101/scripachmovie/chunks.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" , HTV HD
+https://dvr3.vokkavideo.xyz/HTVHD/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" , Кинозал
+http://185.57.68.33/237/mpegts
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/994jvr6f/image-4.png" ,Film Best
+http://hls.goodgame.ru:8080/hls/212682.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/DHfCmsV5/image-29.png" ,Katastroff
+http://hls.goodgame.ru:8080/hls/208789.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" ,Zubrilom Franchise
+http://hls.goodgame.ru:8080/hls/218193.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/q3DYpX5n/image-9.png" ,Zubrilom Film 2
+http://hls.goodgame.ru:8080/hls/218251.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/N6sYPbwM/image-11.png" ,Восход ТВ
+http://hls.goodgame.ru:8080/hls/202997.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/jZkZJZ5z/image-48.png" ,ВИДЕОСАЛОН VHS
+http://hls.goodgame.ru:8080/hls/175764.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/m5xtPMJq/image-16.png" , Kino Mix
+http://hls.goodgame.ru:8080/hls/216612.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/hFs2QPrZ/image-35.png" , FMC 
+http://hls.goodgame.ru:8080/hls/187741.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/BH5Kfx36/image-4.png" , Logovo Films
+https://stream.ushba.tv/akamaiushba/ushba-films-a/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" , CyberTV_1
+http://hls.goodgame.ru:8080/hls/214454.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" , CyberTV_2
+http://hls.goodgame.ru:8080/hls/214433.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/MDMY0JNB/image-43.png" , CyberTV_3
+http://hls.goodgame.ru:8080/hls/214421.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" ,LollyDragon
+http://hls.goodgame.ru:8080/hls/183946_prem.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" , P Boy Podpischik
+http://hls.goodgame.ru:8080/manifest/40391_master.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" ,AlexVira
+http://hls.goodgame.ru:8080/hls/106103.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/MDG9Q7YH/image-36.png" , MGM
+https://autopilot.catcast.tv/content/44051/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/3ycBZqx3/image-14.png" , PRO100 TV
+http://sirius.greenhosting.ru/Pro100tvRu/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/4nV26ShC/image-4.png" , Смотрим Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="strk" , СТРК HD
+http://sochinskayatrk.ru/hdtv/hls/CTPK_400/playlist.m3u8
 #EXTINF:-1  group-title="Кино и сериалы" ,Восход ТВ
 http://195.9.195.3:8080/manifest/202997_master.m3u8
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="bolt" ,Bolt
@@ -1185,6 +1261,14 @@ http://hls127.freeott.top:8080/Clarity4K_Gamefilm/mono.m3u8
 http://hls127.freeott.top:8080/Clarity4K_Kosmomir/mono.m3u8
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="clarity4k-netflix" ,Clarity4K Netflix
 http://hls127.freeott.top:8080/Clarity4K_Netflix/mono.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" , Retrovision
+https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" , Retrovision Motor
+https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" , Retrovision Movies
+https://fl1001.bozztv.com/ushba-rvisionmovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" , Retrovision Classic
+https://fl1001.bozztv.com/ushba-rvisionclassic/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-12-01/f5/aa/f5aa2042f29407be8b49bdcb9246eabf.jpg" , Щенячий Патруль: Рождество (2025)
 https://river-1.rutube.ru/hls-vod/Mx_fs6xoLnxdDNJo-HBtCg/1765648720/3282/0x5000c500fa77c53a/50febe6c3cc7415a873a4a7a08310704.mp4.m3u8?i=1920x1080_3554
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-12-01/74/af/74af1cfa9c898c427042cb790033740d.jpg" , Домашняя камера (2025)
