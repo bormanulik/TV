@@ -463,6 +463,82 @@ http://194.143.148.28:8080/RTD_HD/mpegts
 http://193.25.8.59:8000/zoo
 #EXTINF:-1  group-title="Познавательные"  tvg-id="bobior" ,Бобёр
 http://193.25.8.59:8000/bober
+#EXTINF:-1  group-title="Познавательные"  tvg-id="animal-planet-eu" , ANIMAL PLANET HD
+http://ip1.orgip.net/400/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="animal-planet-eu" , ANIMAL PLANET HD
+http://ip1.orgip.net/400/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="one-planet" , ONE PLANET HD
+http://95.67.12.82:9088
+#EXTINF:-1  group-title="Познавательные"  tvg-id="discovery-channel" , DISCOVERY CHANNEL HD
+http://ip1.orgip.net/401/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="discovery-channel" , DISCOVERY CHANNEL HD
+http://ip1.orgip.net/401/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="id-xtra-ru" , ID INVESTIGATION DISCOVERY HD
+http://ip1.orgip.net/443/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="id-xtra-ru" , ID INVESTIGATION DISCOVERY HD
+http://ip1.orgip.net/443/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="national-geographic" , NATIONAL GEOGRAPHIC HD
+http://ip1.orgip.net/402/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="national-geographic" , NATIONAL GEOGRAPHIC HD
+http://ip1.orgip.net/402/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="nat-geo-wild" , NAT GEO WILD
+http://ip1.orgip.net/403/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="nat-geo-wild" , NAT GEO WILD HD
+http://ip1.orgip.net/403/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные" , VIJU+ EXPLORE
+http://ip1.orgip.net/417/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-explore" , VIASAT EXPLORE
+http://ip1.orgip.net/417/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-history" , VIASAT HISTORY
+http://ip1.orgip.net/410/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные" , VIJU+ HISTORY HD
+http://ip1.orgip.net/410/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature-history-hd" , VIASAT NATURE/HISTORY HD
+http://ip1.orgip.net/407/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature" , VIASAT NATURE HD
+http://ip1.orgip.net/449/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные" , VIJU+ NATURE HD
+http://ip1.orgip.net/449/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature-history-hd" , VIJU+ PLANET
+http://ip1.orgip.net/420/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="history-ru" , HISTORY
+http://ip1.orgip.net/414/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="history-ru" , HISTORY
+http://ip1.orgip.net/414/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="h2" , HISTORY2
+http://ip1.orgip.net/415/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="h2" , HISTORY2
+http://ip1.orgip.net/415/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="travel-channel" , TRAVEL CHANNEL
+http://ip1.orgip.net/409/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="travel-channel" , TRAVEL CHANNEL
+http://ip1.orgip.net/409/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="travel-adventure" , TRAVEL+ADVENTURE
+http://ip1.orgip.net/416/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="travel-adventure" , TRAVEL+ADVENTURE
+http://ip1.orgip.net/416/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="terra-ru" , TERRA
+http://ip1.orgip.net/0402/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="terra-ru" , TERRA
+http://ip1.orgip.net/0402/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="nauka-20" , НАУКА 2.0
+http://ip1.orgip.net/406/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="nauka-20" , НАУКА 2.0
+http://ip1.orgip.net/406/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="dikiy" , ДИКИЙ
+http://ip1.orgip.net/439/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="dikiy" , ДИКИЙ
+http://ip1.orgip.net/439/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные"  tvg-id="dikaya-rybalka-hd" , ДИКАЯ РЫБАЛКА HD
+http://ip1.orgip.net/405/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="dikaya-oxota-hd" , ДИКАЯ ОХОТА HD
+http://ip1.orgip.net/407/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="oxota-i-rybalka" , ОХОТА И РЫБАЛКА
+http://ip1.orgip.net/438/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Познавательные"  tvg-id="oxota-i-rybalka" , ОХОТА И РЫБАЛКА
+http://ip1.orgip.net/438/video.m3u8?token=Ceba8e4412
+#EXTINF:-1  group-title="Познавательные" , ОХОТНИК И РЫБАЛОВ
+http://ip1.orgip.net/405/video.m3u8?token=Ceba8e4412
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="sts"  tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6lqxNEqAYzmrVWyjg.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС", СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="tnt"  tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVvmoNr4jQPOGd7KJb.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТНТ", ТНТ
@@ -1529,6 +1605,104 @@ http://193.25.8.59:8000/vremya
 http://193.25.8.59:8000/XXI
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kineko" ,Кинеко
 http://194.143.148.28:8080/KINEKO/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="vip-comedy-cee" , VIASAT KINO COMEDY HD
+http://de.online24.pm/play/493/FB4F94DA00C3BE0/video.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="vip-premiere" , VIJU+ PREMIERE HD
+http://ip1.orgip.net/605/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="vip-megahit" , VIJU+ MEGAHIT HD
+http://ip1.orgip.net/606/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="vip-comedy" , VIJU+ COMEDY HD
+http://ip1.orgip.net/607/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="vip-serial" , VIJU+ SERIAL
+http://ip1.orgip.net/636/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="tv1000" , VIJU TV1000
+http://ip1.orgip.net/622/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="tv1000-action" , VIJU TV1000 ACTION
+http://ip1.orgip.net/623/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="tv1000-cee" , VIASAT KINO HD
+http://ip1.orgip.net/618/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="tv1000-action-cee" , VIASAT KINO ACTION HD
+http://ip1.orgip.net/1601/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="vip-comedy-cee" , VIASAT KINO COMEDY HD
+http://ip1.orgip.net/1605/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="vip-megahit-cee" , VIASAT KINO MEGAHIT HD
+http://ip1.orgip.net/1607/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="tv1000-worldkino" , VIASAT KINO WORLD
+http://ip1.orgip.net/1608/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="sony-scifi" , SONY SCI-FI
+http://ip1.orgip.net/648/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="sony-tv" , .RED
+http://ip1.orgip.net/695/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="sony-turbo" , .BLACK
+http://ip1.orgip.net/649/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="fox" , FOX
+http://ip1.orgip.net/626/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="foxlife" , FOX LIFE
+http://ip1.orgip.net/646/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="star-cinema" , STAR CINEMA
+http://ip1.orgip.net/643/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="star-family" , STAR FAMILY
+http://ip1.orgip.net/673/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="amedia-premium" , AMEDIA PREMIUM
+http://ip1.orgip.net/624/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="amedia-hit" , AMEDIA HIT
+http://ip1.orgip.net/625/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="amedia1" , A1
+http://ip1.orgip.net/640/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="amedia2" , A2
+http://ip1.orgip.net/641/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-premium" , CINEMAN PREMIUM
+http://ip1.orgip.net/1664/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman" , CINEMAN
+http://ip1.orgip.net/682/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-top" , CINEMAN TOP
+http://ip1.orgip.net/683/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-vhs" , CINEMAN VHS
+http://ip1.orgip.net/685/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-thriller" , CINEMAN THRILLER
+http://ip1.orgip.net/686/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-marvel" , CINEMAN MARVEL
+http://ip1.orgip.net/688/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-action" , CINEMAN ACTION
+http://ip1.orgip.net/689/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-melodrama" , CINEMAN MELODRAMA
+http://ip1.orgip.net/690/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-comedy" , CINEMAN КОМЕДИЯ
+http://ip1.orgip.net/691/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-uzhasy" , CINEMAN УЖАСЫ
+http://ip1.orgip.net/692/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-katastrofy" , CINEMAN КАТАСТРОФЫ
+http://ip1.orgip.net/693/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-miniseries" , CINEMAN MINISERIES
+http://ip1.orgip.net/1662/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-old4k" , CINEMAN OLD 4K
+http://ip1.orgip.net/1603/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cineman-sssr4k" , CINEMAN CCCP 4K
+http://ip1.orgip.net/1602/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="bcu-svaty" , BCU СВАТЫ HD
+http://ip1.orgip.net/1624/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="bcu-fantastic" , BCU FANTASTIC HD
+http://ip1.orgip.net/1606/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="bcu-marvel" , BCU MARVEL HD
+http://ip1.orgip.net/1612/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="bcu-russian" , BCU RUSSIAN HD
+http://ip1.orgip.net/1617/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="bcu-romantic" , BCU ROMANTIC HD
+http://ip1.orgip.net/1616/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="bcu-stars" , BCU STARS HD
+http://ip1.orgip.net/1618/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="bcu-vhs" , BCU VHS HD
+http://ip1.orgip.net/1620/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="bcu-kinorating" , BCU KINORATING HD
+http://ip1.orgip.net/1613/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="bcu-premiere" , BCU PREMIERE HD
+http://ip1.orgip.net/1614/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="bcu-kinozal-prem-1" , BCU PREMIERE 1 HD
+http://ip1.orgip.net/1619/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="bcu-kinozal-prem-2" , BCU PREMIERE 2 HD
+http://ip1.orgip.net/1622/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="bcu-kinozal-prem-3" , BCU PREMIERE 3 HD
+http://ip1.orgip.net/1623/video.m3u8?token=A37feb3eec
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-12-01/f5/aa/f5aa2042f29407be8b49bdcb9246eabf.jpg" , Щенячий Патруль: Рождество (2025)
 https://river-1.rutube.ru/hls-vod/Mx_fs6xoLnxdDNJo-HBtCg/1765648720/3282/0x5000c500fa77c53a/50febe6c3cc7415a873a4a7a08310704.mp4.m3u8?i=1920x1080_3554
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-12-01/74/af/74af1cfa9c898c427042cb790033740d.jpg" , Домашняя камера (2025)
@@ -10555,6 +10729,32 @@ http://levshanov.tlkf.ru/iptv/nashfootballhd/16/h1080/playlist.m3u8
 http://2.57.217.85:8000/play/a0a0/index.m3u8
 #EXTINF:-1  group-title="Спортивные"  tvg-id="fastfunbox-hd" ,Fast & FunBox
 http://193.25.8.59:8000/Avto24
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football1" , МАТЧ! ФУТБОЛ 1
+http://ip1.orgip.net/202/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football2" , МАТЧ! ФУТБОЛ 2
+http://ip1.orgip.net/203/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football3" , МАТЧ! ФУТБОЛ 3
+http://ip1.orgip.net/204/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Спортивные"  tvg-id="okko-football" , ОККО ФУТБОЛ HD
+http://ip1.orgip.net/232/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Спортивные"  tvg-id="okko-sport" , ОККО СПОРТ HD
+http://ip1.orgip.net/238/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Спортивные" , ОККО ПРАЙМ СПОРТ
+http://ip1.orgip.net/236/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Спортивные"  tvg-id="eurosport1" , EUROSPORT 1 HD
+http://ip1.orgip.net/0200/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Спортивные"  tvg-id="eurosport2" , EUROSPORT 2 HD
+http://ip1.orgip.net/0201/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Спортивные"  tvg-id="setanta-sports" , SETANTA SPORTS 1
+http://ip1.orgip.net/220/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Спортивные"  tvg-id="setanta-sports-plus" , SETANTA SPORTS 2
+http://ip1.orgip.net/221/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Спортивные"  tvg-id="setanta-ua" , SETANTA SPORTS UKRAINE
+http://ip1.orgip.net/222/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Спортивные" , SETANTA SPORTS UKRAINE +
+http://ip1.orgip.net/214/video.m3u8?token=A37feb3eec
+#EXTINF:-1  group-title="Спортивные"  tvg-id="viasat-sport" , VIJU+ SPORT
+http://ip1.orgip.net/215/video.m3u8?token=A37feb3eec
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-rock" , Bridge Rock
 http://178.212.71.253:8000/play/101/index.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-shlager" , Bridge Шлягер
