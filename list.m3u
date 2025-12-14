@@ -549,6 +549,10 @@ http://31.47.199.45:1402/jivayaplaneta/index.m3u8
 http://31.47.199.45:1402/istoriya/index.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="avto24" ,Авто 24
 http://31.47.199.45:1402/avto24/index.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/F40pkMHf/image-18.png" ,WWW 
+http://hls.goodgame.ru:8080/hls/192005.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/SXsV7qpb/image-26.png" , Сити Эдем - МедЗдрав
+https://cityeden.catcast.tv/content/47519/index.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="sts"  tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6lqxNEqAYzmrVWyjg.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС", СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="tnt"  tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVvmoNr4jQPOGd7KJb.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТНТ", ТНТ
@@ -1033,6 +1037,38 @@ https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" , Retrovision Motor
 https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" ,Киножелезо
+http://188.208.197.173/kinojelezo/video.m3u8?token=tvon
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" ,Кинолаффка
+http://188.208.197.173/kinolafka/video.m3u8?token=tvon
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kino-i-zhizn"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" ,Кино и жизнь
+http://188.208.197.173/kinojizn/video.m3u8?token=Rblztg5NZwI9x2
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="312-serial"  tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" ,312 Сериал
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="312-kino"  tvg-logo="https://i.ibb.co/3y8rPhPS/image-17.png" ,312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cityedem-kinoazia"  tvg-logo="https://i.ibb.co/60nhtkx6/image-4.png" , Сити Эдем - КиноАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png" , Сити Эдем - КиноАрт
+https://cityeden.catcast.tv/content/38398/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/nq5vyFrh/image-11.png" , Сити Эдем - КиноДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/CKnJRBd0/image-12.png" , Сити Эдем - КиноДок
+https://cityeden.catcast.tv/content/38354/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/GQKpsxmC/image-14.png" , Сити Эдем - КиноДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cityedem-kinoklas"  tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png" , Сити Эдем - КиноКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/WNMR4pxD/image-16.png" , Сити Эдем - КиноКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cityedem-kinomist"  tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png" , Сити Эдем - КиноМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png" , Сити Эдем - КиноФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cityedem-kinoact"  tvg-logo="https://i.ibb.co/Zp0rStg2/image-19.png" , Сити Эдем - КиноЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cityedem-telenov"  tvg-logo="https://i.ibb.co/R4YPstZF/image-20.png" , Сити Эдем - Теленовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-12-08/00/69/006957cf7922c7568e4efd5057f8b166.jpg" , Плохие парни: Маленькая ложь и алиби (2025)
 https://river-1.rutube.ru/hls-vod/coH1OrjT61tF2pL52s-IHA/1766245319/3306/0x5000c500e82f2213/336e1bf820dc4c50b0e7de2b1f09aeaf.mp4.m3u8?i=1920x800_4046
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-12-10/ca/c9/cac916ae1d2975259a99ba4845c7c766.jpg" , Сын плотника (2025)
@@ -1493,6 +1529,10 @@ http://31.47.199.45:1401/ani/index.m3u8
 http://31.47.199.45:1401/karusel/index.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="solnce" ,Солнце
 http://31.47.199.45:1401/solnce/index.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-id="magic-family"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" ,Magic Family
+http://cdn.iptvcinema.ru/magic_family/index.m3u8
+#EXTINF:-1  group-title="Детские"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" ,МУЛЬТИКИ И СКАЗКИ
+http://hls.goodgame.ru:8080/hls/198446.m3u8
 #EXTINF:-1  group-title="Мульты СССР"  tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" ,"Метеор" на ринге
 https://mults.info/mp4/meteor_na_ringe.mp4
 #EXTINF:-1  group-title="Мульты СССР"  tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" ,«Что делать?» или Куйгорож
@@ -10103,6 +10143,10 @@ https://d163j5tlekse0h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300004KV
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="USBD3300010L9"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240924T011040SQUARE.png"   channel-id="SamsungTVPlus-USBD3300010L9" tvg-name="XITE Siempre Latino" tvg-chno="4343",XITE Siempre Latino
 https://d1xc25jm9e0l4b.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-xplkt8i7m24dc/XITE_Siempre_Latino.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3300010L9
+#EXTINF:-1  group-title="Музыкальные"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/SDGvD0bh/image-22.png" , Сити Эдем - Классическая Музыка
+https://cityeden.catcast.tv/content/47400/index.m3u8
+#EXTINF:-1  group-title="Музыкальные"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/8D2Pnhd1/image-23.png" , Сити Эдем - Сиртаки ТВ
+https://cityeden.catcast.tv/content/46421/index.m3u8
 #EXTINF:-1  group-title="Релакс"  tvg-id="lanet-relax" ,Lanet Relax
 http://iptv.prosto.tv:7000/ch314/video.m3u8
 #EXTINF:-1  group-title="Релакс"  tvg-id="lanet-relax" ,Lanet Relax
@@ -11915,6 +11959,82 @@ http://178.212.71.253:8000/play/77/index.m3u8
 http://178.212.71.253:8000/play/47/index.m3u8
 #EXTINF:-1  group-title="Крым"  tvg-id="multimuzyka" ,Мультимузыка
 http://178.212.71.253:8000/play/116/index.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus1" ,Беларусь 1 
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS1.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus1" ,Беларусь 1 HD 
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS1HD.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus2" ,Беларусь 2 
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS2.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus2" ,Беларусь 2 HD 
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS2HD.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus3" ,Беларусь 3
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS3.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus3" ,Беларусь 3 HD 
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS3HD.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus5" ,Беларусь 5 
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus5" ,Беларусь 5 HD 
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS5HD.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus24" ,Беларусь 24 
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24.m3u8
+#EXTINF:-1  group-title="Беларусь" ,Беларусь 24 HD 
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELARUS24HD.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="tv3-by" ,ТВ3 Беларусь
+http://86.57.209.210/TB-3/index.m3u8
+#EXTINF:-1  group-title="Беларусь" ,ТНТ International
+http://cdn.voka.tv/live/5120-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="ntv-belarus" , НТВ Беларусь
+http://146.120.14.239:3001/play/a06j
+#EXTINF:-1  group-title="Беларусь"  tvg-id="rtr-belarus" ,РТР Беларусь
+http://cdn.voka.tv/live/5-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь" ,Скиф
+http://cdn.voka.tv/live/3101-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь" ,Слуцк ТВ
+http://146.120.14.239:3001/play/a085
+#EXTINF:-1  group-title="Беларусь"  tvg-id="pervy-info-by" ,Первый информационный
+http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNY.m3u8
+#EXTINF:-1  group-title="Беларусь" ,Первый информационный HD 
+http://dmitry-tv.ddns.net/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="stv-by" ,СТВ HD
+http://dmitry-tv.ddns.net/hls/blrus/CH_CTBHD720.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="ont-by" ,ОНТ HD 
+http://dmitry-tv.ddns.net/hls/blrus/CH_OHTHD.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="tro" ,БелРос 
+http://dmitry-tv.ddns.net/hls/blrus/CH_BELROS.m3u8
+#EXTINF:-1  group-title="Беларусь" ,Бобруйск
+http://cdn.voka.tv/live/6239-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus4-brest" ,Беларусь 4 Брест
+http://cdn.voka.tv/live/2013-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus4-vitebsk" ,Беларусь 4 Витебск
+http://cdn.voka.tv/live/2012-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus4-gomel" ,Беларусь 4 Гомель
+http://46.56.85.151:8080/0.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="belarus4-mogilev" ,Беларусь 4 Могилев
+http://cdn.voka.tv/live/2097-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="bug-tv" ,Буг-ТВ
+http://cdn.voka.tv/live/7001-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="variag" ,Варяг
+http://cdn.voka.tv/live/7003-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="vitebsk" ,Витебск
+http://cdn.voka.tv/live/2023-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="8kanal-ru" ,8 канал
+http://cdn.voka.tv/live/962-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь" ,Лагуна ТВ
+http://cdn.voka.tv/live/7002-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь" ,Космос ТВ
+http://cdn.voka.tv/live/3870-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь"  tvg-id="pinsk-tv" ,Пинск ТВ
+http://178.124.207.1:1780/tvp
+#EXTINF:-1  group-title="Беларусь"  tvg-id="2-kanal-mogilev" ,ТВ2 Могилев
+http://cdn.voka.tv/live/1013-req_5k_v5.m3u8
+#EXTINF:-1  group-title="Беларусь" ,Ридио Мир BY
+https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+#EXTINF:-1  group-title="Беларусь" ,Ридио Центр BY
+https://centrfm.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
+#EXTINF:-1  group-title="Беларусь" ,Новое Ридио BY
+http://live.novoeradio.by:8081/live/novoeradio_1080p/chunks.m3u8
+#EXTINF:-1  group-title="Беларусь" , Ридио Юмор FM BY
+https://player.humorfm.by/mylive/humStudio-low/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Время"  tvg-id="tnt4" ,ТНТ4
 http://188.225.31.197/bpk-tv/000002926/tve/index.m3u8
 #EXTINF:-1  group-title="Время"  tvg-id="ntv-pravo" ,НТВ ПРАВО
