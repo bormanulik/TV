@@ -1241,6 +1241,14 @@ https://fl1001.bozztv.com/ushba-rfilrms-z/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/n8LmW2bX/image-28.png" , Retrovision Motor
 https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="(no tvg-id)"   tvg-name=".Black",.Black
+http://158.101.222.193:88/georgia_play.php?id=black
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="311"  tvg-logo="http://epg.it999.ru/img/311.png"   tvg-name=".RED FHD",.RED FHD
+http://158.101.222.193:88/georgia_play.php?id=red
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="312-kino"  tvg-logo="https://iptvx.one/picons/312-kino.png"   tvg-name="312 Кино",312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="312TV.kg@SD"  tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png"   tvg-name="312 ТВ",312 ТВ
+http://176.126.166.43:1935/live/312musik/playlist.m3u8
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-12-23/a0/56/a056d6ea1365c60031634b13088560e3.jpg" , Город зла (2025)
 https://river-1.rutube.ru/hls-vod/2xTXY0n-S3ZrSCgflLDhaQ/1767469561/3336/0x5000c500e9ebe92a/84dc0467aff24647abf1c46d743ce697.mp4.m3u8?i=1920x1080_1493
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-12-23/14/b1/14b1f8c78181a9cc69ee18542deb3012.jpg" , Новая волна (2025)
@@ -10035,6 +10043,14 @@ http://lemon.catchmeifyo.com:8000/8313621450/4750413920/16335
 http://lemon.catchmeifyo.com:8000/8313621450/4750413920/16336
 #EXTINF:-1  group-title="Спортивные" , RED BULL TV HD
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="(no tvg-id)"  tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/EUROSPORT%201%20HD.png"   tvg-name="Eurosport 1 HD",Eurosport 1 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529591&extension=ts
+#EXTINF:-1  group-title="Спортивные"  tvg-id="(no tvg-id)"  tvg-logo="https://raw.githubusercontent.com/tnds82/picons/master/EUROSPORT%202%20HD.png"   tvg-name="Eurosport 2 HD",Eurosport 2 HD
+http://pars01.com:8080/play/live.php?mac=00:1A:79:4D:00:7C&stream=529592&extension=ts
+#EXTINF:-1  group-title="Спортивные"  tvg-id="(no tvg-id)"   tvg-name="KHL HD",KHL HD
+http://193.25.8.59:8000/khl
+#EXTINF:-1  group-title="Спортивные"  tvg-id="kxl-hd"   tvg-name="KHL Prime",KHL Prime
+http://194.143.148.28:8080/KHL_HD/mpegts
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-rock" , Bridge Rock
 http://178.212.71.253:8000/play/101/index.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-shlager" , Bridge Шлягер
