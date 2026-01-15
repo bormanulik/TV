@@ -679,8 +679,6 @@ http://188.225.31.197/bpk-tv/000004474/tve/index.m3u8
 http://188.225.31.197/bpk-tv/000000588/tve/index.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="zhivi"   audio-track="rus", Живи!
 http://158.101.222.193:88/georgia_play.php?id=jivi
-#EXTINF:-1  group-title="Познавательные"  tvg-id="zagorodnaya-zhizn"   audio-track="rus", Загородная жизнь HD
-http://178.163.2.144:4022/udp/234.0.0.115:2000
 #EXTINF:-1  group-title="Познавательные"  tvg-id="nasha-tema"   audio-track="rus", Наша тема
 http://188.225.31.197/bpk-tv/000003785/tve/index.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="sts"  tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6lqxNEqAYzmrVWyjg.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС", СТС
@@ -745,8 +743,6 @@ https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
 http://31.148.48.15:80/Sarafan/index.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="perec-int" ,Перец
 http://158.101.222.193:88/georgia_play.php?id=perec
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="vhs-ka"  tvg-logo="https://epg.iptvx.one/picons/vhs-ka.png" , VHS-ка HD 
-http://95.66.188.74/VHS/index.m3u8
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cinema-ru" , Cinema
 http://catchup.videoline.ru/cinema/index.m3u8
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="kino1int-tviksel" , Кино 1 International
@@ -1131,8 +1127,6 @@ https://fl1001.bozztv.com/ushba-rvision/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-rvisionmotor/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="foxlife" ,FX Life HD
 http://188.237.47.212:6008
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="fox" ,FX
-http://185.164.82.18:9010/ykMHqK_Fox
 #EXTINF:-1  group-title="Кино и сериалы" ,Film Box
 http://193.25.8.59:8000/FilmBOX
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="fox"   audio-track="rus", FX
@@ -1529,8 +1523,6 @@ https://live21.bozztv.com/giatvplayout7/ushba80/tracks-v1a1/mono.ts.m3u8
 http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-logo="https://i.ibb.co/zhXqdPF5/image-11.png" ,Ретро Мульт
 http://195.9.195.3:8080/hls/213086.m3u8
-#EXTINF:-1  group-title="Детские"  tvg-id="fanhd" ,FAN
-http://195.9.195.3:8080/hls/157239.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="jimjam"   audio-track="rus", JimJam
 http://158.160.149.81:8080/269/index.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="nickelodeon-ru"   audio-track="rus", Nickelodeon
@@ -10001,22 +9993,6 @@ http://87.120.142.11:18000/Match!Igra
 http://87.120.142.11:18000/Rossiya1
 #EXTINF:-1  group-title="Спортивные" ,Turkmen Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football2" ,Матч! Футбол 2 HD
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDI2IDc6NTU6MDEgUE0maGFzaF92YWx1ZT1nM1hmQ1R6cjR0cG9EVVhvTExSa3dBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football3" ,Матч! Футбол 3 HD
-http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut3HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDI2IDc6NTU6MDEgUE0maGFzaF92YWx1ZT1nM1hmQ1R6cjR0cG9EVVhvTExSa3dBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1  group-title="Спортивные"  tvg-id="match-premier" ,Матч Премьер HD
-http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDI2IDc6NTU6MDEgUE0maGFzaF92YWx1ZT1nM1hmQ1R6cjR0cG9EVVhvTExSa3dBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1  group-title="Спортивные"  tvg-id="match-arena" ,Матч! Арена HD
-http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDI2IDc6NTU6MDEgUE0maGFzaF92YWx1ZT1nM1hmQ1R6cjR0cG9EVVhvTExSa3dBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1  group-title="Спортивные"  tvg-id="match-nash-sport" ,Матч! Страна HD
-http://arbiter.bolshoe.tv/?path=abr1/ntvsport/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDI2IDc6NTU6MDEgUE0maGFzaF92YWx1ZT1nM1hmQ1R6cjR0cG9EVVhvTExSa3dBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1  group-title="Спортивные"  tvg-id="kxl-hd" ,KHL Prime
-http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDI2IDc6NTU6MDEgUE0maGFzaF92YWx1ZT1nM1hmQ1R6cjR0cG9EVVhvTExSa3dBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1  group-title="Спортивные"  tvg-id="viasat-sport" ,Viasat Sport
-http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDI2IDc6NTU6MDEgUE0maGFzaF92YWx1ZT1nM1hmQ1R6cjR0cG9EVVhvTExSa3dBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
-#EXTINF:-1  group-title="Спортивные"  tvg-id="football-ru" ,Телеканал Футбол
-http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDI2IDc6NTU6MDEgUE0maGFzaF92YWx1ZT1nM1hmQ1R6cjR0cG9EVVhvTExSa3dBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1  group-title="Спортивные" ,Овертайм ТВ
 http://live.overtime26.ru/app/potok/playlist.m3u8
 #EXTINF:-1  group-title="Спортивные"  tvg-id="arena-sport-1"   audio-track="rus", Arena Sport 1 HD
@@ -10039,6 +10015,22 @@ http://176.116.105.82/NovaSport4_HD/index.m3u8
 https://176.116.105.82/NovaSport5_HD/index.m3u8
 #EXTINF:-1  group-title="Спортивные"  tvg-id="nova-sport6-cz"   audio-track="rus", Nova Sport 6
 https://176.116.105.82/NovaSport6_HD/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football2" ,Матч! Футбол 2 HD
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut2HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDEwOjQ1OjAxIEFNJmhhc2hfdmFsdWU9ZjF3VXR0dDFFNmdMbE95L0U3VExOUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-football3" ,Матч! Футбол 3 HD
+http://arbiter.bolshoe.tv/?path=abr2/NTVplusfut3HD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDEwOjQ1OjAxIEFNJmhhc2hfdmFsdWU9ZjF3VXR0dDFFNmdMbE95L0U3VExOUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-premier" ,Матч Премьер HD
+http://95.181.17.26/dvr01/hd1/NashFutHD/chunks.m3u8?&&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDEwOjQ1OjAxIEFNJmhhc2hfdmFsdWU9ZjF3VXR0dDFFNmdMbE95L0U3VExOUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-arena" ,Матч! Арена HD
+http://95.181.17.26/dvr02/hd1/sport1HD/playlist.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDEwOjQ1OjAxIEFNJmhhc2hfdmFsdWU9ZjF3VXR0dDFFNmdMbE95L0U3VExOUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1  group-title="Спортивные"  tvg-id="match-nash-sport" ,Матч! Страна HD
+http://arbiter.bolshoe.tv/?path=abr1/ntvsport/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDEwOjQ1OjAxIEFNJmhhc2hfdmFsdWU9ZjF3VXR0dDFFNmdMbE95L0U3VExOUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1  group-title="Спортивные"  tvg-id="kxl-hd" ,KHL Prime
+http://arbiter.bolshoe.tv/?path=abr2/khlHD/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDEwOjQ1OjAxIEFNJmhhc2hfdmFsdWU9ZjF3VXR0dDFFNmdMbE95L0U3VExOUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1  group-title="Спортивные"  tvg-id="viasat-sport" ,Viasat Sport
+http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDEwOjQ1OjAxIEFNJmhhc2hfdmFsdWU9ZjF3VXR0dDFFNmdMbE95L0U3VExOUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
+#EXTINF:-1  group-title="Спортивные"  tvg-id="football-ru" ,Телеканал Футбол
+http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNS8yMDI2IDEwOjQ1OjAxIEFNJmhhc2hfdmFsdWU9ZjF3VXR0dDFFNmdMbE95L0U3VExOUT09JnZhbGlkbWludXRlcz03MjAmaWQ9Nzc3
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="muztv"  tvg-logo="https://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png"   tvg-name="Муз ТВ", Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-logo="https://app.playlistbox.com/icon/NqyYR0G5WKaBVxbXnYZ9wmD7pjLP28OE.png"   tvg-name="Радио Шансон ТВ", Радио Шансон ТВ
@@ -10257,6 +10249,8 @@ http://iptv.prosto.tv:7000/ch306/video.m3u8
 http://iptv.prosto.tv:7000/ch317/video.m3u8
 #EXTINF:-1  group-title="Релакс"  tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500027DS_20240520T212949SQUARE.png" ,ZenLIFE by Stingray
 https://d27toxk63drks3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pibqoi1zv0ree/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBD3500027DS
+#EXTINF:-1  group-title="Релакс"   audio-track="rus", BetterLife Nature
+http://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1  group-title="Релакс" , Релакс
 http://185.57.68.33/232/mpegts
 #EXTINF:-1  group-title="Релакс"  tvg-id="0x0-fireplace-hd"  tvg-logo="https://pic.rutube.ru/video/ec/3d/ec3d950ca1dbeac9c8017df68179aa35.jpg" ,Камин
@@ -10411,8 +10405,6 @@ https://river-3-371.rtbcdn.ru/hls-vod/4ygrKznGIDsuVmHdwgm9gQ/1768659636/1790/0x5
 https://river-4-422.rtbcdn.ru/hls-vod/YGcXknrjncES5-xFhhq0rg/1768659644/1899/0x5000c500e53c9041/954d4f0b6c9640eea3b9d0daff375899.mp4.m3u8?i=3840x2160_12765
 #EXTINF:-1  group-title="Релакс"  tvg-logo="https://pic.rutube.ru/video/8a/8f/8a8fb71bed7423746a80654fc5ba541e.jpg" ,Лес В 4К
 https://river-3-352.rtbcdn.ru/hls-vod/oN0iqB2b3a_xV9QCZ11Okg/1768659647/1846/0x5000c500c921884f/3a14e22cc0b24da0b4c9994cfbbfff0a.mp4.m3u8?i=3840x2160_15561
-#EXTINF:-1  group-title="Релакс"   audio-track="rus", BetterLife Nature
-http://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
 #EXTINF:-1  group-title="Региональные"  tvg-id="reportior-73"  tvg-logo="https://app.playlistbox.com/icon/l5gOW7dpJq9LRZAX9lMEkNQX2Bn6V1bA.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Репортер 73", Репортер 73
 http://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_REP73/variant.m3u8
 #EXTINF:-1  group-title="Региональные"  tvg-id="rifey-tv"  tvg-logo="http://fe-ural.svc.iptv.rt.ru/images/broadcastChannel1531138277952.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="Рифей-ТВ", Рифей-ТВ
