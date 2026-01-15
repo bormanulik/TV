@@ -225,14 +225,16 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 http://85.192.10.131/hls/TvciRu/playlist.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="tnt" ,ТНТ HD
 http://95.66.188.74:80/TNT_HD/mono.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="rtg-tv" , RTG HD
-http://95.66.188.74/RTGHD/index.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="rtg-tv" ,RTG
+http://31.148.48.15:80/RTG/index.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="rtg-tv" ,RTG HD
+http://194.143.148.28:8080/RTG_HD/index.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="bolshaya-azia"  tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8yYM1ELBXGWRzPQ0A.png"   tvg-name="Большая Азия", Большая Азия
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="bolshaya-azia" , Большая Азия HD
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="rybalka" , РЫБАЛКА
 http://iptv.prosto.tv:7000/ch344/video.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="bolshaya-azia"  tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8yYM1ELBXGWRzPQ0A.png"   tvg-name="Большая Азия", Большая Азия
-https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="univer-tv"  tvg-logo="https://epg.iptvx.one/picons/univer-tv.png" , Univer TV
 http://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="360-int" , 360° Международный HD
@@ -355,8 +357,6 @@ http://178.124.153.123:44400/terra
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1  group-title="Познавательные"  tvg-id="hd-life" , Точка РФ
 http://95.66.188.74/HD_Life/mono.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="rtg-tv" , RTG HD
-http://95.66.188.74/RTGHD/mono.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="zdorovoe-tv" , Здоровое ТВ
 http://95.66.188.74/ZdorovoeTV/mono.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="zhivaya-planeta" , Живая планета
@@ -525,10 +525,6 @@ https://next-tv.iptv2022.com/tracks-v1a1/mono.m3u8
 http://retc.educom.ru/mosobrtv/tv2/index.m3u8
 #EXTINF:-1  group-title="Познавательные" ,RT Док
 http://rt-doc.rttv.com/dvr/rtdru/rtdru720.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="rtg-tv" ,RTG
-http://31.148.48.15:80/RTG/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="rtg-tv" ,RTG HD
-http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="shopping-live" ,Shopping Live
 http://shoppinglive.mediacdn.ru/cdn/shopping/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Познавательные" ,Sochi 24
@@ -665,26 +661,6 @@ http://193.169.178.29:8081/podsekaiTV/chanelHD/playlist.m3u8
 http://193.169.178.29:8081/podsekaiTV/chanelHD1080/playlist.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="animal-planet-eu" ,Animal Planet HD
 http://mfe01.cliptv.az/dash/Animal_Planet_HD345wer.ism/playlist.mpd
-#EXTINF:-1  group-title="Познавательные"  tvg-id="discovery-channel" ,Discovery HD
-http://mfe02.cliptv.az/dash/Discovery_Channel_HDqwer456y.ism/playlist.mpd
-#EXTINF:-1  group-title="Познавательные"  tvg-id="oxotnik-i-rybolov-hd" ,Охотник и Рыболов HD
-http://31.148.48.15:80/Dom_Kino_Premium_HD/index.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="oxota-i-rybalka" ,Охота и Рыбалка
-http://95.66.188.74:80/Ohota_i_ribalka/mono.m3u8
-#EXTINF:-1  group-title="Познавательные"  tvg-id="nat-geo-wild" ,Nat Geo Wild HD
-http://188.237.47.212:6005
-#EXTINF:-1  group-title="Познавательные"  tvg-id="(no tvg-id)"   tvg-name="Discovery",Discovery
-"  tvg-id="(no tvg-id)"   tvg-name="Discovery",Discovery
-#EXTINF:-1  group-title="Познавательные"  tvg-id="(no tvg-id)"   tvg-name="Discovery HD",Discovery HD
-"  tvg-id="(no tvg-id)"   tvg-name="Discovery HD",Discovery HD
-#EXTINF:-1  group-title="Познавательные"  tvg-id="(no tvg-id)"   tvg-name="Nat Geo Wild FHD",Nat Geo Wild FHD
-"  tvg-id="(no tvg-id)"   tvg-name="Nat Geo Wild FHD",Nat Geo Wild FHD
-#EXTINF:-1  group-title="Познавательные"  tvg-id="(no tvg-id)"   tvg-name="National Geographic",National Geographic
-"  tvg-id="(no tvg-id)"   tvg-name="National Geographic",National Geographic
-#EXTINF:-1  group-title="Познавательные"  tvg-id="(no tvg-id)"   tvg-name="National Geographic Wild",National Geographic Wild
-"  tvg-id="(no tvg-id)"   tvg-name="National Geographic Wild",National Geographic Wild
-#EXTINF:-1  group-title="Познавательные"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/SXsV7qpb/image-26.png"   tvg-name="Сити Эдем - МедЗдрав",Сити Эдем - МедЗдрав
-"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/SXsV7qpb/image-26.png"   tvg-name="Сити Эдем - МедЗдрав",Сити Эдем - МедЗдрав
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="sts"  tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6lqxNEqAYzmrVWyjg.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС", СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="tnt"  tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVvmoNr4jQPOGd7KJb.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТНТ", ТНТ
@@ -1137,28 +1113,6 @@ http://188.237.47.212:6008
 http://185.164.82.18:9010/ykMHqK_Fox
 #EXTINF:-1  group-title="Кино и сериалы" ,Film Box
 http://193.25.8.59:8000/FilmBOX
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cityedem-kinoazia"  tvg-logo="https://i.ibb.co/60nhtkx6/image-4.png"   tvg-name="Сити Эдем - КиноАзия",Сити Эдем - КиноАзия
-"  tvg-id="cityedem-kinoazia"  tvg-logo="https://i.ibb.co/60nhtkx6/image-4.png"   tvg-name="Сити Эдем - КиноАзия",Сити Эдем - КиноАзия
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png"   tvg-name="Сити Эдем - КиноАрт",Сити Эдем - КиноАрт
-"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/S7nxTYbg/image-9.png"   tvg-name="Сити Эдем - КиноАрт",Сити Эдем - КиноАрт
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/nq5vyFrh/image-11.png"   tvg-name="Сити Эдем - КиноДетектив",Сити Эдем - КиноДетектив
-"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/nq5vyFrh/image-11.png"   tvg-name="Сити Эдем - КиноДетектив",Сити Эдем - КиноДетектив
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/CKnJRBd0/image-12.png"   tvg-name="Сити Эдем - КиноДок",Сити Эдем - КиноДок
-"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/CKnJRBd0/image-12.png"   tvg-name="Сити Эдем - КиноДок",Сити Эдем - КиноДок
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/GQKpsxmC/image-14.png"   tvg-name="Сити Эдем - КиноДрама",Сити Эдем - КиноДрама
-"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/GQKpsxmC/image-14.png"   tvg-name="Сити Эдем - КиноДрама",Сити Эдем - КиноДрама
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cityedem-kinoklas"  tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png"   tvg-name="Сити Эдем - КиноКлассика",Сити Эдем - КиноКлассика
-"  tvg-id="cityedem-kinoklas"  tvg-logo="https://i.ibb.co/qMrRd04Y/image-15.png"   tvg-name="Сити Эдем - КиноКлассика",Сити Эдем - КиноКлассика
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/WNMR4pxD/image-16.png"   tvg-name="Сити Эдем - КиноКомедия",Сити Эдем - КиноКомедия
-"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/WNMR4pxD/image-16.png"   tvg-name="Сити Эдем - КиноКомедия",Сити Эдем - КиноКомедия
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="1676"  tvg-logo="http://epg.cdntv.online/img/1676.png"   tvg-name="Сити Эдем - КиноМистика",Сити Эдем - КиноМистика
-"  tvg-id="1676"  tvg-logo="http://epg.cdntv.online/img/1676.png"   tvg-name="Сити Эдем - КиноМистика",Сити Эдем - КиноМистика
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cityedem-kinomist"  tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png"   tvg-name="Сити Эдем - КиноМистика",Сити Эдем - КиноМистика
-"  tvg-id="cityedem-kinomist"  tvg-logo="https://i.ibb.co/KxqVmt9B/image-17.png"   tvg-name="Сити Эдем - КиноМистика",Сити Эдем - КиноМистика
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png"   tvg-name="Сити Эдем - КиноФантастика",Сити Эдем - КиноФантастика
-"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/XxFPCHT6/image-18.png"   tvg-name="Сити Эдем - КиноФантастика",Сити Эдем - КиноФантастика
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="cityedem-kinoact"  tvg-logo="https://i.ibb.co/Zp0rStg2/image-19.png"   tvg-name="Сити Эдем - КиноЭкшен",Сити Эдем - КиноЭкшен
-"  tvg-id="cityedem-kinoact"  tvg-logo="https://i.ibb.co/Zp0rStg2/image-19.png"   tvg-name="Сити Эдем - КиноЭкшен",Сити Эдем - КиноЭкшен
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2025-12-27/84/87/84876b21be41411f9164301ee2057d01.jpg" , Откровения (2025)
 https://river-1.rutube.ru/hls-vod/0DMh6eKrr-k90p-Y79pP0A/1768670342/3320/0x5000c500e9ebff41/e7f4f1608cd9415a97789c0cb496f5c3.mp4.m3u8?i=1920x1080_1698
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rutube.ru/video/2026-01-05/61/64/6164b8561219d1224e1589f28a972036.jpg" , Чем больше тем веселее (2025)
@@ -1525,8 +1479,6 @@ http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
 http://195.9.195.3:8080/hls/213086.m3u8
 #EXTINF:-1  group-title="Детские"  tvg-id="fanhd" ,FAN
 http://195.9.195.3:8080/hls/157239.m3u8
-#EXTINF:-1  group-title="Детские"  tvg-id="(no tvg-id)"   tvg-name="Nickelodeon",Nickelodeon
-"  tvg-id="(no tvg-id)"   tvg-name="Nickelodeon",Nickelodeon
 #EXTINF:-1  group-title="Мульты СССР"  tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" ,"Метеор" на ринге
 https://mults.info/mp4/meteor_na_ringe.mp4
 #EXTINF:-1  group-title="Мульты СССР"  tvg-logo="https://i.postimg.cc/W42nL6bj/1.jpg" ,«Что делать?» или Куйгорож
@@ -10011,20 +9963,6 @@ http://arbiter.bolshoe.tv/?path=streaming/viasat_sport/71/tvrec/playlist.m3u8&&w
 http://arbiter.bolshoe.tv/?path=abr1/futbol/71/copy/playlist.m3u8&wmsAuthSign=c2VydmVyX3RpbWU9MS8xNC8yMDI2IDc6NTU6MDEgUE0maGFzaF92YWx1ZT1nM1hmQ1R6cjR0cG9EVVhvTExSa3dBPT0mdmFsaWRtaW51dGVzPTcyMCZpZD03Nzc=
 #EXTINF:-1  group-title="Спортивные" ,Овертайм ТВ
 http://live.overtime26.ru/app/potok/playlist.m3u8
-#EXTINF:-1  group-title="Спортивные"  tvg-id="(no tvg-id)"   tvg-name="МАТЧ! Футбол 1 HD",МАТЧ! Футбол 1 HD
-"  tvg-id="(no tvg-id)"   tvg-name="МАТЧ! Футбол 1 HD",МАТЧ! Футбол 1 HD
-#EXTINF:-1  group-title="Спортивные"  tvg-id="Матч! Футбол 1 HD"  tvg-logo="https://lighticons.art/storage/images/channels/94de502ffcf196ab78801841206c642d.png?d=1709804063"   tvg-name="Матч! Футбол 1 HD 50",Матч! Футбол 1 HD 50
-"  tvg-id="Матч! Футбол 1 HD"  tvg-logo="https://lighticons.art/storage/images/channels/94de502ffcf196ab78801841206c642d.png?d=1709804063"   tvg-name="Матч! Футбол 1 HD 50",Матч! Футбол 1 HD 50
-#EXTINF:-1  group-title="Спортивные"  tvg-id="Матч! Футбол 2 HD"  tvg-logo="https://lighticons.art/storage/images/channels/82173d67718d9564d91739037224daee.png?d=1709804175"   tvg-name="Матч! Футбол 2 HD 50fps",Матч! Футбол 2 HD 50fps
-"  tvg-id="Матч! Футбол 2 HD"  tvg-logo="https://lighticons.art/storage/images/channels/82173d67718d9564d91739037224daee.png?d=1709804175"   tvg-name="Матч! Футбол 2 HD 50fps",Матч! Футбол 2 HD 50fps
-#EXTINF:-1  group-title="Спортивные"  tvg-id="(no tvg-id)"   tvg-name="Матч! Футбол 2 HD",Матч! Футбол 2 HD
-"  tvg-id="(no tvg-id)"   tvg-name="Матч! Футбол 2 HD",Матч! Футбол 2 HD
-#EXTINF:-1  group-title="Спортивные"  tvg-id="Матч! Футбол 3 HD"  tvg-logo="https://lighticons.art/storage/images/channels/3ba8a8b28a85f4c30ba63ca4dd81f83d.png?d=1679724905"   tvg-name="Матч! Футбол 3 HD",Матч! Футбол 3 HD
-"  tvg-id="Матч! Футбол 3 HD"  tvg-logo="https://lighticons.art/storage/images/channels/3ba8a8b28a85f4c30ba63ca4dd81f83d.png?d=1679724905"   tvg-name="Матч! Футбол 3 HD",Матч! Футбол 3 HD
-#EXTINF:-1  group-title="Спортивные"  tvg-id="Матч! Футбол 3 HD"  tvg-logo="https://lighticons.art/storage/images/channels/3ba8a8b28a85f4c30ba63ca4dd81f83d.png?d=1679724905"   tvg-name="Матч! Футбол 3 HD 50fps",Матч! Футбол 3 HD 50fps
-"  tvg-id="Матч! Футбол 3 HD"  tvg-logo="https://lighticons.art/storage/images/channels/3ba8a8b28a85f4c30ba63ca4dd81f83d.png?d=1679724905"   tvg-name="Матч! Футбол 3 HD 50fps",Матч! Футбол 3 HD 50fps
-#EXTINF:-1  group-title="Спортивные"  tvg-id="(no tvg-id)"   tvg-name="Мир Баскетбола HD",Мир Баскетбола HD
-"  tvg-id="(no tvg-id)"   tvg-name="Мир Баскетбола HD",Мир Баскетбола HD
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="muztv"  tvg-logo="https://runigma.com.ua/EPG/png/360e/1_0_16_521_D_70_1680000_0_0_0.png"   tvg-name="Муз ТВ", Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-logo="https://app.playlistbox.com/icon/NqyYR0G5WKaBVxbXnYZ9wmD7pjLP28OE.png"   tvg-name="Радио Шансон ТВ", Радио Шансон ТВ
@@ -10169,10 +10107,6 @@ http://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m
 http://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1  group-title="Музыкальные" ,Europa Plus
 http://193.25.8.59:8000/vh1
-#EXTINF:-1  group-title="Музыкальные"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/SDGvD0bh/image-22.png"   tvg-name="Сити Эдем - Классическая Музыка",Сити Эдем - Классическая Музыка
-"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/SDGvD0bh/image-22.png"   tvg-name="Сити Эдем - Классическая Музыка",Сити Эдем - Классическая Музыка
-#EXTINF:-1  group-title="Музыкальные"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/8D2Pnhd1/image-23.png"   tvg-name="Сити Эдем - Сиртаки ТВ",Сити Эдем - Сиртаки ТВ
-"  tvg-id="no_epg_cinema"  tvg-logo="https://i.ibb.co/8D2Pnhd1/image-23.png"   tvg-name="Сити Эдем - Сиртаки ТВ",Сити Эдем - Сиртаки ТВ
 #EXTINF:-1  group-title="Релакс"  tvg-id="lanet-relax" ,Lanet Relax
 http://iptv.prosto.tv:7000/ch314/video.m3u8
 #EXTINF:-1  group-title="Релакс"  tvg-id="lanet-relax" ,Lanet Relax
