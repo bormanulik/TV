@@ -4146,6 +4146,350 @@ http://91.221.252.12:82/tv114
 http://91.221.252.12:82/tv113
 #EXTINF:-1  group-title="Новороссия"  tvg-id="football-ru" ,Футбол
 http://91.221.252.12:82/tv115
+#EXTINF:-1  group-title="Кубань" ,Первый
+http://cdn.kubteltv.workers.dev/?ID=1
+#EXTINF:-1  group-title="Кубань"  tvg-id="rossia1" ,Россия 1
+http://cdn.kubteltv.workers.dev/?ID=2
+#EXTINF:-1  group-title="Кубань"  tvg-id="match-tv" ,Матч!
+http://cdn.kubteltv.workers.dev/?ID=3
+#EXTINF:-1  group-title="Кубань"  tvg-id="ntv" ,НТВ
+http://cdn.kubteltv.workers.dev/?ID=4
+#EXTINF:-1  group-title="Кубань"  tvg-id="5kanal-ru" ,Пятый канал
+http://cdn.kubteltv.workers.dev/?ID=5
+#EXTINF:-1  group-title="Кубань"  tvg-id="kultura" ,Россия К
+http://cdn.kubteltv.workers.dev/?ID=6
+#EXTINF:-1  group-title="Кубань"  tvg-id="rossia-24" ,Россия 24
+http://cdn.kubteltv.workers.dev/?ID=7
+#EXTINF:-1  group-title="Кубань"  tvg-id="karusel" ,Карусель
+http://cdn.kubteltv.workers.dev/?ID=8
+#EXTINF:-1  group-title="Кубань"  tvg-id="otr" ,ОТР
+http://cdn.kubteltv.workers.dev/?ID=9
+#EXTINF:-1  group-title="Кубань"  tvg-id="tvcentr" ,ТВЦ
+http://cdn.kubteltv.workers.dev/?ID=10
+#EXTINF:-1  group-title="Кубань"  tvg-id="rentv" ,РЕН ТВ
+http://cdn.kubteltv.workers.dev/?ID=11
+#EXTINF:-1  group-title="Кубань"  tvg-id="spas" ,Спас
+http://cdn.kubteltv.workers.dev/?ID=12
+#EXTINF:-1  group-title="Кубань"  tvg-id="sts" ,СТС
+http://cdn.kubteltv.workers.dev/?ID=13
+#EXTINF:-1  group-title="Кубань"  tvg-id="domashny" ,Домашний
+http://cdn.kubteltv.workers.dev/?ID=14
+#EXTINF:-1  group-title="Кубань" ,ТВ 3
+http://cdn.kubteltv.workers.dev/?ID=15
+#EXTINF:-1  group-title="Кубань"  tvg-id="piatnica" ,Пятница!
+http://cdn.kubteltv.workers.dev/?ID=16
+#EXTINF:-1  group-title="Кубань"  tvg-id="zvezda" ,Звезда
+http://cdn.kubteltv.workers.dev/?ID=17
+#EXTINF:-1  group-title="Кубань"  tvg-id="mir" ,МИР
+http://cdn.kubteltv.workers.dev/?ID=18
+#EXTINF:-1  group-title="Кубань"  tvg-id="tnt" ,ТНТ
+http://cdn.kubteltv.workers.dev/?ID=19
+#EXTINF:-1  group-title="Кубань"  tvg-id="muztv" ,МУЗ ТВ
+http://cdn.kubteltv.workers.dev/?ID=20
+#EXTINF:-1  group-title="Кубань"  tvg-id="yu" ,Ю
+http://cdn.kubteltv.workers.dev/?ID=23
+#EXTINF:-1  group-title="Кубань"  tvg-id="che" ,ЧЕ!
+http://cdn.kubteltv.workers.dev/?ID=24
+#EXTINF:-1  group-title="Кубань"  tvg-id="kuban-24" ,Кубань 24
+http://cdn.kubteltv.workers.dev/?ID=28
+#EXTINF:-1  group-title="Кубань" ,2х2 HD
+http://cdn.kubteltv.workers.dev/?ID=31
+#EXTINF:-1  group-title="Кубань"  tvg-id="tnt4" ,ТНТ4
+http://cdn.kubteltv.workers.dev/?ID=32
+#EXTINF:-1  group-title="Кубань"  tvg-id="sts-love" ,СТС Love
+http://cdn.kubteltv.workers.dev/?ID=35
+#EXTINF:-1  group-title="Кубань"  tvg-id="8kanal-ru" ,8 канал 
+http://cdn.kubteltv.workers.dev/?ID=36
+#EXTINF:-1  group-title="Кубань" ,Вместе РФ
+http://cdn.kubteltv.workers.dev/?ID=37
+#EXTINF:-1  group-title="Кубань"  tvg-id="usadba" ,Усадьба
+http://cdn.kubteltv.workers.dev/?ID=38
+#EXTINF:-1  group-title="Кубань"  tvg-id="krasnodar" ,Краснодар
+http://cdn.kubteltv.workers.dev/?ID=39
+#EXTINF:-1  group-title="Кубань"  tvg-id="tnt-music" ,ТНТ Music
+http://cdn.kubteltv.workers.dev/?ID=45
+#EXTINF:-1  group-title="Кубань"  tvg-id="drive" ,Драйв
+http://cdn.kubteltv.workers.dev/?ID=46
+#EXTINF:-1  group-title="Кубань"  tvg-id="retro-tv" ,Ретро
+http://cdn.kubteltv.workers.dev/?ID=47
+#EXTINF:-1  group-title="Кубань"  tvg-id="ru-tv" ,RU.TV
+http://cdn.kubteltv.workers.dev/?ID=48
+#EXTINF:-1  group-title="Кубань" ,TorreRica
+http://cdn.kubteltv.workers.dev/?ID=50
+#EXTINF:-1  group-title="Кубань"  tvg-id="tro" ,Белрос
+http://cdn.kubteltv.workers.dev/?ID=52
+#EXTINF:-1  group-title="Кубань"  tvg-id="rbk" ,РБК
+http://cdn.kubteltv.workers.dev/?ID=57
+#EXTINF:-1  group-title="Кубань"  tvg-id="avto24" ,Авто 24
+http://cdn.kubteltv.workers.dev/?ID=58
+#EXTINF:-1  group-title="Кубань"  tvg-id="detsky" ,Уникум
+http://cdn.kubteltv.workers.dev/?ID=59
+#EXTINF:-1  group-title="Кубань"  tvg-id="evrokino" ,Еврокино
+http://cdn.kubteltv.workers.dev/?ID=60
+#EXTINF:-1  group-title="Кубань" ,ZOO Парк 
+http://cdn.kubteltv.workers.dev/?ID=61
+#EXTINF:-1  group-title="Кубань"  tvg-id="illuzion-plus" ,Иллюзион+
+http://cdn.kubteltv.workers.dev/?ID=62
+#EXTINF:-1  group-title="Кубань"  tvg-id="russky-illuzion" ,Русский Иллюзион
+http://cdn.kubteltv.workers.dev/?ID=63
+#EXTINF:-1  group-title="Кубань"  tvg-id="bridge-tv-dance" ,Bridge TV Hits
+http://cdn.kubteltv.workers.dev/?ID=64
+#EXTINF:-1  group-title="Кубань"  tvg-id="psixologia-21" ,Психология 21
+http://cdn.kubteltv.workers.dev/?ID=65
+#EXTINF:-1  group-title="Кубань"  tvg-id="bridge-tv" ,Bridge TV
+http://cdn.kubteltv.workers.dev/?ID=67
+#EXTINF:-1  group-title="Кубань"  tvg-id="bridge-tv-ruxit" ,Bridge TV Русский Хит
+http://cdn.kubteltv.workers.dev/?ID=69
+#EXTINF:-1  group-title="Кубань"  tvg-id="rtg-tv" ,RTG TV
+http://cdn.kubteltv.workers.dev/?ID=70
+#EXTINF:-1  group-title="Кубань"  tvg-id="oruzhie" ,Оружие 
+http://cdn.kubteltv.workers.dev/?ID=71
+#EXTINF:-1  group-title="Кубань" ,Феникс Плюс Кино
+http://cdn.kubteltv.workers.dev/?ID=72
+#EXTINF:-1  group-title="Кубань"  tvg-id="oxota-i-rybalka" ,Охота и Рыбалка
+http://cdn.kubteltv.workers.dev/?ID=73
+#EXTINF:-1  group-title="Кубань"  tvg-id="indiyskoe-kino" ,Индийское Кино
+http://cdn.kubteltv.workers.dev/?ID=77
+#EXTINF:-1  group-title="Кубань"  tvg-id="europa-plus-tv" ,Europa Plus TV
+http://cdn.kubteltv.workers.dev/?ID=82
+#EXTINF:-1  group-title="Кубань"  tvg-id="krasnaya-linia" ,Красная Линия
+http://cdn.kubteltv.workers.dev/?ID=91
+#EXTINF:-1  group-title="Кубань"  tvg-id="bridge-tv-classic" ,Bridge TV Classic
+http://cdn.kubteltv.workers.dev/?ID=92
+#EXTINF:-1  group-title="Кубань"  tvg-id="kinomiks" ,Киномикс
+http://cdn.kubteltv.workers.dev/?ID=105
+#EXTINF:-1  group-title="Кубань"  tvg-id="match-nash-sport" ,Матч! Страна
+http://cdn.kubteltv.workers.dev/?ID=110
+#EXTINF:-1  group-title="Кубань"  tvg-id="match-igra" ,Матч! Игра
+http://cdn.kubteltv.workers.dev/?ID=111
+#EXTINF:-1  group-title="Кубань" ,Боец
+http://cdn.kubteltv.workers.dev/?ID=112
+#EXTINF:-1  group-title="Кубань"  tvg-id="match-arena" ,Матч! Арена
+http://cdn.kubteltv.workers.dev/?ID=113
+#EXTINF:-1  group-title="Кубань"  tvg-id="pes-i-ko" ,Пес и Ко
+http://cdn.kubteltv.workers.dev/?ID=121
+#EXTINF:-1  group-title="Кубань"  tvg-id="domkino" ,Дом Кино
+http://cdn.kubteltv.workers.dev/?ID=131
+#EXTINF:-1  group-title="Кубань"  tvg-id="sapfir" ,Сапфир
+http://cdn.kubteltv.workers.dev/?ID=132
+#EXTINF:-1  group-title="Кубань"  tvg-id="super" ,Суббота!
+http://cdn.kubteltv.workers.dev/?ID=136
+#EXTINF:-1  group-title="Кубань"  tvg-id="ryzhy" ,Рыжий
+http://cdn.kubteltv.workers.dev/?ID=145
+#EXTINF:-1  group-title="Кубань"  tvg-id="bobior" ,Бобёр
+http://cdn.kubteltv.workers.dev/?ID=146
+#EXTINF:-1  group-title="Кубань"  tvg-id="terra-ru" ,Terra
+http://cdn.kubteltv.workers.dev/?ID=148
+#EXTINF:-1  group-title="Кубань"  tvg-id="kineko" ,Кинеко
+http://cdn.kubteltv.workers.dev/?ID=172
+#EXTINF:-1  group-title="Кубань" ,7TV
+http://cdn.kubteltv.workers.dev/?ID=175
+#EXTINF:-1  group-title="Кубань"  tvg-id="izvestia" ,Известия 
+http://cdn.kubteltv.workers.dev/?ID=176
+#EXTINF:-1  group-title="Кубань" ,Смайл ТВ
+http://cdn.kubteltv.workers.dev/?ID=177
+#EXTINF:-1  group-title="Кубань" ,Киноман
+http://cdn.kubteltv.workers.dev/?ID=182
+#EXTINF:-1  group-title="Кубань"  tvg-id="detsky-mir" ,Детский Мир
+http://cdn.kubteltv.workers.dev/?ID=186
+#EXTINF:-1  group-title="Кубань" ,viju+ TV1000
+http://cdn.kubteltv.workers.dev/?ID=191
+#EXTINF:-1  group-title="Кубань" ,viju+ TV1000 Action
+http://cdn.kubteltv.workers.dev/?ID=192
+#EXTINF:-1  group-title="Кубань" ,viju+ TV1000 Русское 
+http://cdn.kubteltv.workers.dev/?ID=193
+#EXTINF:-1  group-title="Кубань"  tvg-id="kinouzhas" ,Киноужас
+http://cdn.kubteltv.workers.dev/?ID=200
+#EXTINF:-1  group-title="Кубань"  tvg-id="v-gostiax-u-skazki" ,В гостях у сказки
+http://cdn.kubteltv.workers.dev/?ID=207
+#EXTINF:-1  group-title="Кубань"  tvg-id="360-podmoskovie" ,360 HD
+http://cdn.kubteltv.workers.dev/?ID=216
+#EXTINF:-1  group-title="Кубань"  tvg-id="360-news" ,360 Новости 
+http://cdn.kubteltv.workers.dev/?ID=217
+#EXTINF:-1  group-title="Кубань"  tvg-id="blokbaster-hd" ,Блокбастер HD
+http://cdn.kubteltv.workers.dev/?ID=219
+#EXTINF:-1  group-title="Кубань"  tvg-id="football-ru" ,Футбол 
+http://cdn.kubteltv.workers.dev/?ID=229
+#EXTINF:-1  group-title="Кубань"  tvg-id="tochka-otryva" ,Точка Отрыва
+http://cdn.kubteltv.workers.dev/?ID=231
+#EXTINF:-1  group-title="Кубань"  tvg-id="khit-hd" ,Хит HD
+http://cdn.kubteltv.workers.dev/?ID=255
+#EXTINF:-1  group-title="Кубань"  tvg-id="zagorodny" ,Загородный 
+http://cdn.kubteltv.workers.dev/?ID=256
+#EXTINF:-1  group-title="Кубань"  tvg-id="teleputeshestvia" ,Телепутешествия
+http://cdn.kubteltv.workers.dev/?ID=257
+#EXTINF:-1  group-title="Кубань"  tvg-id="zootv" ,Зоо ТВ
+http://cdn.kubteltv.workers.dev/?ID=258
+#EXTINF:-1  group-title="Кубань"  tvg-id="oxotnik-i-rybolov" ,Охотник и Рыболов
+http://cdn.kubteltv.workers.dev/?ID=259
+#EXTINF:-1  group-title="Кубань"  tvg-id="da-vinci" ,Da Vinci
+http://cdn.kubteltv.workers.dev/?ID=261
+#EXTINF:-1  group-title="Кубань" ,viju+ Nature
+http://cdn.kubteltv.workers.dev/?ID=262
+#EXTINF:-1  group-title="Кубань" ,viju+ Explore
+http://cdn.kubteltv.workers.dev/?ID=263
+#EXTINF:-1  group-title="Кубань" ,viju+ History
+http://cdn.kubteltv.workers.dev/?ID=264
+#EXTINF:-1  group-title="Кубань"  tvg-id="viasat-sport" ,viju+ Sport
+http://cdn.kubteltv.workers.dev/?ID=265
+#EXTINF:-1  group-title="Кубань"  tvg-id="pobeda" ,Победа 
+http://cdn.kubteltv.workers.dev/?ID=266
+#EXTINF:-1  group-title="Кубань"  tvg-id="muzyka-pervogo" ,Музыка Первого
+http://cdn.kubteltv.workers.dev/?ID=267
+#EXTINF:-1  group-title="Кубань"  tvg-id="poexali" ,Поехали!
+http://cdn.kubteltv.workers.dev/?ID=268
+#EXTINF:-1  group-title="Кубань"  tvg-id="o_" ,О!
+http://cdn.kubteltv.workers.dev/?ID=270
+#EXTINF:-1  group-title="Кубань"  tvg-id="telekafe" ,Телекафе
+http://cdn.kubteltv.workers.dev/?ID=271
+#EXTINF:-1  group-title="Кубань" ,Дом Кино HD
+http://cdn.kubteltv.workers.dev/?ID=272
+#EXTINF:-1  group-title="Кубань"  tvg-id="multimania" ,Мультиландия 
+http://cdn.kubteltv.workers.dev/?ID=273
+#EXTINF:-1  group-title="Кубань"  tvg-id="kluch" ,Ключ
+http://cdn.kubteltv.workers.dev/?ID=277
+#EXTINF:-1  group-title="Кубань"  tvg-id="yuvelirochka" ,Ювелирочка
+http://cdn.kubteltv.workers.dev/?ID=285
+#EXTINF:-1  group-title="Кубань"  tvg-id="kinojam1" ,KinoJam 1
+http://cdn.kubteltv.workers.dev/?ID=297
+#EXTINF:-1  group-title="Кубань"  tvg-id="kinojam2" ,KinoJam 2
+http://cdn.kubteltv.workers.dev/?ID=298
+#EXTINF:-1  group-title="Кубань" ,DetectiveJam HD
+http://cdn.kubteltv.workers.dev/?ID=299
+#EXTINF:-1  group-title="Кубань" ,FamilyJam HD
+http://cdn.kubteltv.workers.dev/?ID=300
+#EXTINF:-1  group-title="Кубань"  tvg-id="kinoseria" ,Киносерия HD
+http://cdn.kubteltv.workers.dev/?ID=316
+#EXTINF:-1  group-title="Кубань"  tvg-id="vremia" ,Время 
+http://cdn.kubteltv.workers.dev/?ID=320
+#EXTINF:-1  group-title="Кубань"  tvg-id="lapki-live" ,Лапки Live
+http://cdn.kubteltv.workers.dev/?ID=321
+#EXTINF:-1  group-title="Кубань" ,ККинокомедия HD
+http://cdn.kubteltv.workers.dev/?ID=328
+#EXTINF:-1  group-title="Кубань"  tvg-id="ntv-xit" ,НТВ Хит
+http://cdn.kubteltv.workers.dev/?ID=329
+#EXTINF:-1  group-title="Кубань"  tvg-id="ntv-style" ,НТВ Стиль
+http://cdn.kubteltv.workers.dev/?ID=330
+#EXTINF:-1  group-title="Кубань"  tvg-id="ntv-pravo" ,НТВ Право
+http://cdn.kubteltv.workers.dev/?ID=331
+#EXTINF:-1  group-title="Кубань"  tvg-id="ntv-serial" ,НТВ Сериал
+http-user-agent=TiviMate/2.8.0
+#EXTINF:-1  group-title="Кубань" ,RTG Int.
+http://cdn.kubteltv.workers.dev/?ID=333
+#EXTINF:-1  group-title="Кубань"  tvg-id="solnce" ,Солнце
+http://cdn.kubteltv.workers.dev/?ID=334
+#EXTINF:-1  group-title="Кубань"  tvg-id="zhivaya-priroda" ,Живая Природа
+http://cdn.kubteltv.workers.dev/?ID=339
+#EXTINF:-1  group-title="Кубань"  tvg-id="zhivi-aktivno" ,Живи Активно
+http://cdn.kubteltv.workers.dev/?ID=340
+#EXTINF:-1  group-title="Кубань"  tvg-id="glazami-turista" ,Глазами Туриста HD
+http://cdn.kubteltv.workers.dev/?ID=341
+#EXTINF:-1  group-title="Кубань"  tvg-id="glazami-turista-4k" ,Глазами Туриста 4K
+http://cdn.kubteltv.workers.dev/?ID=342
+#EXTINF:-1  group-title="Кубань"  tvg-id="sumiko" ,Sumiko
+http://cdn.kubteltv.workers.dev/?ID=343
+#EXTINF:-1  group-title="Кубань"  tvg-id="home-4k" ,HOME 4K
+http://cdn.kubteltv.workers.dev/?ID=344
+#EXTINF:-1  group-title="Кубань"  tvg-id="mir-24" ,МИР 24
+http://cdn.kubteltv.workers.dev/?ID=345
+#EXTINF:-1  group-title="Кубань"  tvg-id="kinomult" ,Киномульт
+http://cdn.kubteltv.workers.dev/?ID=346
+#EXTINF:-1  group-title="Кубань"  tvg-id="mult" ,Мульт HD
+http://cdn.kubteltv.workers.dev/?ID=348
+#EXTINF:-1  group-title="Кубань"  tvg-id="moya-planeta" ,Моя Планета HD
+http://cdn.kubteltv.workers.dev/?ID=349
+#EXTINF:-1  group-title="Кубань"  tvg-id="zhivaya-planeta" ,Живая Планета
+http://cdn.kubteltv.workers.dev/?ID=350
+#EXTINF:-1  group-title="Кубань"  tvg-id="cinema-ru" ,Cinema
+http://cdn.kubteltv.workers.dev/?ID=352
+#EXTINF:-1  group-title="Кубань"  tvg-id="mosfilm" ,Мосфильм. Золотая Коллекция
+http://cdn.kubteltv.workers.dev/?ID=353
+#EXTINF:-1  group-title="Кубань"  tvg-id="fanhd" ,Fan HD
+http://cdn.kubteltv.workers.dev/?ID=354
+#EXTINF:-1  group-title="Кубань"  tvg-id="russky-roman" ,Русский Роман HD
+http://cdn.kubteltv.workers.dev/?ID=355
+#EXTINF:-1  group-title="Кубань" ,Heecrbq Бестселлер HD
+http://cdn.kubteltv.workers.dev/?ID=356
+#EXTINF:-1  group-title="Кубань"  tvg-id="russky-detektiv" ,Русский Детектив HD
+http://cdn.kubteltv.workers.dev/?ID=357
+#EXTINF:-1  group-title="Кубань" ,HD REX
+http://cdn.kubteltv.workers.dev/?ID=358
+#EXTINF:-1  group-title="Кубань"  tvg-id="belarus24" ,Беларусь 24
+http://cdn.kubteltv.workers.dev/?ID=359
+#EXTINF:-1  group-title="Кубань"  tvg-id="texno-24" ,Т24
+http://cdn.kubteltv.workers.dev/?ID=360
+#EXTINF:-1  group-title="Кубань"  tvg-id="sarafan" ,Сарафан
+http://cdn.kubteltv.workers.dev/?ID=361
+#EXTINF:-1  group-title="Кубань"  tvg-id="patriot" ,Патриот
+http://cdn.kubteltv.workers.dev/?ID=362
+#EXTINF:-1  group-title="Кубань"  tvg-id="russkaya-komedia" ,Комедия
+http://cdn.kubteltv.workers.dev/?ID=363
+#EXTINF:-1  group-title="Кубань"  tvg-id="nst" ,НСТ
+http://cdn.kubteltv.workers.dev/?ID=364
+#EXTINF:-1  group-title="Кубань"  tvg-id="istoria" ,История 
+http://cdn.kubteltv.workers.dev/?ID=365
+#EXTINF:-1  group-title="Кубань"  tvg-id="multimuzyka" ,Мульт и Музыка
+http://cdn.kubteltv.workers.dev/?ID=366
+#EXTINF:-1  group-title="Кубань"  tvg-id="ani" ,Ani
+http://cdn.kubteltv.workers.dev/?ID=367
+#EXTINF:-1  group-title="Кубань"  tvg-id="fightclub" ,Fight Club 
+http://cdn.kubteltv.workers.dev/?ID=369
+#EXTINF:-1  group-title="Кубань"  tvg-id="start-world" ,Start World
+http://cdn.kubteltv.workers.dev/?ID=371
+#EXTINF:-1  group-title="Кубань"  tvg-id="start-air" ,Start Air
+http://cdn.kubteltv.workers.dev/?ID=372
+#EXTINF:-1  group-title="Кубань"  tvg-id="tnt" ,ТНТ HD
+http://cdn.kubteltv.workers.dev/?ID=373
+#EXTINF:-1  group-title="Кубань"  tvg-id="mir" ,МИР HD
+http://cdn.kubteltv.workers.dev/?ID=374
+#EXTINF:-1  group-title="Кубань"  tvg-id="ntv" ,НТВ HD
+http://cdn.kubteltv.workers.dev/?ID=375
+#EXTINF:-1  group-title="Кубань"  tvg-id="rentv" ,Рен ТВ HD
+http://cdn.kubteltv.workers.dev/?ID=376
+#EXTINF:-1  group-title="Кубань"  tvg-id="sts" ,СТС HD
+http://cdn.kubteltv.workers.dev/?ID=377
+#EXTINF:-1  group-title="Кубань"  tvg-id="domashny" ,Домашний HD
+http://cdn.kubteltv.workers.dev/?ID=378
+#EXTINF:-1  group-title="Кубань"  tvg-id="tv3-ru" ,ТВ3 HD
+http://cdn.kubteltv.workers.dev/?ID=379
+#EXTINF:-1  group-title="Кубань"  tvg-id="piatnica" ,Пятница HD
+http://cdn.kubteltv.workers.dev/?ID=380
+#EXTINF:-1  group-title="Кубань"  tvg-id="viju-tv1000-novella" ,viju TV1000 Новелла 
+http://cdn.kubteltv.workers.dev/?ID=381
+#EXTINF:-1  group-title="Кубань"  tvg-id="v-mire-zhivotnyx-hd" ,В Мире Животных
+http://cdn.kubteltv.workers.dev/?ID=401
+#EXTINF:-1  group-title="Кубань" ,Мяч тв
+http://cdn.kubteltv.workers.dev/?ID=404
+#EXTINF:-1  group-title="Кубань"  tvg-id="xokkejny" ,Хоккей ТВ
+http://cdn.kubteltv.workers.dev/?ID=405
+#EXTINF:-1  group-title="Кубань" ,Спорт ТВ
+http://cdn.kubteltv.workers.dev/?ID=412
+#EXTINF:-1  group-title="Кубань"  tvg-id="kinopokaz" ,Кинопоказ
+http://cdn.kubteltv.workers.dev/?ID=414
+#EXTINF:-1  group-title="Кубань"  tvg-id="match-tv" ,Матч! HD
+http://cdn.kubteltv.workers.dev/?ID=419
+#EXTINF:-1  group-title="Кубань"  tvg-id="otr" ,ОТР
+http://cdn.kubteltv.workers.dev/?ID=420
+#EXTINF:-1  group-title="Кубань"  tvg-id="pervy" ,Первый HD
+http://cdn.kubteltv.workers.dev/?ID=421
+#EXTINF:-1  group-title="Кубань"  tvg-id="rossia1" ,Россия 1 HD
+http://cdn.kubteltv.workers.dev/?ID=422
+#EXTINF:-1  group-title="Кубань" ,Пятый HD
+http://cdn.kubteltv.workers.dev/?ID=423
+#EXTINF:-1  group-title="Кубань"  tvg-id="the-explorers" ,The Explorers
+http://cdn.kubteltv.workers.dev/?ID=443
+#EXTINF:-1  group-title="Кубань"  tvg-id="voleybol" ,Волейбол 
+http://cdn.kubteltv.workers.dev/?ID=444
+#EXTINF:-1  group-title="Кубань"  tvg-id="mir-basketbola" ,Мир Баскетбола
+http://cdn.kubteltv.workers.dev/?ID=451
+#EXTINF:-1  group-title="Кубань" ,Ювелирочка HD
+http://cdn.kubteltv.workers.dev/?ID=453
+#EXTINF:-1  group-title="Кубань"  tvg-id="shopping-live" ,Shopping Live
+http://cdn.kubteltv.workers.dev/?ID=454
+#EXTINF:-1  group-title="Кубань"  tvg-id="bollywood-hd" ,Bollywood HD
+http://cdn.kubteltv.workers.dev/?ID=456
+#EXTINF:-1  group-title="Кубань" ,Food Time
+http://cdn.kubteltv.workers.dev/?ID=457
 #EXTINF:-1  group-title="Беларусь"  tvg-id="tro" ,Союзный
 http://93.84.115.174:10181/belros
 #EXTINF:-1  group-title="Беларусь"  tvg-id="stv-by" , STB HD
@@ -4320,6 +4664,144 @@ http://93.84.115.174:10181/viasatsport
 http://93.84.115.174:10181/foxhd
 #EXTINF:-1  group-title="Беларусь"  tvg-id="domashny" ,Домашний
 http://93.84.115.174:10181/domashniy
+#EXTINF:-1  group-title="Казахстан"  tvg-id="pervy" ,Первый канал
+http://89.218.32.179:18000/play/a03q
+#EXTINF:-1  group-title="Казахстан"  tvg-id="pervy-kanal-eurasia-kz" ,Первый канал Евразия
+http://89.218.32.179:18000/play/a046
+#EXTINF:-1  group-title="Казахстан"  tvg-id="rentv" ,Рен ТВ
+http://89.218.32.179:18000/play/a02s
+#EXTINF:-1  group-title="Казахстан"  tvg-id="ntv" ,НТВ
+http://89.218.32.179:18000/play/a02q
+#EXTINF:-1  group-title="Казахстан"  tvg-id="rossia1-pl2" ,Россия 1 (+2)
+http://89.218.32.179:18000/play/a01s
+#EXTINF:-1  group-title="Казахстан"  tvg-id="rossia-24" ,Россия 24
+http://89.218.32.179:18000/play/a01k
+#EXTINF:-1  group-title="Казахстан"  tvg-id="tnt" ,ТНТ
+http://89.218.32.179:18000/play/a00s
+#EXTINF:-1  group-title="Казахстан"  tvg-id="nauka" ,Наука
+http://89.218.32.179:18000/play/a03h
+#EXTINF:-1  group-title="Казахстан"  tvg-id="terra-ru" ,Terra
+http://89.218.32.179:18000/play/a04k
+#EXTINF:-1  group-title="Казахстан" ,Вкус HD
+http://89.218.32.179:18000/play/a027
+#EXTINF:-1  group-title="Казахстан"  tvg-id="viasat-explore" ,viju Explore
+http://89.218.32.179:18000/play/a02w
+#EXTINF:-1  group-title="Казахстан"  tvg-id="viasat-history" ,viju History
+http://89.218.32.179:18000/play/a02x
+#EXTINF:-1  group-title="Казахстан"  tvg-id="viasat-nature" ,viju Nature
+http://89.218.32.179:18000/play/a02y
+#EXTINF:-1  group-title="Казахстан"  tvg-id="zhivaya-planeta" ,Живая Планета
+http://89.218.32.179:18000/play/a03c
+#EXTINF:-1  group-title="Казахстан"  tvg-id="moya-planeta" ,Моя Планета
+http://89.218.32.179:18000/play/a03
+#EXTINF:-1  group-title="Казахстан"  tvg-id="docubox-hd" ,DocuBox
+http://89.218.32.179:18000/play/a03t
+#EXTINF:-1  group-title="Казахстан"  tvg-id="istoria" ,История
+http://89.218.32.179:18000/play/a03a
+#EXTINF:-1  group-title="Казахстан"  tvg-id="kineko" ,Кинеко
+http://89.218.32.179:18000/play/a04i
+#EXTINF:-1  group-title="Казахстан" ,FilmBox
+http://89.218.32.179:18000/play/a03x
+#EXTINF:-1  group-title="Казахстан"  tvg-id="tv1000" ,viju TV1000
+http://89.218.32.179:18000/play/a02v
+#EXTINF:-1  group-title="Казахстан"  tvg-id="tv1000-action" ,viju TV1000 action
+http://89.218.32.179:18000/play/a02u
+#EXTINF:-1  group-title="Казахстан" ,viju TV1000 Новелла HD
+http://89.218.32.179:18000/play/a030
+#EXTINF:-1  group-title="Казахстан"  tvg-id="tv1000-russkoe-kino" ,TV1000 русское кино
+http://89.218.32.179:18000/play/a02t
+#EXTINF:-1  group-title="Казахстан"  tvg-id="russkaya-komedia" ,Комедия
+http://89.218.32.179:18000/play/a038
+#EXTINF:-1  group-title="Казахстан"  tvg-id="hollywood" ,Hollywood
+http://89.218.32.179:18000/play/a03e
+#EXTINF:-1  group-title="Казахстан"  tvg-id="sony-turbo" ,.Black
+http://89.218.32.179:18000/play/a01r
+#EXTINF:-1  group-title="Казахстан"  tvg-id="sony-tv" ,.Red
+http://89.218.32.179:18000/play/a01p
+#EXTINF:-1  group-title="Казахстан"  tvg-id="sony-scifi" ,.Sci-Fi
+http://89.218.32.179:18000/play/a01q
+#EXTINF:-1  group-title="Казахстан"  tvg-id="start-air" ,START Air
+http://89.218.32.179:18000/play/a03s
+#EXTINF:-1  group-title="Казахстан"  tvg-id="tvxxi" ,TV XXI
+http://89.218.32.179:18000/play/a04d
+#EXTINF:-1  group-title="Казахстан"  tvg-id="muzhskoe-kino" ,МУЖСКОЕ КИНО
+http://89.218.32.179:18000/play/a03o
+#EXTINF:-1  group-title="Казахстан" ,24 KZ
+http://89.218.32.179:18000/play/a008
+#EXTINF:-1  group-title="Казахстан"  tvg-id="4fun-dance" ,4Fun Dance
+http://89.218.32.179:18000/play/a016
+#EXTINF:-1  group-title="Казахстан"  tvg-id="4fun-gold" ,4Fun Kids
+http://89.218.32.179:18000/play/a015
+#EXTINF:-1  group-title="Казахстан"  tvg-id="4fun" ,4Fun.TV
+http://89.218.32.179:18000/play/a014
+#EXTINF:-1  group-title="Казахстан"  tvg-id="cctv4" ,CCTV4
+http://89.218.32.179:18000/play/a020
+#EXTINF:-1  group-title="Казахстан"  tvg-id="cgtn" ,CGTN
+http://89.218.32.179:18000/play/a00t
+#EXTINF:-1  group-title="Казахстан"  tvg-id="kazakhstan" ,QAZAQSTAN
+http://89.218.32.179:18000/play/a005
+#EXTINF:-1  group-title="Казахстан"  tvg-id="rbk" ,РБК
+http://89.218.32.179:18000/play/a02c
+#EXTINF:-1  group-title="Казахстан" ,RT DOC HD
+http://89.218.32.179:18000/play/a026
+#EXTINF:-1  group-title="Казахстан"  tvg-id="360-podmoskovie" ,360
+http://89.218.32.179:18000/play/a02d
+#EXTINF:-1  group-title="Казахстан"  tvg-id="avto24" ,Авто 24
+http://89.218.32.179:18000/play/a03d
+#EXTINF:-1  group-title="Казахстан"  tvg-id="domashny" ,Домашний
+http://89.218.32.179:18000/play/a01l
+#EXTINF:-1  group-title="Казахстан"  tvg-id="mir" ,МИР
+http://89.218.32.179:18000/play/a003
+#EXTINF:-1  group-title="Казахстан"  tvg-id="mir-24" ,Мир 24
+http://89.218.32.179:18000/play/a01t
+#EXTINF:-1  group-title="Казахстан" ,НВВ
+http://89.218.32.179:18000/play/a04f
+#EXTINF:-1  group-title="Казахстан" ,НИК
+http://89.218.32.179:18000/play/a03l
+#EXTINF:-1  group-title="Казахстан"  tvg-id="nst" ,НСТ
+http://89.218.32.179:18000/play/a03n
+#EXTINF:-1  group-title="Казахстан"  tvg-id="sts-love" ,СТС Love
+http://89.218.32.179:18000/play/a01m
+#EXTINF:-1  group-title="Казахстан"  tvg-id="sarafan" ,Сарафан
+http://89.218.32.179:18000/play/a03k
+#EXTINF:-1  group-title="Казахстан"  tvg-id="cinema-ru" ,Cinema
+http://89.218.32.179:18000/play/a043
+#EXTINF:-1  group-title="Казахстан" ,Хабар HD
+http://89.218.32.179:18000/play/a00a
+#EXTINF:-1  group-title="Казахстан"  tvg-id="che" ,Че
+http://89.218.32.179:18000/play/a04j
+#EXTINF:-1  group-title="Казахстан"  tvg-id="yu" ,Ю
+http://89.218.32.179:18000/play/a01i
+#EXTINF:-1  group-title="Казахстан"  tvg-id="tnt-music" ,ТНТ Music
+http://89.218.32.179:18000/play/a01j
+#EXTINF:-1  group-title="Казахстан"  tvg-id="muztv" ,МузТВ
+http://89.218.32.179:18000/play/a01n
+#EXTINF:-1  group-title="Казахстан"  tvg-id="bridge-tv" ,BRIDGE
+http://89.218.32.179:18000/play/a02k
+#EXTINF:-1  group-title="Казахстан"  tvg-id="bridge-tv-classic" ,BRIDGE TV CLASSIC
+http://89.218.32.179:18000/play/a02g
+#EXTINF:-1  group-title="Казахстан"  tvg-id="bridge-hd" ,BRIDGE TV DELUXE
+http://89.218.32.179:18000/play/a02m
+#EXTINF:-1  group-title="Казахстан"  tvg-id="bridge-tv-etno" ,BRIDGE TV Этно
+http://89.218.32.179:18000/play/a02n
+#EXTINF:-1  group-title="Казахстан"  tvg-id="bridge-tv-fresh" ,BRIDGE TV FRESH
+http://89.218.32.179:18000/play/a02j
+#EXTINF:-1  group-title="Казахстан"  tvg-id="bridge-tv-dance" ,BRIDGE TV HITS
+http://89.218.32.179:18000/play/a02f
+#EXTINF:-1  group-title="Казахстан"  tvg-id="bridge-tv-rock" ,BRIDGE TV ROCK
+http://89.218.32.179:18000/play/a02i
+#EXTINF:-1  group-title="Казахстан"  tvg-id="bridge-tv-ruxit" ,BRIDGE TV Русский Хит
+http://89.218.32.179:18000/play/a02l
+#EXTINF:-1  group-title="Казахстан"  tvg-id="bridge-tv-shlager" ,BRIDGE TV Шлягер
+http://89.218.32.179:18000/play/a02h
+#EXTINF:-1  group-title="Казахстан"  tvg-id="baby-time" ,BABY TIME
+http://89.218.32.179:18000/play/a028
+#EXTINF:-1  group-title="Казахстан"  tvg-id="mult" ,Мульт
+http://89.218.32.179:18000/play/a03j
+#EXTINF:-1  group-title="Казахстан"  tvg-id="multimuzyka" ,Мультимузыка
+http://89.218.32.179:18000/play/a03f
+#EXTINF:-1  group-title="Казахстан"  tvg-id="karusel" ,Карусель
+http://89.218.32.179:18000/play/a02r
 #EXTINF:-1  group-title="Армения" ,001 H1
 http://37.186.70.39:40/play/1/index.m3u8
 #EXTINF:-1  group-title="Армения" ,002  Shoghakat
@@ -6056,5 +6538,4 @@ http://185.78.112.47:8077/disney/index.m3u8
 http://185.78.112.47:8077/multimania/index.m3u8
 #EXTINF:-1  group-title="Маяк"  tvg-id="multimuzyka" ,Мультимузыка
 http://185.78.112.47:8077/strana/index.m3u8
-
 #EXT-X-ENDLIST
