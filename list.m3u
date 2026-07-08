@@ -513,6 +513,8 @@ https://flussonic.mkpnet.ru/tv-55c94e838b306657/video.m3u8
 http://213.91.179.28:8000/play/a0bg
 #EXTINF:-1  group-title="Познавательные"  tvg-id="rtg-int" ,RTG International
 http://213.91.179.28:8000/play/a0bw
+#EXTINF:-1  group-title="Познавательные"  tvg-id="animal-planet-eu" , ANIMAL PLANET
+https://stream8.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="sts"  tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6lqxNEqAYzmrVWyjg.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС", СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="tnt"  tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVvmoNr4jQPOGd7KJb.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТНТ", ТНТ
@@ -2252,6 +2254,48 @@ http://213.91.179.28:8000/play/a048
 http://213.91.179.28:8000/play/a03x
 #EXTINF:-1  group-title="Спортивные" ,BNT 4 
 http://213.91.179.28:8000/play/a04u
+#EXTINF:-1  group-title="Спортивные" , RED BULL TV HD
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+#EXTINF:-1  group-title="Спортивные" , X-STREAM
+http://iptv.prosto.tv:7000/ch313/video.m3u8?secret=cledwwov
+#EXTINF:-1  group-title="Спортивные"  tvg-id="eurosport1" , EUROSPORT 1
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/438238
+#EXTINF:-1  group-title="Спортивные"  tvg-id="eurosport2" , EUROSPORT 2
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/438235
+#EXTINF:-1  group-title="Спортивные" , ORF SPORT+
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/438226
+#EXTINF:-1  group-title="Спортивные" , SPORT1
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/438232
+#EXTINF:-1  group-title="Спортивные" , SKY BUNDESLIGA
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/432014
+#EXTINF:-1  group-title="Спортивные" , AMAZON PRIME SPORT
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/841369
+#EXTINF:-1  group-title="Спортивные" , DAZN SPORT 1
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/438277
+#EXTINF:-1  group-title="Спортивные" , DAZN SPORT 2
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/438272
+#EXTINF:-1  group-title="Спортивные" , DAZN 1
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/816196
+#EXTINF:-1  group-title="Спортивные" , DAZN 2
+http://sub.bentv.xyz:8080/VzGH6Qgece/qv798TRy64/816192
+#EXTINF:-1  group-title="Спортивные" , SKY SPORT MIX
+http://ua.online24.pm/play/745/37C481E09158DA0/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , SKY SPORT PREMIER LEAGUE
+http://ua.online24.pm/play/818/37C481E09158DA0/video.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="sky-sports-f1" , SKY SPORTS F1 HD
+http://ua.online24.pm/play/9923/37C481E09158DA0/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , BEIN SPORT HD
+http://99.27.51.147:8080/BeinSport/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-2" , BEIN SPORT 2 HD
+http://99.27.51.147:8080/BeinSport2/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="bein-sport-3" , BEIN SPORT 3 HD
+http://99.27.51.147:8080/BeinSport3/index.m3u8
+#EXTINF:-1  group-title="Спортивные"  tvg-id="sport1-lt" , SPORT 1 HD
+http://ua.online24.pm/play/976/37C481E09158DA0/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , ESPORTS 1
+http://ua.online24.pm/play/856/37C481E09158DA0/video.m3u8
+#EXTINF:-1  group-title="Спортивные" , REAL MADRID
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="muztv" ,МузТВ
 http://45.145.32.13:20440/muz_tv/index.m3u8?token=test
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-classic" , Bridge TV Classic
