@@ -257,6 +257,8 @@ http://45.145.32.13:20440/tvc/index.m3u8?token=test
 http://45.145.32.13:20440/zvezda/index.m3u8?token=test
 #EXTINF:-1  group-title="Эфирные"  tvg-id="zvezda-plus" ,Звезда Плюс
 http://45.145.32.13:20440/zvezdaplus/index.m3u8?token=test
+#EXTINF:-1  group-title="Эфирные"  tvg-id="vmeste-rf" ,Вместе-РФ
+https://flussonic.mkpnet.ru/tv-33b10cf41a3fb597/video.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="bolshaya-azia"  tvg-logo="https://app.playlistbox.com/icon/2q94OaJj6rD5gYx8yYM1ELBXGWRzPQ0A.png"   tvg-name="Большая Азия", Большая Азия
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="bolshaya-azia" , Большая Азия HD
@@ -607,6 +609,10 @@ http://ua.online24.pm/play/78/37C481E09158DA0/video.m3u8
 http://ua.online24.pm/play/119/37C481E09158DA0/video.m3u8
 #EXTINF:-1  group-title="Познавательные"  tvg-id="viasat-nature-history-hd" , VIJU+ PLANET HD
 http://ua.online24.pm/play/91/37C481E09158DA0/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="avto24" ,Авто24
+https://flussonic.mkpnet.ru/tv-a5fa84789fc4add5/video.m3u8
+#EXTINF:-1  group-title="Познавательные"  tvg-id="dialogi-o-rybalke" ,Диалоги о рыбалке
+https://flussonic.mkpnet.ru/tv-695a246cce5fb820/video.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="sts"  tvg-logo="https://app.playlistbox.com/icon/90B7b8PKO54QkGZ6lqxNEqAYzmrVWyjg.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="СТС", СТС
 http://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
 #EXTINF:-1  group-title="Развлекательные"  tvg-id="tnt"  tvg-logo="https://app.playlistbox.com/icon/W82YEm9Vw51D0poVvmoNr4jQPOGd7KJb.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-name="ТНТ", ТНТ
@@ -1047,6 +1053,10 @@ http://ua.online24.pm/play/85/37C481E09158DA0/video.m3u8
 http://ua.online24.pm/play/292/37C481E09158DA0/video.m3u8
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="sony-scifi" , .SCI-FI
 http://ua.online24.pm/play/102/37C481E09158DA0/video.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="vip-premiere" ,viju+ premiere
+https://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
+#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="sony-turbo" ,.Black
+https://flussonic.mkpnet.ru/tv-5aad8f3268a56002/video.m3u8
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rtbcdn.ru/video/2026-06-03/9e/c5/9ec570288740ee6560ee96a53ea152b0.jpg" , Зараза (2026)
 https://river-3-317.rtbcdn.ru/hls-vod/7CdHp4cGI2XB21PMttu83Q/1784392058/2219/0x5000c5007446ceeb/de88d82fd84f463a9a1d2d256246f3d2.mp4.m3u8?i=1920x800_2338
 #EXTINF:-1  group-title="Популярное кино"  tvg-logo="https://pic.rtbcdn.ru/video/2026-07-05/a0/67/a067f722efc7caa5f8443eaed89a88e9.jpg" , Любовь в ритме кантри (2026)
@@ -2256,6 +2266,8 @@ http://45.145.32.13:20440/nauka/index.m3u8?token=test
 http://45.145.32.13:20440/tiji/index.m3u8?token=test
 #EXTINF:-1  group-title="Детские"  tvg-id="gulli-girl" ,Gulli girl
 http://45.145.32.13:20440/gulli_girl/index.m3u8?token=test
+#EXTINF:-1  group-title="Детские"  tvg-id="2na2" ,2x2
+https://flussonic.mkpnet.ru/tv-17540fb90079a865/video.m3u8
 #EXTINF:-1  group-title="Спортивные"  tvg-id="match-tv"  tvg-logo="http://domnet.me/images/picons/tvico_n52.png"   catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Матч! ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
 #EXTINF:-1  group-title="Спортивные"  tvg-id="match-tv" , Матч! HD
@@ -2546,6 +2558,8 @@ http://ua.online24.pm/play/1103/37C481E09158DA0/video.m3u8
 http://ua.online24.pm/play/1104/37C481E09158DA0/video.m3u8
 #EXTINF:-1  group-title="Спортивные" , ESPN PREMIUM HD ИСПАНИЯ
 http://181.224.255.210:8001/play/a0pt/index.m3u8
+#EXTINF:-1  group-title="Спортивные" ,Матч! Футбол 3 SD
+http://185.57.68.33:8091/110/index.m3u8
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="muztv" ,МузТВ
 http://45.145.32.13:20440/muz_tv/index.m3u8?token=test
 #EXTINF:-1  group-title="Музыкальные"  tvg-id="bridge-tv-classic" , Bridge TV Classic
