@@ -663,8 +663,6 @@ http://cdn.wfc.tv/cdn/stream-eng-720p.m3u8
 http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="shot-tv" ,SHOT TV
 http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
-#EXTINF:-1  group-title="Кино и сериалы"  tvg-id="tvxxi" ,TV XXI
-http://31.210.208.171:8080/xxi/index.m3u8?token=+W2MSER
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="dorama" ,ДОРАМА
 http://31.210.208.171:8080/dorama/index.m3u8?token=+W2MSER
 #EXTINF:-1  group-title="Кино и сериалы"  tvg-id="evrokino" ,ЕВРОКИНО
