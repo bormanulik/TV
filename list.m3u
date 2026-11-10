@@ -1,6 +1,6 @@
 
 #EXTM3U 
-#EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от ", Обновление от 09.11.26
+#EXTINF:-1  group-title="Инфо"  tvg-logo="https://app.playlistbox.com/icon/lgyq19r83p50mxYAV4xVkQXvADRObGP7.png"   tvg-name="Обновление от ", Обновление от 10.11.26
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1  group-title="Эфирные"  tvg-id="pervy"  tvg-logo="https://krasnovosti.ru/online_tv/img/logo_channels/pervyi-kanal.jpg"   tvg-name="Первый канал", Первый канал
 http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -6983,6 +6983,709 @@ http://stream.mcquack.net/376/index.m3u8
 http://stream.mcquack.net/375/index.m3u8
 #EXTINF:-1  group-title="Тестовые"   tvg-rec="7" timeshift="7",One TV (Молдова)
 http://stream.mcquack.net/335/index.m3u8
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4682" tvg-logo="http://team.ga/images/chIcons/1030.png" tvg-rec="7",CineMan
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11004/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4683" tvg-logo="http://team.ga/images/chIcons/1031.png" tvg-rec="7",CineMan Top
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11005/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7485" tvg-logo="http://team.ga/images/chIcons/2142.png" group-title="Тестовые кино" tvg-rec="7",CineMan Premium
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20112/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4684" tvg-logo="http://team.ga/images/chIcons/1032.png" tvg-rec="7",CineMan Action
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11006/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4685" tvg-logo="http://team.ga/images/chIcons/1033.png" tvg-rec="7",CineMan Thriller
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11007/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5585" tvg-logo="http://team.ga/images/chIcons/1074.png" group-title="Тестовые кино" tvg-rec="7",CineMan Катастрофы
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15106/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4686" tvg-logo="http://epg.one/img2/4686.png" tvg-rec="7",CineMan Мелодрама
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11008/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4687" tvg-logo="http://team.ga/images/chIcons/1035.png" tvg-rec="7",CineMan Marvel
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11009/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4688" tvg-logo="http://team.ga/images/chIcons/1036.png" tvg-rec="7",CineMan Ужасы
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11010/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4689" tvg-logo="http://team.ga/images/chIcons/1037.png" tvg-rec="7",CineMan Комедия
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11011/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4690" tvg-logo="http://team.ga/images/chIcons/1038.png" tvg-rec="7",CineMan VHS
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11012/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4691" tvg-logo="http://team.ga/images/chIcons/1039.png" tvg-rec="7",CineMan РуКино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11013/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4692" tvg-logo="http://team.ga/images/chIcons/1040.png" tvg-rec="7",CineMan Сваты
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11014/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6052" tvg-logo="http://epg.one/img2/6052.png" group-title="Тестовые кино" tvg-rec="7",CineMan ПёС + Лихач
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/16064/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6053" tvg-logo="http://team.ga/images/chIcons/1327.png" group-title="Тестовые кино" tvg-rec="7",CineMan Лесник
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/16065/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5524" tvg-logo="http://team.ga/images/chIcons/1622.png" group-title="Тестовые кино" tvg-rec="7",CineMan Скорая Помощь
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15100/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7150" tvg-logo="http://team.ga/images/chIcons/2067.png" group-title="Тестовые кино" tvg-rec="7",CineMan MiniSeries
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19437/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="11881" tvg-logo="http://epg.one/img2/11881.png" group-title="Тестовые кино" tvg-rec="7",BCU Media 2 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/32220/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="11882" tvg-logo="http://epg.one/img2/11882.png" group-title="Тестовые кино" tvg-rec="7",BCU Media 3 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/32221/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4736" tvg-logo="http://team.ga/images/chIcons/782.png" tvg-rec="7",BCU Premiere 1 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11015/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4737" tvg-logo="http://team.ga/images/chIcons/783.png" tvg-rec="7",BCU Premiere 2 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11016/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4738" tvg-logo="http://team.ga/images/chIcons/784.png" tvg-rec="7",BCU Premiere 3 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11017/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4760" tvg-logo="http://team.ga/images/chIcons/778.png" tvg-rec="7",BCU Premiere HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11039/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4748" tvg-logo="http://team.ga/images/chIcons/769.png" tvg-rec="7",BCU Action HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11027/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4749" tvg-logo="http://team.ga/images/chIcons/770.png" tvg-rec="7",BCU Catastrophe HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11028/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4750" tvg-logo="http://epg.one/img2/4750.png" tvg-rec="7",BCU Cinema HDR
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11029/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4751" tvg-logo="http://team.ga/images/chIcons/834.png" tvg-rec="7",BCU Cinema+ HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11030/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4753" tvg-logo="http://team.ga/images/chIcons/773.png" tvg-rec="7",BCU Fantastic HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11032/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4754" tvg-logo="http://team.ga/images/chIcons/774.png" tvg-rec="7",BCU FilMystic HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11033/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4755" tvg-logo="http://team.ga/images/chIcons/775.png" tvg-rec="7",BCU History HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11034/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="8963" tvg-logo="http://team.ga/images/chIcons/772.png" tvg-rec="7",BCU Comedy HDR
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11031/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4761" tvg-logo="http://team.ga/images/chIcons/779.png" tvg-rec="7",BCU Romantic HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11040/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4758" tvg-logo="http://team.ga/images/chIcons/776.png" tvg-rec="7",BCU Kinorating HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11037/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4769" tvg-logo="http://team.ga/images/chIcons/827.png" tvg-rec="7",BCU Criminal HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11048/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="8964" tvg-logo="http://epg.one/img2/8964.png" tvg-rec="7",BCU Marvel HDR
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11038/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4765" tvg-logo="http://team.ga/images/chIcons/835.png" tvg-rec="7",BCU Stars HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11044/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4764" tvg-logo="http://team.ga/images/chIcons/790.png" tvg-rec="7",BCU Media HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11043/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6131" tvg-logo="http://team.ga/images/chIcons/785.png" group-title="Тестовые кино" tvg-rec="7",BCU Reality HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/16082/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6175" tvg-logo="http://team.ga/images/chIcons/1444.png" group-title="Тестовые кино" tvg-rec="7",BCU Survival HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17019/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6176" tvg-logo="http://team.ga/images/chIcons/1026.png" group-title="Тестовые кино" tvg-rec="7",BCU Cosmo HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17021/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6198" tvg-logo="http://team.ga/images/chIcons/1429.png" group-title="Тестовые кино" tvg-rec="7",BCU TruMotion HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17054/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4763" tvg-logo="http://team.ga/images/chIcons/781.png" tvg-rec="7",BCU VHS HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11042/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4747" tvg-logo="http://team.ga/images/chIcons/789.png" tvg-rec="7",BCU СССР HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11026/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4762" tvg-logo="http://team.ga/images/chIcons/780.png" tvg-rec="7",BCU Russian HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11041/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4767" tvg-logo="http://team.ga/images/chIcons/788.png" tvg-rec="7",BCU RuSerial HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11046/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4768" tvg-logo="http://team.ga/images/chIcons/145.png" tvg-rec="7",BCU Сваты HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11047/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6696" tvg-logo="http://team.ga/images/chIcons/3056.png" group-title="Тестовые кино" tvg-rec="7",BOX Franchise HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19274/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6697" tvg-logo="http://team.ga/images/chIcons/2292.png" group-title="Тестовые кино" tvg-rec="7",BOX Hybrid HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19275/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6834" tvg-logo="http://team.ga/images/chIcons/2285.png" group-title="Тестовые кино" tvg-rec="7",BOX Cyber HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19421/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6699" tvg-logo="http://team.ga/images/chIcons/2290.png" group-title="Тестовые кино" tvg-rec="7",BOX Gangster HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19277/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6700" tvg-logo="http://team.ga/images/chIcons/2296.png" group-title="Тестовые кино" tvg-rec="7",BOX Oscar HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19278/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6701" tvg-logo="http://team.ga/images/chIcons/2294.png" group-title="Тестовые кино" tvg-rec="7",BOX Memory HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19279/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6708" tvg-logo="http://team.ga/images/chIcons/2298.png" group-title="Тестовые кино" tvg-rec="7",BOX Relax 4K
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19283/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6705" tvg-logo="http://team.ga/images/chIcons/2302.png" group-title="Тестовые кино" tvg-rec="7",BOX Spy HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19285/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6832" tvg-logo="http://team.ga/images/chIcons/2305.png" group-title="Тестовые кино" tvg-rec="7",BOX Western HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19419/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6833" tvg-logo="http://team.ga/images/chIcons/2306.png" group-title="Тестовые кино" tvg-rec="7",BOX Zombie HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19420/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6704" tvg-logo="http://team.ga/images/chIcons/2289.png" group-title="Тестовые кино" tvg-rec="7",BOX Game HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19284/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7488" tvg-logo="http://team.ga/images/chIcons/2291.png" group-title="Тестовые кино" tvg-rec="7",BOX Ghost HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20154/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7490" tvg-logo="http://team.ga/images/chIcons/2287.png" group-title="Тестовые кино" tvg-rec="7",BOX Fantasy HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20156/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7493" tvg-logo="http://team.ga/images/chIcons/2313.png" group-title="Тестовые кино" tvg-rec="7",BOX Mayday HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20159/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6698" tvg-logo="http://team.ga/images/chIcons/2281.png" group-title="Тестовые кино" tvg-rec="7",BOX Anime HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19276/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6702" tvg-logo="http://team.ga/images/chIcons/2293.png" group-title="Тестовые кино" tvg-rec="7",BOX M.Serial HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19280/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6703" tvg-logo="http://team.ga/images/chIcons/2301.png" group-title="Тестовые кино" tvg-rec="7",BOX Serial HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19281/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4645" tvg-logo="http://epg.one/img2/4645.png" tvg-rec="7",VF Premiere
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10052/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4644" tvg-logo="http://epg.one/img2/4644.png" tvg-rec="7",VF Премьера
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10051/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4594" tvg-logo="http://epg.one/img2/4594.png" tvg-rec="7",VF Comedy
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10003/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4648" tvg-logo="http://epg.one/img2/4648.png" tvg-rec="7",VF Комедия
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10055/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4647" tvg-logo="http://epg.one/img2/4647.png" tvg-rec="7",VF Classic
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10054/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4646" tvg-logo="http://epg.one/img2/4646.png" tvg-rec="7",VF Классика
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10053/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4664" tvg-logo="http://epg.one/img2/4664.png" tvg-rec="7",VF Боевик
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10087/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4666" tvg-logo="http://epg.one/img2/4666.png" tvg-rec="7",VF Катастрофы
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10080/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="4792" tvg-logo="http://epg.one/img2/4792.png" group-title="Тестовые кино" tvg-rec="7",VF Detective
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11120/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4598" tvg-logo="http://epg.one/img2/4598.png" tvg-rec="7",VF Mystic
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10007/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="4793" tvg-logo="http://epg.one/img2/4793.png" group-title="Тестовые кино" tvg-rec="7",VF Fantastic
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11121/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4663" tvg-logo="http://epg.one/img2/4663.png" tvg-rec="7",VF Marvel
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10081/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5205" tvg-logo="http://epg.one/img2/5205.png" group-title="Тестовые кино" tvg-rec="7",VF Comics
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13092/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4591" tvg-logo="http://epg.one/img2/4591.png" tvg-rec="7",VF Adventure
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10000/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4596" tvg-logo="http://epg.one/img2/4596.png" tvg-rec="7",VF Fantasy
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10005/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5202" tvg-logo="http://epg.one/img2/5202.png" group-title="Тестовые кино" tvg-rec="7",VF Thriller
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13089/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5204" tvg-logo="http://epg.one/img2/5204.png" group-title="Тестовые кино" tvg-rec="7",VF История
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13091/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="4794" tvg-logo="http://epg.one/img2/4794.png" group-title="Тестовые кино" tvg-rec="7",VF Оскар
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11122/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4595" tvg-logo="http://epg.one/img2/4595.png" tvg-rec="7",VF Family
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10004/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4597" tvg-logo="http://epg.one/img2/4597.png" tvg-rec="7",VF Melodrama
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10006/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4599" tvg-logo="http://epg.one/img2/4599.png" tvg-rec="7",VF Ужасы
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10008/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4601" tvg-logo="http://epg.one/img2/4601.png" tvg-rec="7",VF Ужасы VHS
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10010/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5206" tvg-logo="http://epg.one/img2/5206.png" group-title="Тестовые кино" tvg-rec="7",VF Криминал
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13093/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="4791" tvg-logo="http://epg.one/img2/4791.png" group-title="Тестовые кино" tvg-rec="7",VF Art house
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11119/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="4789" tvg-logo="http://epg.one/img2/4789.png" group-title="Тестовые кино" tvg-rec="7",VF TOP Series
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11116/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="7663" tvg-logo="http://epg.one/img2/7663.png" tvg-rec="0",VF Концерты
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14159/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6823" tvg-logo="http://epg.one/img2/6823.png" group-title="Тестовые кино" tvg-rec="7",VF Netflix
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19427/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6824" tvg-logo="http://epg.one/img2/6824.png" group-title="Тестовые кино" tvg-rec="7",VF HBO
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19428/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5198" tvg-logo="http://epg.one/img2/5198.png" group-title="Тестовые кино" tvg-rec="7",VF Series
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13085/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6323" tvg-logo="http://epg.one/img2/6323.png" group-title="Тестовые кино" tvg-rec="7",VF Игра престолов
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18119/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5200" tvg-logo="http://epg.one/img2/5200.png" group-title="Тестовые кино" tvg-rec="7",VF Сериал
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13087/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5201" tvg-logo="http://epg.one/img2/5201.png" group-title="Тестовые кино" tvg-rec="7",VF Мыльные оперы
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13088/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4600" tvg-logo="http://epg.one/img2/4600.png" tvg-rec="7",VF VHS MIX
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10009/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6160" tvg-logo="http://epg.one/img2/6160.png" tvg-rec="0",VF Без цензуры
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17017/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6144" tvg-logo="http://epg.one/img2/6144.png" tvg-rec="0",VF Луи де Фюнес
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17000/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6145" tvg-logo="http://epg.one/img2/6145.png" tvg-rec="0",VF Чернобыль
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17001/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6146" tvg-logo="http://epg.one/img2/6146.png" tvg-rec="0",VF The X-Files
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17002/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6147" tvg-logo="http://epg.one/img2/6147.png" tvg-rec="0",VF Сверхъестественное
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17003/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6149" tvg-logo="http://epg.one/img2/6149.png" tvg-rec="0",VF Американская история ужасов
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17005/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6150" tvg-logo="http://epg.one/img2/6150.png" tvg-rec="0",VF Друзья
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17006/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6151" tvg-logo="http://epg.one/img2/6151.png" tvg-rec="0",VF СашаТаня
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17008/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6156" tvg-logo="http://epg.one/img2/6156.png" tvg-rec="0",VF Универ новая общага
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17013/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="5197" tvg-logo="http://epg.one/img2/5197.png" tvg-rec="0",VF Универ
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13084/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6153" tvg-logo="http://epg.one/img2/6153.png" tvg-rec="0",VF Наша Раша
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17010/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6706" tvg-logo="http://epg.one/img2/6706.png" tvg-rec="0",VF Однажды в России
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19286/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6152" tvg-logo="http://epg.one/img2/6152.png" tvg-rec="0",VF Джеки Чан
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17009/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6157" tvg-logo="http://epg.one/img2/6157.png" tvg-rec="0",VF Ходячие мертвецы
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17014/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6158" tvg-logo="http://epg.one/img2/6158.png" tvg-rec="0",VF Реальные пацаны
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17015/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="7279" tvg-logo="http://epg.one/img2/7279.png" tvg-rec="0",VF Теория большого взрыва
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15009/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6159" tvg-logo="http://epg.one/img2/6159.png" tvg-rec="0",VF Доктор Хаус
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17016/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="5207" tvg-logo="http://epg.one/img2/5207.png" tvg-rec="0",VF Клиника
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13094/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="5193" tvg-logo="http://epg.one/img2/5193.png" tvg-rec="0",VF Сваты
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13080/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="5196" tvg-logo="http://epg.one/img2/5196.png" tvg-rec="0",VF Воронины
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13083/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="5194" tvg-logo="http://epg.one/img2/5194.png" tvg-rec="0",VF Солдаты
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13081/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="5199" tvg-logo="http://epg.one/img2/5199.png" tvg-rec="0",VF След
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13086/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4665" tvg-logo="http://epg.one/img2/4665.png" tvg-rec="7",VF Военные
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10082/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4669" tvg-logo="http://epg.one/img2/4669.png" tvg-rec="7",VF Наша победа
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10083/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4670" tvg-logo="http://epg.one/img2/4670.png" tvg-rec="7",VF Фильмы СССР
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10085/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6155" tvg-logo="http://epg.one/img2/6155.png" group-title="Тестовые кино" tvg-rec="7",VF Эльдар Рязанов
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17012/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6148" tvg-logo="http://epg.one/img2/6148.png" group-title="Тестовые кино" tvg-rec="7",VF Леонид Гайдай
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17004/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4667" tvg-logo="http://epg.one/img2/4667.png" tvg-rec="7",VF Мосфильм
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10084/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6325" tvg-logo="http://epg.one/img2/6325.png" group-title="Тестовые кино" tvg-rec="7",VF Ленфильм
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18121/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6324" tvg-logo="http://epg.one/img2/6324.png" group-title="Тестовые кино" tvg-rec="7",VF Одесская киностудия
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18120/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6326" tvg-logo="http://epg.one/img2/6326.png" group-title="Тестовые кино" tvg-rec="7",VF Киностудия им. Горького
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18122/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6328" tvg-logo="http://epg.one/img2/6328.png" group-title="Тестовые кино" tvg-rec="7",VF Свердловская киностудия
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18124/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6327" tvg-logo="http://epg.one/img2/6327.png" group-title="Тестовые кино" tvg-rec="7",VF Рижская киностудия
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18123/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6329" tvg-logo="http://epg.one/img2/6329.png" group-title="Тестовые кино" tvg-rec="7",VF Беларусьфильм
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18125/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="5195" tvg-logo="http://epg.one/img2/5195.png" tvg-rec="0",VF Тайны следствия
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13082/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6417" tvg-logo="http://epg.one/img2/6417.png" tvg-rec="0",VF Уральские пельмени
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18198/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6418" tvg-logo="http://epg.one/img2/6418.png" tvg-rec="0",VF Кухня
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18199/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6419" tvg-logo="http://epg.one/img2/6419.png" tvg-rec="0",VF Баня
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18200/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="7277" tvg-logo="http://epg.one/img2/7277.png" tvg-rec="0",VF Секс в большом городе
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14224/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="7276" tvg-logo="http://epg.one/img2/7276.png" tvg-rec="0",VF Гарри Поттер
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14230/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="7275" tvg-logo="http://epg.one/img2/7275.png" tvg-rec="0",VF Карточный домик
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14221/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="7273" tvg-logo="http://epg.one/img2/7273.png" tvg-rec="7",VF Два с половиной человека
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10062/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="7272" tvg-logo="http://epg.one/img2/7272.png" tvg-rec="7",VF Бесстыжие
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10075/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="7270" tvg-logo="http://epg.one/img2/7270.png" tvg-rec="7",VF Владимир Высоцкий 
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/10066/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="7714" tvg-logo="http://epg.one/img2/7714.png" tvg-rec="0",VF Граиндхаус
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14158/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="7274" tvg-logo="http://epg.one/img2/7274.png" tvg-rec="0",VF Ёлки
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14222/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="7552" tvg-logo="http://epg.one/img2/7552.png" tvg-rec="0",VF Modern Talking
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14004/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="7553" tvg-logo="http://epg.one/img2/7553.png" tvg-rec="0",VF Britney Spears
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14005/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7278" tvg-logo="http://epg.one/img2/7278.png" group-title="Тестовые кино" tvg-rec="7",VF Disney Movie
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15010/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5981" tvg-logo="http://epg.one/img2/5981.png" group-title="Тестовые кино" tvg-rec="7",VF New Year
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15522/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5982" tvg-logo="http://epg.one/img2/5982.png" group-title="Тестовые кино" tvg-rec="7",VF С новым годом!
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15524/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6163" tvg-logo="http://epg.one/img2/6163.png" group-title="Тестовые кино" tvg-rec="7",VF Новогодний
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17035/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5124" tvg-logo="http://team.ga/images/chIcons/1216.png" group-title="Тестовые кино" tvg-rec="7",MM NewFilm 1 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13011/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5125" tvg-logo="http://team.ga/images/chIcons/1217.png" group-title="Тестовые кино" tvg-rec="7",MM NewFilm 2 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13012/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5126" tvg-logo="http://team.ga/images/chIcons/1218.png" group-title="Тестовые кино" tvg-rec="7",MM NewFilm 3 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13013/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5127" tvg-logo="http://team.ga/images/chIcons/1219.png" group-title="Тестовые кино" tvg-rec="7",MM NewFilm RU HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13014/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6064" tvg-logo="http://team.ga/images/chIcons/1323.png" group-title="Тестовые кино" tvg-rec="7",MM Classic HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/16085/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5140" tvg-logo="http://team.ga/images/chIcons/1232.png" group-title="Тестовые кино" tvg-rec="7",MM Боевик Classic HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13027/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5141" tvg-logo="http://team.ga/images/chIcons/1233.png" group-title="Тестовые кино" tvg-rec="7",MM Боевик HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13028/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5171" tvg-logo="http://team.ga/images/chIcons/1263.png" group-title="Тестовые кино" tvg-rec="7",MM Триллер HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13058/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5130" tvg-logo="http://team.ga/images/chIcons/1222.png" group-title="Тестовые кино" tvg-rec="7",MM UFO HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13017/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5147" tvg-logo="http://team.ga/images/chIcons/1239.png" group-title="Тестовые кино" tvg-rec="7",MM Катастрофа HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13034/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5152" tvg-logo="http://team.ga/images/chIcons/1244.png" group-title="Тестовые кино" tvg-rec="7",MM Криминал HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13039/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5161" tvg-logo="http://team.ga/images/chIcons/1254.png" group-title="Тестовые кино" tvg-rec="7",MM Приключения HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13048/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5157" tvg-logo="http://team.ga/images/chIcons/1249.png" group-title="Тестовые кино" tvg-rec="7",MM Мифология HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13044/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5146" tvg-logo="http://team.ga/images/chIcons/1238.png" group-title="Тестовые кино" tvg-rec="7",MM История HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13033/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5151" tvg-logo="http://team.ga/images/chIcons/1243.png" group-title="Тестовые кино" tvg-rec="7",MM Комедия HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13038/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5150" tvg-logo="http://team.ga/images/chIcons/1242.png" group-title="Тестовые кино" tvg-rec="7",MM Комедия Classic HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13037/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5210" tvg-logo="http://team.ga/images/chIcons/1274.png" group-title="Тестовые кино" tvg-rec="7",MM Семейный 1 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13097/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5211" tvg-logo="http://team.ga/images/chIcons/1270.png" group-title="Тестовые кино" tvg-rec="7",MM Семейный 2 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13098/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5175" tvg-logo="http://team.ga/images/chIcons/1267.png" group-title="Тестовые кино" tvg-rec="7",MM Фантастика HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13062/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5149" tvg-logo="http://team.ga/images/chIcons/1241.png" group-title="Тестовые кино" tvg-rec="7",MM Киберпанк HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13036/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5142" tvg-logo="http://team.ga/images/chIcons/1234.png" group-title="Тестовые кино" tvg-rec="7",MM Вестерн HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13029/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6065" tvg-logo="http://team.ga/images/chIcons/1324.png" group-title="Тестовые кино" tvg-rec="7",MM Драма HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/16086/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5172" tvg-logo="http://team.ga/images/chIcons/1264.png" group-title="Тестовые кино" tvg-rec="7",MM Ужастик HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13059/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5212" tvg-logo="http://team.ga/images/chIcons/1276.png" group-title="Тестовые кино" tvg-rec="7",MM Ужасы HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13099/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5215" tvg-logo="http://team.ga/images/chIcons/1275.png" group-title="Тестовые кино" tvg-rec="7",MM Ужасы Classic HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14128/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5160" tvg-logo="http://team.ga/images/chIcons/1252.png" group-title="Тестовые кино" tvg-rec="7",MM Погружение HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13047/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5166" tvg-logo="http://team.ga/images/chIcons/1258.png" group-title="Тестовые кино" tvg-rec="7",MM Скорость HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13053/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5122" tvg-logo="http://team.ga/images/chIcons/1214.png" group-title="Тестовые кино" tvg-rec="7",MM 007 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13009/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5123" tvg-logo="http://team.ga/images/chIcons/1215.png" group-title="Тестовые кино" tvg-rec="7",MM Love HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13010/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5176" tvg-logo="http://team.ga/images/chIcons/1268.png" group-title="Тестовые кино" tvg-rec="7",MM Фобия HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13063/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5145" tvg-logo="http://team.ga/images/chIcons/1237.png" group-title="Тестовые кино" tvg-rec="7",MM Затмение HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13032/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5174" tvg-logo="http://team.ga/images/chIcons/1266.png" group-title="Тестовые кино" tvg-rec="7",MM Синематограф HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13061/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5168" tvg-logo="http://team.ga/images/chIcons/1260.png" group-title="Тестовые кино" tvg-rec="7",MM Стивен Кинг HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13055/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6063" tvg-logo="http://team.ga/images/chIcons/1286.png" group-title="Тестовые кино" tvg-rec="7",MM Celebrity HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/16084/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5169" tvg-logo="http://team.ga/images/chIcons/1261.png" group-title="Тестовые кино" tvg-rec="7",MM Супергерои HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13056/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5138" tvg-logo="http://team.ga/images/chIcons/1230.png" group-title="Тестовые кино" tvg-rec="7",MM Грайндхаус HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13025/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5154" tvg-logo="http://team.ga/images/chIcons/1246.png" group-title="Тестовые кино" tvg-rec="7",MM Кунг-Фу HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13041/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5137" tvg-logo="http://team.ga/images/chIcons/1229.png" group-title="Тестовые кино" tvg-rec="7",MM Агата Кристи HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13024/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5158" tvg-logo="http://team.ga/images/chIcons/1250.png" group-title="Тестовые кино" tvg-rec="7",MM Нуар HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13045/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5170" tvg-logo="http://team.ga/images/chIcons/1262.png" group-title="Тестовые кино" tvg-rec="7",MM Flip UHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13057/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5209" tvg-logo="http://team.ga/images/chIcons/1273.png" group-title="Тестовые кино" tvg-rec="7",MM USSR Детектив HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13096/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5570" tvg-logo="http://team.ga/images/chIcons/1269.png" group-title="Тестовые кино" tvg-rec="7",MM USSR Приключения HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13060/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6413" tvg-logo="http://team.ga/images/chIcons/1621.png" group-title="Тестовые кино" tvg-rec="7",MM Translation HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18196/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6842" tvg-logo="http://team.ga/images/chIcons/1953.png" group-title="Тестовые кино" tvg-rec="7",MM OldSchool HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19413/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5132" tvg-logo="http://team.ga/images/chIcons/1224.png" group-title="Тестовые кино" tvg-rec="7",MM USSR Комедия HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13019/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="8001" tvg-logo="http://epg.one/img2/8001.png" group-title="Тестовые кино" tvg-rec="7",MM USSR Драма HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13022/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5131" tvg-logo="http://team.ga/images/chIcons/1223.png" group-title="Тестовые кино" tvg-rec="7",MM USSR 1941-1945 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13018/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5153" tvg-logo="http://team.ga/images/chIcons/1245.png" group-title="Тестовые кино" tvg-rec="7",MM Крутые 90-е HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13040/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5163" tvg-logo="http://team.ga/images/chIcons/1255.png" group-title="Тестовые кино" tvg-rec="7",MM Роскино HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13050/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5144" tvg-logo="http://team.ga/images/chIcons/1236.png" group-title="Тестовые кино" tvg-rec="7",MM Воронины HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13031/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5164" tvg-logo="http://team.ga/images/chIcons/1256.png" group-title="Тестовые кино" tvg-rec="7",MM Сваты HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13051/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5165" tvg-logo="http://team.ga/images/chIcons/1257.png" group-title="Тестовые кино" tvg-rec="7",MM Ситком HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13052/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5162" tvg-logo="http://team.ga/images/chIcons/1253.png" group-title="Тестовые кино" tvg-rec="7",MM Полицейский с Рублёвки HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13049/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5159" tvg-logo="http://team.ga/images/chIcons/1251.png" group-title="Тестовые кино" tvg-rec="7",MM Ситком 2.0 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13046/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6410" tvg-logo="http://team.ga/images/chIcons/1585.png" group-title="Тестовые кино" tvg-rec="7",MM Микромир HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18193/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6843" tvg-logo="http://epg.one/img2/6843.png" group-title="Тестовые кино" tvg-rec="7",MM Family Guy HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19414/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4719" tvg-logo="http://epg.one/img2/4719.png" tvg-rec="7",PG Premiere HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11094/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4720" tvg-logo="http://epg.one/img2/4720.png" tvg-rec="7",PG Premium HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11095/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="6836" tvg-logo="http://epg.one/img2/6836.png" tvg-rec="0",PG Insomnia HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19398/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4723" tvg-logo="http://epg.one/img2/4723.png" tvg-rec="7",PG Paradox HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11098/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4724" tvg-logo="http://epg.one/img2/4724.png" tvg-rec="7",PG Thriller HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11099/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4725" tvg-logo="http://epg.one/img2/4725.png" tvg-rec="7",PG Paradise HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11100/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4722" tvg-logo="http://epg.one/img2/4722.png" tvg-rec="7",PG Victory HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11097/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4721" tvg-logo="http://epg.one/img2/4721.png" tvg-rec="7",PG РуКино HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11096/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4726" tvg-logo="http://epg.one/img2/4726.png" tvg-rec="7",PG Serial HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11101/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4727" tvg-logo="http://epg.one/img2/4727.png" tvg-rec="7",PG USSR HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11102/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="5462" tvg-logo="http://epg.one/img2/5462.png" tvg-rec="0",PG VHS HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15000/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5446" tvg-logo="http://team.ga/images/chIcons/1308.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Best
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14236/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5362" tvg-logo="http://team.ga/images/chIcons/1303.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV New Кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14177/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5631" tvg-logo="http://team.ga/images/chIcons/1313.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Thriller
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15168/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5358" tvg-logo="http://team.ga/images/chIcons/1297.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Grand
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14171/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5586" tvg-logo="http://team.ga/images/chIcons/1310.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Adrenaline
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15105/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5984" tvg-logo="http://team.ga/images/chIcons/1312.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Adventure
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15510/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6007" tvg-logo="http://epg.one/img2/6007.png" group-title="Тестовые кино" tvg-rec="7",Citrus Marvel
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/16051/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7152" tvg-logo="http://team.ga/images/chIcons/2062.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Мелодрама
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19434/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6392" tvg-logo="http://epg.one/img2/6392.png" group-title="Тестовые кино" tvg-rec="7",Citrus History
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18139/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5434" tvg-logo="http://team.ga/images/chIcons/1306.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Трагичное
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14219/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5444" tvg-logo="http://team.ga/images/chIcons/1307.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Забавное
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14234/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5445" tvg-logo="http://team.ga/images/chIcons/1309.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Ковбойское
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14235/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5360" tvg-logo="http://team.ga/images/chIcons/1300.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Русские Фильмы
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14174/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5361" tvg-logo="http://team.ga/images/chIcons/1301.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Советские Фильмы
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14175/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7158" tvg-logo="http://team.ga/images/chIcons/2063.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Советские Фильмы 4K
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19435/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5983" tvg-logo="http://team.ga/images/chIcons/1311.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Oblivion
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15509/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6136" tvg-logo="http://epg.one/img2/6136.png" group-title="Тестовые кино" tvg-rec="7",Citrus Comedy
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/16151/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6137" tvg-logo="http://epg.one/img2/6137.png" group-title="Тестовые кино" tvg-rec="7",Citrus Inquest
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/16152/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5359" tvg-logo="http://team.ga/images/chIcons/1298.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV VHS
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/14172/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7884" tvg-logo="http://team.ga/images/chIcons/2455.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Netflix
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20163/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7886" tvg-logo="http://team.ga/images/chIcons/2457.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Best 60fps
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20165/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7885" tvg-logo="http://team.ga/images/chIcons/2456.png" group-title="Тестовые кино" tvg-rec="7",Yosso TV Disney
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20164/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5516" tvg-logo="http://team.ga/images/chIcons/1741.png" group-title="Тестовые кино" tvg-rec="7",Liberty DC FHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15087/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5519" tvg-logo="http://epg.one/img2/5519.png" group-title="Тестовые кино" tvg-rec="7",Liberty Марвел FHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15090/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5520" tvg-logo="http://epg.one/img2/5520.png" group-title="Тестовые кино" tvg-rec="7",Liberty Короткометражки FHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15091/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5521" tvg-logo="http://team.ga/images/chIcons/1748.png" group-title="Тестовые кино" tvg-rec="7",Liberty Мелодрамы FHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15095/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5522" tvg-logo="http://team.ga/images/chIcons/1749.png" group-title="Тестовые кино" tvg-rec="7",Liberty Боевики FHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15096/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5633" tvg-logo="http://team.ga/images/chIcons/1752.png" group-title="Тестовые кино" tvg-rec="7",Liberty Сваты FHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15164/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6057" tvg-logo="http://team.ga/images/chIcons/1754.png" group-title="Тестовые кино" tvg-rec="7",Liberty Комедии FHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/16054/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6058" tvg-logo="http://team.ga/images/chIcons/1755.png" group-title="Тестовые кино" tvg-rec="7",Liberty Сериалы FHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/16055/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6056" tvg-logo="http://epg.one/img2/6056.png" group-title="Тестовые кино" tvg-rec="7",Liberty Южный Парк FHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/16053/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6179" tvg-logo="http://team.ga/images/chIcons/1760.png" group-title="Тестовые кино" tvg-rec="7",Liberty Занавес  HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17028/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6856" tvg-logo="http://team.ga/images/chIcons/3439.png" group-title="Тестовые кино" tvg-rec="7",Liberty Фантастика FHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19403/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6739" tvg-logo="http://team.ga/images/chIcons/1777.png" group-title="Тестовые кино" tvg-rec="7",Liberty Наука FHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19305/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6729" tvg-logo="http://team.ga/images/chIcons/1779.png" group-title="Тестовые кино" tvg-rec="7",Liberty МиМ FHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19306/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7486" tvg-logo="http://epg.one/img2/7486.png" group-title="Тестовые кино" tvg-rec="7",Liberty Планктон FHD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20140/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5595" tvg-logo="http://team.ga/images/chIcons/1291.png" group-title="Тестовые кино" tvg-rec="7",MS Young Blood HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/16147/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5594" tvg-logo="http://team.ga/images/chIcons/1290.png" group-title="Тестовые кино" tvg-rec="7",MS Toons HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15138/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5605" tvg-logo="http://team.ga/images/chIcons/1288.png" group-title="Тестовые кино" tvg-rec="7",MS Crime HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15136/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5593" tvg-logo="http://team.ga/images/chIcons/1289.png" group-title="Тестовые кино" tvg-rec="7",MS Prisons HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/15137/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6105" tvg-logo="http://team.ga/images/chIcons/1722.png" group-title="Тестовые кино" tvg-rec="7",Fresh Cinema
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19287/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6711" tvg-logo="http://team.ga/images/chIcons/1723.png" group-title="Тестовые кино" tvg-rec="7",Fresh Comedy
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19289/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6712" tvg-logo="http://team.ga/images/chIcons/1727.png" group-title="Тестовые кино" tvg-rec="7",Fresh Premiere
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19290/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6713" tvg-logo="http://team.ga/images/chIcons/1724.png" group-title="Тестовые кино" tvg-rec="7",Fresh Family
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19291/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6714" tvg-logo="http://team.ga/images/chIcons/1728.png" group-title="Тестовые кино" tvg-rec="7",Fresh Rating
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19292/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6715" tvg-logo="http://team.ga/images/chIcons/1734.png" group-title="Тестовые кино" tvg-rec="7",Fresh VHS
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19293/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6716" tvg-logo="http://team.ga/images/chIcons/1725.png" group-title="Тестовые кино" tvg-rec="7",Fresh Fantastic
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19294/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6717" tvg-logo="http://team.ga/images/chIcons/1731.png" group-title="Тестовые кино" tvg-rec="7",Fresh Series
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19295/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6718" tvg-logo="http://team.ga/images/chIcons/1726.png" group-title="Тестовые кино" tvg-rec="7",Fresh Horror
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19296/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6719" tvg-logo="http://team.ga/images/chIcons/1721.png" group-title="Тестовые кино" tvg-rec="7",Fresh Adventure
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19297/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6720" tvg-logo="http://team.ga/images/chIcons/1729.png" group-title="Тестовые кино" tvg-rec="7",Fresh Romantic
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19298/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6721" tvg-logo="http://team.ga/images/chIcons/1730.png" group-title="Тестовые кино" tvg-rec="7",Fresh Russian
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19299/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6722" tvg-logo="http://team.ga/images/chIcons/1733.png" group-title="Тестовые кино" tvg-rec="7",Fresh Thriller
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19300/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6723" tvg-logo="http://team.ga/images/chIcons/1732.png" group-title="Тестовые кино" tvg-rec="7",Fresh Soviet
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19301/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6211" tvg-logo="http://epg.one/img2/6211.png" group-title="Тестовые кино" tvg-rec="7",Eye Modern HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17068/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6207" tvg-logo="http://epg.one/img2/6207.png" group-title="Тестовые кино" tvg-rec="7",Eye Media HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17064/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6208" tvg-logo="http://epg.one/img2/6208.png" group-title="Тестовые кино" tvg-rec="7",Eye Oscar HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17065/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6209" tvg-logo="http://epg.one/img2/6209.png" group-title="Тестовые кино" tvg-rec="7",Eye Frozen HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17066/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6210" tvg-logo="http://epg.one/img2/6210.png" group-title="Тестовые кино" tvg-rec="7",Eye Criminal HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/17067/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7909" tvg-logo="http://epg.one/img2/7909.png" group-title="Тестовые кино" tvg-rec="7",Eye History HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20217/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7910" tvg-logo="http://epg.one/img2/7910.png" group-title="Тестовые кино" tvg-rec="7",Eye Western HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20218/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7911" tvg-logo="http://epg.one/img2/7911.png" group-title="Тестовые кино" tvg-rec="7",Eye Drive HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20219/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7942" tvg-logo="http://epg.one/img2/7942.png" group-title="Тестовые кино" tvg-rec="7",Eye Cyber HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20220/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7908" tvg-logo="http://epg.one/img2/7908.png" group-title="Тестовые кино" tvg-rec="7",Eye Family HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20216/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6253" tvg-logo="http://team.ga/images/chIcons/1556.png" group-title="Тестовые кино" tvg-rec="7",Magic Action HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18066/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6252" tvg-logo="http://team.ga/images/chIcons/1562.png" group-title="Тестовые кино" tvg-rec="7",Magic Thriller HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18065/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6250" tvg-logo="http://team.ga/images/chIcons/1557.png" group-title="Тестовые кино" tvg-rec="7",Magic Comedy HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18063/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="7487" tvg-logo="http://team.ga/images/chIcons/2203.png" group-title="Тестовые кино" tvg-rec="7",Magic Adventure HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/20141/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6338" tvg-logo="http://team.ga/images/chIcons/1581.png" group-title="Тестовые кино" tvg-rec="7",Magic Love HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18171/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6337" tvg-logo="http://team.ga/images/chIcons/1582.png" group-title="Тестовые кино" tvg-rec="7",Magic Family HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18170/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6254" tvg-logo="http://team.ga/images/chIcons/1559.png" group-title="Тестовые кино" tvg-rec="7",Magic Galaxy HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18067/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6255" tvg-logo="http://team.ga/images/chIcons/1560.png" group-title="Тестовые кино" tvg-rec="7",Magic Horror HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18068/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6248" tvg-logo="http://team.ga/images/chIcons/1561.png" group-title="Тестовые кино" tvg-rec="7",Magic Karate HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18061/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="8754" tvg-logo="http://team.ga/images/chIcons/992.png" group-title="Тестовые кино" tvg-rec="7",Magic Russian HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31630/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6249" tvg-logo="http://team.ga/images/chIcons/1563.png" group-title="Тестовые кино" tvg-rec="7",Magic VHS HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18062/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6353" tvg-logo="http://epg.one/img2/6353.png" group-title="Тестовые кино" tvg-rec="7",Зал 1 (Триколор)
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18126/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6354" tvg-logo="http://epg.one/img2/6354.png" group-title="Тестовые кино" tvg-rec="7",Зал 2 (Триколор)
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18127/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6355" tvg-logo="http://epg.one/img2/6355.png" group-title="Тестовые кино" tvg-rec="7",Зал 3 (Триколор)
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18128/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6356" tvg-logo="http://epg.one/img2/6356.png" group-title="Тестовые кино" tvg-rec="7",Зал 4 (Триколор)
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18129/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6357" tvg-logo="http://epg.one/img2/6357.png" group-title="Тестовые кино" tvg-rec="7",Зал 5 (Триколор)
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18130/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6358" tvg-logo="http://epg.one/img2/6358.png" group-title="Тестовые кино" tvg-rec="7",Зал 6 (Триколор)
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18131/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6359" tvg-logo="http://epg.one/img2/6359.png" group-title="Тестовые кино" tvg-rec="7",Зал 7 (Триколор)
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18132/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6360" tvg-logo="http://epg.one/img2/6360.png" group-title="Тестовые кино" tvg-rec="7",Зал 8 (Триколор)
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18133/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6361" tvg-logo="http://epg.one/img2/6361.png" group-title="Тестовые кино" tvg-rec="7",Зал 9 (Триколор)
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18134/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6362" tvg-logo="http://epg.one/img2/6362.png" group-title="Тестовые кино" tvg-rec="7",Зал 10 (Триколор)
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18135/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6363" tvg-logo="http://epg.one/img2/6363.png" group-title="Тестовые кино" tvg-rec="7",Зал 11 (Триколор)
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18136/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6364" tvg-logo="http://epg.one/img2/6364.png" group-title="Тестовые кино" tvg-rec="7",Зал 12 (Триколор)
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18137/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="11311" tvg-logo="http://epg.one/img2/11311.png" tvg-rec="7",StrahTV Sky2000 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11054/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4693" tvg-logo="http://epg.one/img2/4693.png" tvg-rec="7",StrahTV The X-Files
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11055/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4777" tvg-logo="http://epg.one/img2/4777.png" tvg-rec="7",StrahTV Хит HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11064/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4776" tvg-logo="http://epg.one/img2/4776.png" tvg-rec="7",StrahTV VHS HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11059/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4694" tvg-logo="http://epg.one/img2/4694.png" tvg-rec="7",StrahTV Интерны ТВ
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11060/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4697" tvg-logo="http://epg.one/img2/4697.png" tvg-rec="7",StrahTV Универ ТВ
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11063/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4695" tvg-logo="http://epg.one/img2/4695.png" tvg-rec="7",StrahTV СССР
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11061/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4696" tvg-logo="http://epg.one/img2/4696.png" tvg-rec="7",StrahTV Сваты
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11062/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4779" tvg-logo="http://epg.one/img2/4779.png" tvg-rec="7",StrahTV Страх HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11069/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-id="4780" tvg-logo="http://epg.one/img2/4780.png" tvg-rec="7",StrahTV Фантастика HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/11070/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",StrahTV Ольга HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31718/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",StrahTV Байки из склепа
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31711/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",StrahTV Громовы
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31712/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5118" tvg-logo="http://epg.one/img2/5118.png" group-title="Тестовые кино" tvg-rec="7",TOP MIX HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13006/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5116" tvg-logo="http://epg.one/img2/5116.png" group-title="Тестовые кино" tvg-rec="7",TOP Cinema HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13004/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5115" tvg-logo="http://epg.one/img2/5115.png" group-title="Тестовые кино" tvg-rec="7",TOP BUDO HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13003/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5113" tvg-logo="http://epg.one/img2/5113.png" group-title="Тестовые кино" tvg-rec="7",TOP Великолепный Век HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13001/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5114" tvg-logo="http://epg.one/img2/5114.png" group-title="Тестовые кино" tvg-rec="7",TOP 80 S HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13002/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="5117" tvg-logo="http://epg.one/img2/5117.png" group-title="Тестовые кино" tvg-rec="7",TOP USSR HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/13005/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6256" tvg-logo="http://epg.one/img2/6256.png" group-title="Тестовые кино" tvg-rec="7",Tviksel Кино 1 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18069/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6258" tvg-logo="http://epg.one/img2/6258.png" group-title="Тестовые кино" tvg-rec="7",Tviksel Кино 1 International
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18071/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6257" tvg-logo="http://epg.one/img2/6257.png" group-title="Тестовые кино" tvg-rec="7",Tviksel Кино 2 HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18070/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="6259" tvg-logo="http://epg.one/img2/6259.png" group-title="Тестовые кино" tvg-rec="7",Tviksel Военное кино HD
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/18072/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="107" tvg-logo="http://epg.one/img2/107.png" group-title="Тестовые кино" tvg-rec="7",MYTV HIT
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19410/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="104" tvg-logo="http://epg.one/img2/104.png" group-title="Тестовые кино" tvg-rec="7",MYTV
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19407/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="105" tvg-logo="http://epg.one/img2/105.png" group-title="Тестовые кино" tvg-rec="7",MYTV 2
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19408/index.m3u8?token=AlexSmartTV
+#EXTINF:0 tvg-id="106" tvg-logo="http://epg.one/img2/106.png" group-title="Тестовые кино" tvg-rec="7",MYTV 3
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/19411/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!History HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31695/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!Biography HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31697/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!Military HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31696/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!Adventure HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31698/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!Detective HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31699/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!Family HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31701/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!Drama HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31700/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!Fantasy HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31703/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!Russian HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31704/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!Science HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31705/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!Fun HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31706/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!Fantastic HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31702/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!Thriller HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31693/index.m3u8?token=AlexSmartTV
+#EXTINF:0 group-title="Тестовые кино" tvg-rec="7",Z!Action HD
+#EXTGRP:Тестовые кино
+http://45.156.223.203/iptv/N8XCZUBS8ZU8C6DXVU5MW58Z/31694/index.m3u8?token=AlexSmartTV
 #EXTINF:-1  group-title="Отт"  tvg-id="prikluchenia-hd" ,Приключения HD
 http://stream.mcquack.net/198/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  group-title="Отт"  tvg-id="national-geographic" ,National Geographic HD
