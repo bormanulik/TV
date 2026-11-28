@@ -6489,4 +6489,316 @@ https://stream8.cinerama.uz/1495/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1497/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Узбекистан"   audio-track="rus",S Cinema
 https://stream8.cinerama.uz/1498/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="kinohit" tvg-name="ANTENNA Кинохит" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kinohit/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Кинохит
+https://cdn.rostelekom-cdn.sbs/live/vlCdeFc0z42zLAnB.m3u8
+#EXTINF:-1 tvg-id="fantastika" tvg-name="ANTENNA Фантастика" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/fantastika/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Фантастика
+https://cdn.rostelekom-cdn.sbs/live/Xrwk9jYYFhkdyZ-b.m3u8
+#EXTINF:-1 tvg-id="premiera" tvg-name="ANTENNA Премьера" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/premiera/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Премьера
+https://cdn.rostelekom-cdn.sbs/live/blgXzlniUkYlfwlQ.m3u8
+#EXTINF:-1 tvg-id="triller" tvg-name="ANTENNA Триллер" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/triller/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Триллер
+https://cdn.rostelekom-cdn.sbs/live/JbQT8T_1v3dno78r.m3u8
+#EXTINF:-1 tvg-id="kriminal" tvg-name="ANTENNA Криминальная Россия" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kriminal/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Криминальная Россия
+https://cdn.rostelekom-cdn.sbs/live/KGJLbz0se9s_q7H2.m3u8
+#EXTINF:-1 tvg-id="komedii" tvg-name="ANTENNA Комедии" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/komedii/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Комедии
+https://cdn.rostelekom-cdn.sbs/live/fulUev5UY2h8pgZ4.m3u8
+#EXTINF:-1 tvg-id="boeviki" tvg-name="ANTENNA Боевики" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/boeviki/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Боевики
+https://cdn.rostelekom-cdn.sbs/live/CMKKP68lAWh5vJ0k.m3u8
+#EXTINF:-1 tvg-id="uzhasy" tvg-name="ANTENNA Ужасы" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/uzhasy/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Ужасы
+https://cdn.rostelekom-cdn.sbs/live/vNLXm8BQ5Lq4qcg3.m3u8
+#EXTINF:-1 tvg-id="melodramy" tvg-name="ANTENNA Мелодрамы" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/melodramy/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Мелодрамы
+https://cdn.rostelekom-cdn.sbs/live/JEemcShZ_L4YPU28.m3u8
+#EXTINF:-1 tvg-id="multfilmy" tvg-name="ANTENNA Мультфильмы" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/multfilmy/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Мультфильмы
+https://cdn.rostelekom-cdn.sbs/live/-r4tCWVkzXrXLvfm.m3u8
+#EXTINF:-1 tvg-id="voennye" tvg-name="ANTENNA Военные" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/voennye/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Военные
+https://cdn.rostelekom-cdn.sbs/live/sdJrputVIdMnllYB.m3u8
+#EXTINF:-1 tvg-id="detektivy" tvg-name="ANTENNA Детективы" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/detektivy/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Детективы
+https://cdn.rostelekom-cdn.sbs/live/ZnV9HiwF6L66cE0z.m3u8
+#EXTINF:-1 tvg-id="priklyucheniya" tvg-name="ANTENNA Приключения" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/priklyucheniya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Приключения
+https://cdn.rostelekom-cdn.sbs/live/RhrC3m8SabgHdSo4.m3u8
+#EXTINF:-1 tvg-id="fentezi" tvg-name="ANTENNA Фэнтези" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/fentezi/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Фэнтези
+https://cdn.rostelekom-cdn.sbs/live/Yngjiy8_8j-8LHOM.m3u8
+#EXTINF:-1 tvg-id="dlya-semi" tvg-name="ANTENNA Для всей семьи" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/dlya-semi/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Для всей семьи
+https://cdn.rostelekom-cdn.sbs/live/dDWgD8OT2gT5bNFd.m3u8
+#EXTINF:-1 tvg-id="detskoe" tvg-name="ANTENNA Детское кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/detskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Детское кино
+https://cdn.rostelekom-cdn.sbs/live/6mP3MMInozvddVyn.m3u8
+#EXTINF:-1 tvg-id="vesterny" tvg-name="ANTENNA Вестерны" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/vesterny/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Вестерны
+https://cdn.rostelekom-cdn.sbs/live/WfHMrT0ALgT-ODew.m3u8
+#EXTINF:-1 tvg-id="myuzikly" tvg-name="ANTENNA Мюзиклы" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/myuzikly/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Мюзиклы
+https://cdn.rostelekom-cdn.sbs/live/eyFP6Y3sdY_TJNlY.m3u8
+#EXTINF:-1 tvg-id="biografii" tvg-name="ANTENNA Биографии" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/biografii/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Биографии
+https://cdn.rostelekom-cdn.sbs/live/FKojTUxCF4_hR3PL.m3u8
+#EXTINF:-1 tvg-id="istoriya" tvg-name="ANTENNA История" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/istoriya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - История
+https://cdn.rostelekom-cdn.sbs/live/vHPXc8aYGAWd33yP.m3u8
+#EXTINF:-1 tvg-id="sport-kino" tvg-name="ANTENNA Спорт-кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/sport-kino/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Спорт-кино
+https://cdn.rostelekom-cdn.sbs/live/Ixu35orzmA1Xqybn.m3u8
+#EXTINF:-1 tvg-id="dokumentalnoe" tvg-name="ANTENNA Документальное" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/dokumentalnoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Документальное
+https://cdn.rostelekom-cdn.sbs/live/Tr_EoAp_INAeKUpI.m3u8
+#EXTINF:-1 tvg-id="anime" tvg-name="ANTENNA Аниме" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/anime/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Аниме
+https://cdn.rostelekom-cdn.sbs/live/YqX-FM8rUvwU2VlQ.m3u8
+#EXTINF:-1 tvg-id="sovetskie-komedii" tvg-name="ANTENNA Советские комедии" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/sovetskie-komedii/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Советские комедии
+https://cdn.rostelekom-cdn.sbs/live/domc4vNAQiOkVADH.m3u8
+#EXTINF:-1 tvg-id="sovetskoe" tvg-name="ANTENNA Советское кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/sovetskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Советское кино
+https://cdn.rostelekom-cdn.sbs/live/WpPgqMhlr3kbcAGQ.m3u8
+#EXTINF:-1 tvg-id="vov" tvg-name="ANTENNA Великая Отечественная" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/vov/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Великая Отечественная
+https://cdn.rostelekom-cdn.sbs/live/oRkeL0SqJ1e9SL2a.m3u8
+#EXTINF:-1 tvg-id="skazki" tvg-name="ANTENNA Сказки" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/skazki/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Сказки
+https://cdn.rostelekom-cdn.sbs/live/us9v4q142PZGCnxk.m3u8
+#EXTINF:-1 tvg-id="rossiyskoe" tvg-name="ANTENNA Российское кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/rossiyskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Российское кино
+https://cdn.rostelekom-cdn.sbs/live/LZfshuxUjPBZRNC7.m3u8
+#EXTINF:-1 tvg-id="indiyskoe" tvg-name="ANTENNA Индийское кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/indiyskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Индийское кино
+https://cdn.rostelekom-cdn.sbs/live/Q_s6CWr1JxeynUMQ.m3u8
+#EXTINF:-1 tvg-id="kriminal-film" tvg-name="ANTENNA Криминал" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kriminal-film/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Криминал
+https://cdn.rostelekom-cdn.sbs/live/CblY04LUmjiCVTUU.m3u8
+#EXTINF:-1 tvg-id="aziatskie-uzhasy" tvg-name="ANTENNA Азиатские ужасы" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/aziatskie-uzhasy/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Азиатские ужасы
+https://cdn.rostelekom-cdn.sbs/live/OujBUSyaDMvp75iX.m3u8
+#EXTINF:-1 tvg-id="koreyskoe" tvg-name="ANTENNA Корейское кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/koreyskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Корейское кино
+https://cdn.rostelekom-cdn.sbs/live/WyBTFKR2TZ1S6hHu.m3u8
+#EXTINF:-1 tvg-id="yaponskoe" tvg-name="ANTENNA Японское кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/yaponskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Японское кино
+https://cdn.rostelekom-cdn.sbs/live/8UizFF0QDAC0bKDj.m3u8
+#EXTINF:-1 tvg-id="kitay" tvg-name="ANTENNA Китай и Гонконг" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kitay/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Китай и Гонконг
+https://cdn.rostelekom-cdn.sbs/live/-059wHY_1WOt23Hz.m3u8
+#EXTINF:-1 tvg-id="francuzskoe" tvg-name="ANTENNA Французское кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/francuzskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Французское кино
+https://cdn.rostelekom-cdn.sbs/live/Gh2HD_A2PHn8jAMs.m3u8
+#EXTINF:-1 tvg-id="italyanskoe" tvg-name="ANTENNA Итальянское кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/italyanskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Итальянское кино
+https://cdn.rostelekom-cdn.sbs/live/SZ7C4SIGO9F5aenh.m3u8
+#EXTINF:-1 tvg-id="britanskoe" tvg-name="ANTENNA Британское кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/britanskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Британское кино
+https://cdn.rostelekom-cdn.sbs/live/w1agkYAcQmP_enK_.m3u8
+#EXTINF:-1 tvg-id="ispanskoe" tvg-name="ANTENNA Испания и Латинская Америка" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/ispanskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Испания и Латинская Америка
+https://cdn.rostelekom-cdn.sbs/live/MDYpq8LO8H9SSnOd.m3u8
+#EXTINF:-1 tvg-id="skandinavskoe" tvg-name="ANTENNA Скандинавское кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/skandinavskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Скандинавское кино
+https://cdn.rostelekom-cdn.sbs/live/GtghG7VnSzM7V7Z9.m3u8
+#EXTINF:-1 tvg-id="nemeckoe" tvg-name="ANTENNA Немецкое кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/nemeckoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Немецкое кино
+https://cdn.rostelekom-cdn.sbs/live/s9iV0d-Vf9d6e9iB.m3u8
+#EXTINF:-1 tvg-id="boeviki-90s" tvg-name="ANTENNA Боевики 90-х" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/boeviki-90s/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Боевики 90-х
+https://cdn.rostelekom-cdn.sbs/live/JyVbI3qjxjOmH3Hx.m3u8
+#EXTINF:-1 tvg-id="80s" tvg-name="ANTENNA Кино 80-х" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/80s/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Кино 80-х
+https://cdn.rostelekom-cdn.sbs/live/2VUsBXNQtNI-d8c-.m3u8
+#EXTINF:-1 tvg-id="90s" tvg-name="ANTENNA Кино 90-х" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/90s/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Кино 90-х
+https://cdn.rostelekom-cdn.sbs/live/S7L0x8e8cObLi0yc.m3u8
+#EXTINF:-1 tvg-id="2000s" tvg-name="ANTENNA Кино 2000-х" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/2000s/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Кино 2000-х
+https://cdn.rostelekom-cdn.sbs/live/QSvoOrAv3KLqD8GU.m3u8
+#EXTINF:-1 tvg-id="novinki" tvg-name="ANTENNA Новинки" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/novinki/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Новинки
+https://cdn.rostelekom-cdn.sbs/live/ekBH31eCvkWqd2xB.m3u8
+#EXTINF:-1 tvg-id="retro-kino" tvg-name="ANTENNA Ретро" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/retro-kino/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Ретро
+https://cdn.rostelekom-cdn.sbs/live/WLKr_7gbwKP3t_7j.m3u8
+#EXTINF:-1 tvg-id="romkom" tvg-name="ANTENNA Романтические комедии" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/romkom/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Романтические комедии
+https://cdn.rostelekom-cdn.sbs/live/SUeT4Qb4B7M7f7V6.m3u8
+#EXTINF:-1 tvg-id="krimkom" tvg-name="ANTENNA Криминальные комедии" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/krimkom/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Криминальные комедии
+https://cdn.rostelekom-cdn.sbs/live/dipArnHaeCKd8TPZ.m3u8
+#EXTINF:-1 tvg-id="komedii-uzhasov" tvg-name="ANTENNA Комедии ужасов" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/komedii-uzhasov/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Комедии ужасов
+https://cdn.rostelekom-cdn.sbs/live/j1kN3vNrmxTqrEe-.m3u8
+#EXTINF:-1 tvg-id="mistika" tvg-name="ANTENNA Мистика" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/mistika/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Мистика
+https://cdn.rostelekom-cdn.sbs/live/WS2PIRGjmMZ9Vr0j.m3u8
+#EXTINF:-1 tvg-id="semeynye-komedii" tvg-name="ANTENNA Семейные комедии" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/semeynye-komedii/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Семейные комедии
+https://cdn.rostelekom-cdn.sbs/live/T8OKfQwINewbGqRU.m3u8
+#EXTINF:-1 tvg-id="novogodnee" tvg-name="ANTENNA Новогоднее кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/novogodnee/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Новогоднее кино
+https://cdn.rostelekom-cdn.sbs/live/yuQ8pNzm2sdXqcw-.m3u8
+#EXTINF:-1 tvg-id="realnye-sobytiya" tvg-name="ANTENNA По реальным событиям" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/realnye-sobytiya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - По реальным событиям
+https://cdn.rostelekom-cdn.sbs/live/SIz08uzDlMjJPedV.m3u8
+#EXTINF:-1 tvg-id="kosmos" tvg-name="ANTENNA Космос и будущее" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kosmos/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Космос и будущее
+https://cdn.rostelekom-cdn.sbs/live/azmF52GgMUXXWtCe.m3u8
+#EXTINF:-1 tvg-id="top-rating" tvg-name="ANTENNA Высокий рейтинг" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/top-rating/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Высокий рейтинг
+https://cdn.rostelekom-cdn.sbs/live/DXtnYCS6ncFUaeTa.m3u8
+#EXTINF:-1 tvg-id="psy-trillery" tvg-name="ANTENNA Психологические триллеры" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/psy-trillery/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Психологические триллеры
+https://cdn.rostelekom-cdn.sbs/live/Lk2hIPauD5eKfXeO.m3u8
+#EXTINF:-1 tvg-id="shpionskoe" tvg-name="ANTENNA Шпионское кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/shpionskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Шпионское кино
+https://cdn.rostelekom-cdn.sbs/live/_YtXN3-Jku7jxc7I.m3u8
+#EXTINF:-1 tvg-id="katastrofy" tvg-name="ANTENNA Фильмы-катастрофы" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/katastrofy/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Фильмы-катастрофы
+https://cdn.rostelekom-cdn.sbs/live/wV5PrWCmXS3Z0390.m3u8
+#EXTINF:-1 tvg-id="vyzhivanie" tvg-name="ANTENNA Выживание" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/vyzhivanie/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Выживание
+https://cdn.rostelekom-cdn.sbs/live/xZPglW7GH2fhGRDo.m3u8
+#EXTINF:-1 tvg-id="ogrableniya" tvg-name="ANTENNA Ограбления" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/ogrableniya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Ограбления
+https://cdn.rostelekom-cdn.sbs/live/jkO6eZS4UKe4QdGc.m3u8
+#EXTINF:-1 tvg-id="tyurma" tvg-name="ANTENNA Тюрьма и побег" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/tyurma/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Тюрьма и побег
+https://cdn.rostelekom-cdn.sbs/live/ZKrUG_fPBNKzZflp.m3u8
+#EXTINF:-1 tvg-id="mafiya" tvg-name="ANTENNA Мафия и гангстеры" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/mafiya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Мафия и гангстеры
+https://cdn.rostelekom-cdn.sbs/live/FMTy8anzIGArGEwN.m3u8
+#EXTINF:-1 tvg-id="sudebnye" tvg-name="ANTENNA Судебные драмы" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/sudebnye/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Судебные драмы
+https://cdn.rostelekom-cdn.sbs/live/LyCIeCz19_iLBSSk.m3u8
+#EXTINF:-1 tvg-id="monstry" tvg-name="ANTENNA Монстры и зомби" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/monstry/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Монстры и зомби
+https://cdn.rostelekom-cdn.sbs/live/pBn8BBA05KpFPT94.m3u8
+#EXTINF:-1 tvg-id="supergeroi" tvg-name="ANTENNA Супергерои" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/supergeroi/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Супергерои
+https://cdn.rostelekom-cdn.sbs/live/-CUgiaZxbAk2eMY6.m3u8
+#EXTINF:-1 tvg-id="boevye-iskusstva" tvg-name="ANTENNA Боевые искусства" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/boevye-iskusstva/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Боевые искусства
+https://cdn.rostelekom-cdn.sbs/live/CrcxkQfy9VYVDojF.m3u8
+#EXTINF:-1 tvg-id="podrostki" tvg-name="ANTENNA Подростковое кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/podrostki/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Подростковое кино
+https://cdn.rostelekom-cdn.sbs/live/3_8dB72wVD2pM0Vs.m3u8
+#EXTINF:-1 tvg-id="noir" tvg-name="ANTENNA Нуар" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/noir/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Нуар
+https://cdn.rostelekom-cdn.sbs/live/0dbJO3wR2aIuo8jv.m3u8
+#EXTINF:-1 tvg-id="zhenskoe" tvg-name="ANTENNA Женское кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/zhenskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Женское кино
+https://cdn.rostelekom-cdn.sbs/live/8hUqzAFgTPxzOUkp.m3u8
+#EXTINF:-1 tvg-id="epos" tvg-name="ANTENNA Эпосы и легенды" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/epos/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Эпосы и легенды
+https://cdn.rostelekom-cdn.sbs/live/edHuPooVHrTMBQ1H.m3u8
+#EXTINF:-1 tvg-id="pro-zhivotnyh" tvg-name="ANTENNA Про животных" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/pro-zhivotnyh/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Про животных
+https://cdn.rostelekom-cdn.sbs/live/vSMGN-JbHZyBG2wN.m3u8
+#EXTINF:-1 tvg-id="gollivud-klassika" tvg-name="ANTENNA Голливудская классика" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/gollivud-klassika/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Голливудская классика
+https://cdn.rostelekom-cdn.sbs/live/LJDBtZavTq8dS7k1.m3u8
+#EXTINF:-1 tvg-id="tureckoe" tvg-name="ANTENNA Турецкое кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/tureckoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Турецкое кино
+https://cdn.rostelekom-cdn.sbs/live/LYP3Mho9L9ISMRvB.m3u8
+#EXTINF:-1 tvg-id="kanada-avstraliya" tvg-name="ANTENNA Канада и Австралия" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kanada-avstraliya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Канада и Австралия
+https://cdn.rostelekom-cdn.sbs/live/K0Mk0PuEAMtXfy4A.m3u8
+#EXTINF:-1 tvg-id="vostochnaya-evropa" tvg-name="ANTENNA Восточная Европа" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/vostochnaya-evropa/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Восточная Европа
+https://cdn.rostelekom-cdn.sbs/live/kR1RNwXvfnHbMGYu.m3u8
+#EXTINF:-1 tvg-id="70s" tvg-name="ANTENNA Кино 70-х" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/70s/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Кино 70-х
+https://cdn.rostelekom-cdn.sbs/live/tAZfknkEExk-URjh.m3u8
+#EXTINF:-1 tvg-id="2010s" tvg-name="ANTENNA Кино 2010-х" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/2010s/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Кино 2010-х
+https://cdn.rostelekom-cdn.sbs/live/q9npqitmjNPJaEup.m3u8
+#EXTINF:-1 tvg-id="ekranizacii" tvg-name="ANTENNA Экранизации" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/ekranizacii/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Экранизации
+https://cdn.rostelekom-cdn.sbs/live/RKRtUzNTeLbBIDK0.m3u8
+#EXTINF:-1 tvg-id="road-movie" tvg-name="ANTENNA Роуд-муви" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/road-movie/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Роуд-муви
+https://cdn.rostelekom-cdn.sbs/live/jazkWsPIL4G4UxpF.m3u8
+#EXTINF:-1 tvg-id="komedii-boeviki" tvg-name="ANTENNA Комедийные боевики" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/komedii-boeviki/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Комедийные боевики
+https://cdn.rostelekom-cdn.sbs/live/eqRusWOAUBB1_NWm.m3u8
+#EXTINF:-1 tvg-id="russkie-melodramy" tvg-name="ANTENNA Русские мелодрамы" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/russkie-melodramy/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Русские мелодрамы
+https://cdn.rostelekom-cdn.sbs/live/6Zk_Joeb-oC-kIJG.m3u8
+#EXTINF:-1 tvg-id="amoral" tvg-name="ANTENNA Аморал" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/amoral/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Аморал
+https://cdn.rostelekom-cdn.sbs/live/ZFmUHaOqAYWPX2hX.m3u8
+#EXTINF:-1 tvg-id="russkie-komedii" tvg-name="ANTENNA Российские комедии" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/russkie-komedii/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Российские комедии
+https://cdn.rostelekom-cdn.sbs/live/7iXHaVQsyyJhr9-G.m3u8
+#EXTINF:-1 tvg-id="sovetskie-detektivy" tvg-name="ANTENNA Советские детективы" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/sovetskie-detektivy/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Советские детективы
+https://cdn.rostelekom-cdn.sbs/live/Mu1sKSmeLWTlhHgh.m3u8
+#EXTINF:-1 tvg-id="aziatskie-boeviki" tvg-name="ANTENNA Азиатские боевики" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/aziatskie-boeviki/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Азиатские боевики
+https://cdn.rostelekom-cdn.sbs/live/58lpE2GiC6ZWM3yy.m3u8
+#EXTINF:-1 tvg-id="retro-fantastika" tvg-name="ANTENNA Ретро-фантастика" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/retro-fantastika/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Ретро-фантастика
+https://cdn.rostelekom-cdn.sbs/live/LGIMx9sPoTKpr9zm.m3u8
+#EXTINF:-1 tvg-id="eshe-soldaty" tvg-name="ещё Солдаты" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-soldaty/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Солдаты
+https://cdn.rostelekom-cdn.sbs/live/o0-EuaX8copdI47K.m3u8
+#EXTINF:-1 tvg-id="eshe-interny" tvg-name="ещё Интерны" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-interny/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Интерны
+https://cdn.rostelekom-cdn.sbs/live/UwFjR8BWBCaY4dhU.m3u8
+#EXTINF:-1 tvg-id="eshe-univer" tvg-name="ещё Универ" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-univer/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Универ
+https://cdn.rostelekom-cdn.sbs/live/hRkylz7ZlQfUbXu0.m3u8
+#EXTINF:-1 tvg-id="eshe-schastlivy-vmeste" tvg-name="ещё Счастливы вместе" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-schastlivy-vmeste/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Счастливы вместе
+https://cdn.rostelekom-cdn.sbs/live/86uKxnDoLve9ZSoi.m3u8
+#EXTINF:-1 tvg-id="eshe-papiny-dochki" tvg-name="ещё Папины дочки" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-papiny-dochki/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Папины дочки
+https://cdn.rostelekom-cdn.sbs/live/SduJJJZCSmCYKwyD.m3u8
+#EXTINF:-1 tvg-id="eshe-kuhnya" tvg-name="ещё Кухня" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-kuhnya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Кухня
+https://cdn.rostelekom-cdn.sbs/live/i9rzikRXtw-9PuBL.m3u8
+#EXTINF:-1 tvg-id="eshe-voroniny" tvg-name="ещё Воронины" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-voroniny/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Воронины
+https://cdn.rostelekom-cdn.sbs/live/DX3LUBHskSY-Xiwl.m3u8
+#EXTINF:-1 tvg-id="eshe-svaty" tvg-name="ещё Сваты" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-svaty/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Сваты
+https://cdn.rostelekom-cdn.sbs/live/72fK66eh5lJAzD5r.m3u8
+#EXTINF:-1 tvg-id="eshe-gluhar" tvg-name="ещё Глухарь" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-gluhar/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Глухарь
+https://cdn.rostelekom-cdn.sbs/live/QRNUBXg5fwuraVSI.m3u8
+#EXTINF:-1 tvg-id="eshe-ulicy-razbityh-fonarey" tvg-name="ещё Улицы разбитых фонарей" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-ulicy-razbityh-fonarey/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Улицы разбитых фонарей
+https://cdn.rostelekom-cdn.sbs/live/VI6ElcWfUI9lWqC5.m3u8
+#EXTINF:-1 tvg-id="eshe-mentovskie-voyny" tvg-name="ещё Ментовские войны" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-mentovskie-voyny/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Ментовские войны
+https://cdn.rostelekom-cdn.sbs/live/TWYtdjoscp5jTd37.m3u8
+#EXTINF:-1 tvg-id="eshe-sled" tvg-name="ещё След" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-sled/picon.png" group-title="Тестовые",ЧЕБУР ТВ - След
+https://cdn.rostelekom-cdn.sbs/live/kHDdaoMX1bvNB3Cv.m3u8
+#EXTINF:-1 tvg-id="eshe-tayny-sledstviya" tvg-name="ещё Тайны следствия" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-tayny-sledstviya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Тайны следствия
+https://cdn.rostelekom-cdn.sbs/live/4hFYHSP0r1yPmN2h.m3u8
+#EXTINF:-1 tvg-id="eshe-kamenskaya" tvg-name="ещё Каменская" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-kamenskaya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Каменская
+https://cdn.rostelekom-cdn.sbs/live/J9caM-gx-IovDIS2.m3u8
+#EXTINF:-1 tvg-id="eshe-banditskiy-peterburg" tvg-name="ещё Бандитский Петербург" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-banditskiy-peterburg/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Бандитский Петербург
+https://cdn.rostelekom-cdn.sbs/live/WSoNy3JfUgFm3san.m3u8
+#EXTINF:-1 tvg-id="eshe-brigada" tvg-name="ещё Бригада" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-brigada/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Бригада
+https://cdn.rostelekom-cdn.sbs/live/P6vmN-cWiVEpq_-h.m3u8
+#EXTINF:-1 tvg-id="eshe-vozvraschenie-muhtara" tvg-name="ещё Возвращение Мухтара" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-vozvraschenie-muhtara/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Возвращение Мухтара
+https://cdn.rostelekom-cdn.sbs/live/p5x4yGWnaMnJhznS.m3u8
+#EXTINF:-1 tvg-id="eshe-morskie-dyavoly" tvg-name="ещё Морские дьяволы" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-morskie-dyavoly/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Морские дьяволы
+https://cdn.rostelekom-cdn.sbs/live/QQqrDEEdUGzBKMOH.m3u8
+#EXTINF:-1 tvg-id="eshe-dalnoboyschiki" tvg-name="ещё Дальнобойщики" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-dalnoboyschiki/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Дальнобойщики
+https://cdn.rostelekom-cdn.sbs/live/Vb7n6Q2p0Ehl6bNH.m3u8
+#EXTINF:-1 tvg-id="eshe-pes" tvg-name="ещё Пёс" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-pes/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Пёс
+https://cdn.rostelekom-cdn.sbs/live/vag-cggwXOXKubst.m3u8
+#EXTINF:-1 tvg-id="eshe-realnye-pacany" tvg-name="ещё Реальные пацаны" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-realnye-pacany/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Реальные пацаны
+https://cdn.rostelekom-cdn.sbs/live/1-Iz-opObGiomZOp.m3u8
+#EXTINF:-1 tvg-id="eshe-fizruk" tvg-name="ещё Физрук" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-fizruk/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Физрук
+https://cdn.rostelekom-cdn.sbs/live/CfAld7nLPtZQ5uTC.m3u8
+#EXTINF:-1 tvg-id="eshe-sklifosovskiy" tvg-name="ещё Склифосовский" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-sklifosovskiy/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Склифосовский
+https://cdn.rostelekom-cdn.sbs/live/rNIVbXWWH4KqDKH5.m3u8
+#EXTINF:-1 tvg-id="eshe-ne-rodis-krasivoy" tvg-name="ещё Не родись красивой" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-ne-rodis-krasivoy/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Не родись красивой
+https://cdn.rostelekom-cdn.sbs/live/3HyIp5amAOzpVNYA.m3u8
+#EXTINF:-1 tvg-id="eshe-moya-prekrasnaya-nyanya" tvg-name="ещё Моя прекрасная няня" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-moya-prekrasnaya-nyanya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Моя прекрасная няня
+https://cdn.rostelekom-cdn.sbs/live/v-pqKgRrIesOL5l7.m3u8
+#EXTINF:-1 tvg-id="eshe-druzya" tvg-name="ещё Друзья" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-druzya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Друзья
+https://cdn.rostelekom-cdn.sbs/live/ATEgseh1c9NAmt1K.m3u8
+#EXTINF:-1 tvg-id="eshe-teoriya-bolshogo-vzryva" tvg-name="ещё Теория большого взрыва" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-teoriya-bolshogo-vzryva/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Теория большого взрыва
+https://cdn.rostelekom-cdn.sbs/live/wtfc-cZGzecH1NFg.m3u8
+#EXTINF:-1 tvg-id="eshe-doktor-haus" tvg-name="ещё Доктор Хаус" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-doktor-haus/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Доктор Хаус
+https://cdn.rostelekom-cdn.sbs/live/9c4e8IY_ngyQfMhf.m3u8
+#EXTINF:-1 tvg-id="eshe-klinika" tvg-name="ещё Клиника" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-klinika/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Клиника
+https://cdn.rostelekom-cdn.sbs/live/TU5pTK_ONmWjs5rH.m3u8
+#EXTINF:-1 tvg-id="eshe-kak-ya-vstretil-vashu-mamu" tvg-name="ещё Как я встретил вашу маму" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-kak-ya-vstretil-vashu-mamu/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Как я встретил вашу маму
+https://cdn.rostelekom-cdn.sbs/live/Ps3d9p51saeE_4v6.m3u8
+#EXTINF:-1 tvg-id="eshe-otchayannye-domohozyayki" tvg-name="ещё Отчаянные домохозяйки" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-otchayannye-domohozyayki/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Отчаянные домохозяйки
+https://cdn.rostelekom-cdn.sbs/live/3OrSwXBHTDxGvuFN.m3u8
+#EXTINF:-1 tvg-id="eshe-anatomiya-strasti" tvg-name="ещё Анатомия страсти" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-anatomiya-strasti/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Анатомия страсти
+https://cdn.rostelekom-cdn.sbs/live/hJ7Q3WneonQjSUeo.m3u8
+#EXTINF:-1 tvg-id="eshe-mentalist" tvg-name="ещё Менталист" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-mentalist/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Менталист
+https://cdn.rostelekom-cdn.sbs/live/Xx0-ieuGp7za1-ZB.m3u8
+#EXTINF:-1 tvg-id="eshe-kosti" tvg-name="ещё Кости" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-kosti/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Кости
+https://cdn.rostelekom-cdn.sbs/live/-IY_R1oMCnGpW9C8.m3u8
+#EXTINF:-1 tvg-id="eshe-kasl" tvg-name="ещё Касл" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-kasl/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Касл
+https://cdn.rostelekom-cdn.sbs/live/w6f9aekj4glDMWKl.m3u8
+#EXTINF:-1 tvg-id="eshe-myslit-kak-prestupnik" tvg-name="ещё Мыслить как преступник" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-myslit-kak-prestupnik/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Мыслить как преступник
+https://cdn.rostelekom-cdn.sbs/live/l_-ePrSYkrOGRsKL.m3u8
+#EXTINF:-1 tvg-id="eshe-vo-vse-tyazhkie" tvg-name="ещё Во все тяжкие" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-vo-vse-tyazhkie/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Во все тяжкие
+https://cdn.rostelekom-cdn.sbs/live/PGD3hz6O1oZTiRRx.m3u8
+#EXTINF:-1 tvg-id="eshe-velikolepnyy-vek" tvg-name="ещё Великолепный век" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-velikolepnyy-vek/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Великолепный век
+https://cdn.rostelekom-cdn.sbs/live/XB8bfjyWe2wifwDx.m3u8
+#EXTINF:-1 tvg-id="eshe-postuchis-v-moyu-dver" tvg-name="ещё Постучись в мою дверь" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-postuchis-v-moyu-dver/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Постучись в мою дверь
+https://cdn.rostelekom-cdn.sbs/live/muB9A9wQjSNoS5PA.m3u8
+#EXTINF:-1 tvg-id="eshe-chernaya-lyubov" tvg-name="ещё Чёрная любовь" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/eshe-chernaya-lyubov/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Чёрная любовь
+https://cdn.rostelekom-cdn.sbs/live/C_jdf1kCgU0oxF4W.m3u8
+#EXTINF:-1 tvg-id="kadr-kino" tvg-name="КАДР Кино" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-kino/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Кино
+https://cdn.rostelekom-cdn.sbs/live/MXeF9XHjcpR-b1NV.m3u8
+#EXTINF:-1 tvg-id="kadr-hity" tvg-name="КАДР Хиты" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-hity/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Хиты
+https://cdn.rostelekom-cdn.sbs/live/XEbEJPmDzFb-Y_wb.m3u8
+#EXTINF:-1 tvg-id="kadr-novinki" tvg-name="КАДР Новинки" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-novinki/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Новинки
+https://cdn.rostelekom-cdn.sbs/live/2FiHZSrR7-ZBhbXY.m3u8
+#EXTINF:-1 tvg-id="kadr-rodnoe" tvg-name="КАДР Родное" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-rodnoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Родное
+https://cdn.rostelekom-cdn.sbs/live/gzTbuM_MKizPhfcY.m3u8
+#EXTINF:-1 tvg-id="kadr-sovetskoe" tvg-name="КАДР Советское" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-sovetskoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Советское
+https://cdn.rostelekom-cdn.sbs/live/ZJtWrG_0YpWHEuHL.m3u8
+#EXTINF:-1 tvg-id="kadr-detektiv" tvg-name="КАДР Детектив" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-detektiv/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Детектив
+https://cdn.rostelekom-cdn.sbs/live/r7JoSXLI8TOQ6Bb7.m3u8
+#EXTINF:-1 tvg-id="kadr-triller" tvg-name="КАДР Триллер" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-triller/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Триллер
+https://cdn.rostelekom-cdn.sbs/live/zPWW-tJa4ZswhxBB.m3u8
+#EXTINF:-1 tvg-id="kadr-uzhasy" tvg-name="КАДР Ужасы" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-uzhasy/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Ужасы
+https://cdn.rostelekom-cdn.sbs/live/bIEbmHHBLl-T1ZqE.m3u8
+#EXTINF:-1 tvg-id="kadr-boevik" tvg-name="КАДР Боевик" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-boevik/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Боевик
+https://cdn.rostelekom-cdn.sbs/live/g-AGw2EP4OvsbEou.m3u8
+#EXTINF:-1 tvg-id="kadr-komediya" tvg-name="КАДР Комедия" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-komediya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Комедия
+https://cdn.rostelekom-cdn.sbs/live/ngm5wF1ZWgcXuNwH.m3u8
+#EXTINF:-1 tvg-id="kadr-melodrama" tvg-name="КАДР Мелодрама" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-melodrama/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Мелодрама
+https://cdn.rostelekom-cdn.sbs/live/U_txZyiVkcKvOZf0.m3u8
+#EXTINF:-1 tvg-id="kadr-drama" tvg-name="КАДР Драма" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-drama/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Драма
+https://cdn.rostelekom-cdn.sbs/live/9t3fFqQURjfkH1gY.m3u8
+#EXTINF:-1 tvg-id="kadr-fantastika" tvg-name="КАДР Фантастика" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-fantastika/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Фантастика
+https://cdn.rostelekom-cdn.sbs/live/QtqfbskitISRp7bq.m3u8
+#EXTINF:-1 tvg-id="kadr-priklyucheniya" tvg-name="КАДР Приключения" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-priklyucheniya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Приключения
+https://cdn.rostelekom-cdn.sbs/live/a4nhRo601Xc9LTio.m3u8
+#EXTINF:-1 tvg-id="kadr-voennoe" tvg-name="КАДР Военное" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-voennoe/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Военное
+https://cdn.rostelekom-cdn.sbs/live/R8occPdE7CEEjtkk.m3u8
+#EXTINF:-1 tvg-id="kadr-nuar" tvg-name="КАДР Нуар" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-nuar/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Нуар
+https://cdn.rostelekom-cdn.sbs/live/y3RP4IEqqJ6qWnFT.m3u8
+#EXTINF:-1 tvg-id="kadr-arthaus" tvg-name="КАДР Артхаус" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-arthaus/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Артхаус
+https://cdn.rostelekom-cdn.sbs/live/UeRhPdXlAB7OM36F.m3u8
+#EXTINF:-1 tvg-id="kadr-kult" tvg-name="КАДР Культ" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-kult/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Культ
+https://cdn.rostelekom-cdn.sbs/live/XJE3BoDscreUSPxe.m3u8
+#EXTINF:-1 tvg-id="kadr-evropa" tvg-name="КАДР Европа" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-evropa/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Европа
+https://cdn.rostelekom-cdn.sbs/live/RR18vArL3yKRi_vC.m3u8
+#EXTINF:-1 tvg-id="kadr-anime" tvg-name="КАДР Аниме" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-anime/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Аниме
+https://cdn.rostelekom-cdn.sbs/live/ZcHe7l63n90R1azw.m3u8
+#EXTINF:-1 tvg-id="kadr-bollivud" tvg-name="КАДР Болливуд" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-bollivud/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Болливуд
+https://cdn.rostelekom-cdn.sbs/live/nAjzY9oU_iaK0f-O.m3u8
+#EXTINF:-1 tvg-id="kadr-turciya" tvg-name="КАДР Турция" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-turciya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Турция
+https://cdn.rostelekom-cdn.sbs/live/m3IieUUvE3aW-r-H.m3u8
+#EXTINF:-1 tvg-id="kadr-mult" tvg-name="КАДР Мульт" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-mult/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Мульт
+https://cdn.rostelekom-cdn.sbs/live/dlN9b_zc19rseebl.m3u8
+#EXTINF:-1 tvg-id="kadr-malyshi" tvg-name="КАДР Малыши" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-malyshi/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Малыши
+https://cdn.rostelekom-cdn.sbs/live/josLlRgte3-zuymS.m3u8
+#EXTINF:-1 tvg-id="kadr-semya" tvg-name="КАДР Семья" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-semya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Семья
+https://cdn.rostelekom-cdn.sbs/live/HyZZmNF3BeFwF6D1.m3u8
+#EXTINF:-1 tvg-id="kadr-dok" tvg-name="КАДР Док" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-dok/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Док
+https://cdn.rostelekom-cdn.sbs/live/OtK5b_57Vk63gtD0.m3u8
+#EXTINF:-1 tvg-id="kadr-nauka" tvg-name="КАДР Наука" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-nauka/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Наука
+https://cdn.rostelekom-cdn.sbs/live/rCOSD0VJIkdUJ4nT.m3u8
+#EXTINF:-1 tvg-id="kadr-istoriya" tvg-name="КАДР История" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-istoriya/picon.png" group-title="Тестовые",ЧЕБУР ТВ - История
+https://cdn.rostelekom-cdn.sbs/live/Y6NZxDBnRmUx4fBF.m3u8
+#EXTINF:-1 tvg-id="kadr-priroda" tvg-name="КАДР Природа" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-priroda/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Природа
+https://cdn.rostelekom-cdn.sbs/live/QzcDFXHhtPebhHXK.m3u8
+#EXTINF:-1 tvg-id="kadr-mir" tvg-name="КАДР Мир" tvg-logo="https://containercinema.b-cdn.net/ant-8e114372e7/antenna-channels/v1/kadr-mir/picon.png" group-title="Тестовые",ЧЕБУР ТВ - Мир
+https://cdn.rostelekom-cdn.sbs/live/PozL8HU5hRm1BjRO.m3u8
 #EXT-X-ENDLIST
